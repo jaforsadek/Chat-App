@@ -1,1 +1,1 @@
-export const post = {"id":"9781496011541","slug":"charisma-aliqua-animus","title":"Sodalitas delectus comis bibo peior angustus teneo.","text":"Sequi spoliatio amplexus. Ascit ullam fugit adaugeo cursus vos consuasor. Caterva adstringo caecus attero cohaero totam demitto asporto decor vigor."}
+export const post = {"id":"9781203861667","slug":"absens-doloremque-temptatio","title":"Summisse torrens inflammatio super agnosco.","text":"Argentum comptus bardus solutio iure commodi. Soleo cinis aranea coruscus fugit. Aegrus pecus enim venio armarium."}
