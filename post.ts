@@ -1,1 +1,1 @@
-export const post = {"id":"9781849754446","slug":"tabgo-delicate-expedita","title":"Benigne vel coma.","text":"Coniuratio adaugeo terreo dolor optio curto. Paens tondeo correptius corrupti super. Praesentium trado aduro talio desino ara carbo."}
+export const post = {"id":"9780642919151","slug":"speciosus-tremo-caterva","title":"Crustulum urbanus minima collum speculum sit clam corporis universe.","text":"Terra comminor quasi copia. Qui repudiandae pecus. Torqueo conforto soleo sodalitas tibi universe debitis impedit."}
