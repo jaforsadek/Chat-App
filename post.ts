@@ -1,1 +1,1 @@
-export const post = {"id":"9781550928129","slug":"pecus-beneficium-sperno","title":"Eum taceo apud suffragium contabesco sui tabgo creptio.","text":"Verbera socius damnatio laborum tabella. Consectetur doloremque amicitia magni sufficio demonstro conspergo voveo cribro arbor. Depulso arcesso degero."}
+export const post = {"id":"9781849754446","slug":"tabgo-delicate-expedita","title":"Benigne vel coma.","text":"Coniuratio adaugeo terreo dolor optio curto. Paens tondeo correptius corrupti super. Praesentium trado aduro talio desino ara carbo."}
