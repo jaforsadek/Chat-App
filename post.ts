@@ -1,1 +1,1 @@
-export const post = {"id":"9780762278138","slug":"arbustum-arx-assentator","title":"Quibusdam creo summa deprecator deludo dedecor ducimus addo.","text":"Pax truculenter coruscus derelinquo aeger triduana cauda. Synagoga ratione arbitro demoror atqui vox aer. Cimentarius cado arceo contabesco venustas abutor."}
+export const post = {"id":"9780334756620","slug":"sumptus-consequatur-deprecator","title":"Cilicium ipsum tamquam.","text":"Tergeo desparatus accusamus attollo canis solutio tametsi consequuntur aveho. Virtus adiuvo aegrus delectatio. Sint textus creptio aegrus."}
