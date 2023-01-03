@@ -1,1 +1,1 @@
-export const post = {"id":"9781339277219","slug":"patria-odit-conservo","title":"Volubilis vorax caritas tertius.","text":"Censura texo itaque vicinus vix utrimque caecus. Mollitia vulgivagus tyrannus creber currus umbra unde magnam. Auditor solutio tui accendo conatus."}
+export const post = {"id":"9781298996763","slug":"consectetur-tabula-alioqui","title":"Desidero colligo tenax sunt.","text":"Calco tricesimus angelus verbera. Culpa alioqui catena arguo cruciamentum terminatio. Suffoco calco averto suffoco conor asper."}
