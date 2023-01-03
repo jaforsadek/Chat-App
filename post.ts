@@ -1,1 +1,1 @@
-export const post = {"id":"9780553108446","slug":"vilicus-qui-copiose","title":"Cito amissio adipisci numquam quis tricesimus vitae.","text":"Stips synagoga texo capitulus deprecator tabesco tertius. Perspiciatis sed chirographum tabella. Vorax voveo comptus curatio suffragium constans."}
+export const post = {"id":"9780348157222","slug":"arx-denuo-assumenda","title":"Aedificium decor arbustum voco curriculum.","text":"Utique considero tamquam. Laudantium solium carbo arguo. Error inflammatio eaque ulterius astrum tunc aut testimonium."}
