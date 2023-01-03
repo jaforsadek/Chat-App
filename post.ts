@@ -1,1 +1,1 @@
-export const post = {"id":"9780433933731","slug":"cruciamentum-stipes-uter","title":"Universe tutamen ancilla.","text":"Eos distinctio ter studio substantia credo. Iusto vilitas conor terra conqueror tutis. Neque concido suus cur utrum."}
+export const post = {"id":"9780553108446","slug":"vilicus-qui-copiose","title":"Cito amissio adipisci numquam quis tricesimus vitae.","text":"Stips synagoga texo capitulus deprecator tabesco tertius. Perspiciatis sed chirographum tabella. Vorax voveo comptus curatio suffragium constans."}
