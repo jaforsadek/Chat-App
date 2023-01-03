@@ -1,1 +1,1 @@
-export const post = {"id":"9780270503494","slug":"nobis-titulus-vilitas","title":"Confugo eveniet conturbo tepesco ademptio decretum vesco.","text":"Vorax thermae solutio cotidie tubineus curso solum. Vere absum urbanus. Assentator alter crepusculum caelum pauci virtus bibo architecto solus."}
+export const post = {"id":"9781339277219","slug":"patria-odit-conservo","title":"Volubilis vorax caritas tertius.","text":"Censura texo itaque vicinus vix utrimque caecus. Mollitia vulgivagus tyrannus creber currus umbra unde magnam. Auditor solutio tui accendo conatus."}
