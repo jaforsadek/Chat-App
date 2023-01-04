@@ -1,1 +1,1 @@
-export const post = {"id":"9781298996763","slug":"consectetur-tabula-alioqui","title":"Desidero colligo tenax sunt.","text":"Calco tricesimus angelus verbera. Culpa alioqui catena arguo cruciamentum terminatio. Suffoco calco averto suffoco conor asper."}
+export const post = {"id":"9781705786338","slug":"crur-denuncio-curto","title":"Rerum velociter veritas.","text":"Architecto corrigo umbra terga volubilis sursum cunae anser cubitum tam. Voveo clarus laudantium. Via quo ter tamisium depulso celebrer tondeo cena."}
