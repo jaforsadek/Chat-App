@@ -1,1 +1,1 @@
-export const post = {"id":"9780332175768","slug":"clarus-custodia-attollo","title":"Solitudo vulgo voluptate decet.","text":"Adflicto curto patrocinor. Terga textor eius agnitio toties attero paulatim defero attollo. Conicio speculum considero tabgo laborum adnuo textilis."}
+export const post = {"id":"9780269282768","slug":"aegrus-cubo-confugo","title":"Tergiversatio brevis ratione aut dignissimos.","text":"Non collum bardus sequi comminor apud. Adamo at comminor arcesso adimpleo cena dolore. Dapifer cui ultio tabesco adfero."}
