@@ -1,1 +1,1 @@
-export const post = {"id":"9780938135715","slug":"abutor-adeo-velit","title":"Patior cultura admiratio amicitia depromo sit amo.","text":"Ventosus canonicus benevolentia paens. Ascit atque acquiro solio. Capio vicinus vitae abundans."}
+export const post = {"id":"9780332175768","slug":"clarus-custodia-attollo","title":"Solitudo vulgo voluptate decet.","text":"Adflicto curto patrocinor. Terga textor eius agnitio toties attero paulatim defero attollo. Conicio speculum considero tabgo laborum adnuo textilis."}
