@@ -1,1 +1,1 @@
-export const post = {"id":"9780837799322","slug":"cetera-aranea-ascisco","title":"Similique aliqua clibanus contigo terreo tenuis dedico degenero cado.","text":"Vergo volaticus tonsor provident bos cavus adhuc autem vigor artificiose. Mollitia vomica vorago paens charisma peccatus una solvo solitudo depereo. Textilis terebro tibi utrimque."}
+export const post = {"id":"9780938135715","slug":"abutor-adeo-velit","title":"Patior cultura admiratio amicitia depromo sit amo.","text":"Ventosus canonicus benevolentia paens. Ascit atque acquiro solio. Capio vicinus vitae abundans."}
