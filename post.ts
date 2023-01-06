@@ -1,1 +1,1 @@
-export const post = {"id":"9781771789691","slug":"tonsor-crapula-denique","title":"Correptius carpo cubitum deficio adficio beatae.","text":"Vicinus uterque tres approbo conduco ventus apparatus sto. Amaritudo aggero verus alius tersus approbo. Aptus decens verto."}
+export const post = {"id":"9781071380024","slug":"spes-amicitia-caelum","title":"Cilicium terga ante.","text":"Tutis compono conatus. Civitas amita corpus demum decipio. Audeo vobis clarus somniculosus officiis autus."}
