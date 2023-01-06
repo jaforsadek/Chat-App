@@ -1,1 +1,1 @@
-export const post = {"id":"9781582889979","slug":"adflicto-compono-tametsi","title":"Cruentus suscipio teneo defluo adopto comparo exercitationem speciosus degero.","text":"Comprehendo beneficium ventito. Tricesimus crapula vulgivagus. Quas asperiores cupiditate suscipio."}
+export const post = {"id":"9781771789691","slug":"tonsor-crapula-denique","title":"Correptius carpo cubitum deficio adficio beatae.","text":"Vicinus uterque tres approbo conduco ventus apparatus sto. Amaritudo aggero verus alius tersus approbo. Aptus decens verto."}
