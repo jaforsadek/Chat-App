@@ -1,1 +1,1 @@
-export const post = {"id":"9780269282768","slug":"aegrus-cubo-confugo","title":"Tergiversatio brevis ratione aut dignissimos.","text":"Non collum bardus sequi comminor apud. Adamo at comminor arcesso adimpleo cena dolore. Dapifer cui ultio tabesco adfero."}
+export const post = {"id":"9781582889979","slug":"adflicto-compono-tametsi","title":"Cruentus suscipio teneo defluo adopto comparo exercitationem speciosus degero.","text":"Comprehendo beneficium ventito. Tricesimus crapula vulgivagus. Quas asperiores cupiditate suscipio."}
