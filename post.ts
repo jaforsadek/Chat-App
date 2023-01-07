@@ -1,1 +1,1 @@
-export const post = {"id":"9781176496965","slug":"demo-laudantium-apostolus","title":"Aureus arx debitis coniuratio dolorum.","text":"Caput depulso venia acerbitas. Quibusdam pecto vomica audax brevis vix somnus. Defetiscor velit teneo deficio abscido iure corrigo."}
+export const post = {"id":"9780152747718","slug":"spargo-aperte-acer","title":"Acquiro venia damnatio harum cicuta.","text":"Armarium pauci ipsa creator. Dens coniecto cursus cogito tergeo videlicet nulla aranea perferendis. Caste tribuo acervus cogito carpo dicta beatus abeo."}
