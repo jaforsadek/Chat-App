@@ -1,1 +1,1 @@
-export const post = {"id":"9781175853448","slug":"pauper-incidunt-tenuis","title":"Dedico deludo utor.","text":"Cado pariatur thalassinus delectatio demulceo. Tergeo cohors vorax caveo decimus sufficio spargo. Totam denique tandem demitto armarium crinis charisma alter beneficium."}
+export const post = {"id":"9780741262134","slug":"attollo-talio-cohibeo","title":"Ultra arceo aperte velut suus crastinus curvo cauda sponte vulgaris.","text":"Asper aggredior terror demens victus culpo vilis. Amet catena denego odit aperiam. Deficio talis sufficio."}
