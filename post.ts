@@ -1,1 +1,1 @@
-export const post = {"id":"9781964330334","slug":"assumenda-verbum-eum","title":"Vesica uredo soleo caveo demitto molestiae congregatio.","text":"Damno venia atque avarus tero turpis tempora autus dens vaco. Villa voro tollo constans speciosus argentum turbo fuga cunae absorbeo. Eius apostolus defendo vester."}
+export const post = {"id":"9781452749129","slug":"adipisci-tantum-laboriosam","title":"Apto aliqua surculus acidus repellat vicinus.","text":"Vilis porro officia voluptatibus turbo. Attollo balbus cunctatio. Alter adfectus centum vinco."}
