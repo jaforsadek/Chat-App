@@ -1,1 +1,1 @@
-export const post = {"id":"9780741262134","slug":"attollo-talio-cohibeo","title":"Ultra arceo aperte velut suus crastinus curvo cauda sponte vulgaris.","text":"Asper aggredior terror demens victus culpo vilis. Amet catena denego odit aperiam. Deficio talis sufficio."}
+export const post = {"id":"9780285359123","slug":"contego-carus-ventito","title":"Uter umbra utroque cervus.","text":"Cras ducimus creator depulso voluntarius terror succurro demo. Avaritia veritatis reprehenderit bonus praesentium. Non tergo crapula creta quam."}
