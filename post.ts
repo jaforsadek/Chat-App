@@ -1,1 +1,1 @@
-export const post = {"id":"9781452749129","slug":"adipisci-tantum-laboriosam","title":"Apto aliqua surculus acidus repellat vicinus.","text":"Vilis porro officia voluptatibus turbo. Attollo balbus cunctatio. Alter adfectus centum vinco."}
+export const post = {"id":"9781957650029","slug":"virtus-vesica-vado","title":"Depereo apparatus textor amplitudo sono timidus ut deprimo nostrum.","text":"Vorax arceo canonicus autem sto adeo aro campana. Suffoco spero comes auctor centum aliquid. Suffragium speciosus demens adficio triduana totam consuasor."}
