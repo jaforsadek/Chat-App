@@ -1,1 +1,1 @@
-export const post = {"id":"9781025253008","slug":"suppono-laudantium-tredecim","title":"Aeger ea vacuus confero tot ultra.","text":"Denuncio thalassinus delibero cruciamentum voco. Vix victus quam. Repellat defessus calamitas clamo deleniti decipio atrox cultura."}
+export const post = {"id":"9780789301550","slug":"brevis-tepesco-iure","title":"Spero villa voluptatum volubilis.","text":"Sumo triumphus carpo urbanus absorbeo hic tremo. Annus summisse culpo tametsi corporis tenetur volutabrum conqueror. Terror tam vulpes officiis mollitia comburo ustilo nobis curiositas."}
