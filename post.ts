@@ -1,1 +1,1 @@
-export const post = {"id":"9780497797591","slug":"tabgo-vulariter-incidunt","title":"Turpis tutis centum confero animadverto.","text":"Creber teres speculum sto acidus tripudio. Dens verbera cattus thermae tutis. Succurro corrumpo corporis."}
+export const post = {"id":"9781023724036","slug":"excepturi-contego-tepidus","title":"Cibo utor stillicidium vis.","text":"Addo volutabrum stella tubineus mollitia. Corpus angulus vesica ager modi somniculosus ratione. Consuasor ater excepturi benigne collum depraedor usitas cogito aequus."}
