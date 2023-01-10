@@ -1,1 +1,1 @@
-export const post = {"id":"9781023724036","slug":"excepturi-contego-tepidus","title":"Cibo utor stillicidium vis.","text":"Addo volutabrum stella tubineus mollitia. Corpus angulus vesica ager modi somniculosus ratione. Consuasor ater excepturi benigne collum depraedor usitas cogito aequus."}
+export const post = {"id":"9781025253008","slug":"suppono-laudantium-tredecim","title":"Aeger ea vacuus confero tot ultra.","text":"Denuncio thalassinus delibero cruciamentum voco. Vix victus quam. Repellat defessus calamitas clamo deleniti decipio atrox cultura."}
