@@ -1,1 +1,1 @@
-export const post = {"id":"9780285359123","slug":"contego-carus-ventito","title":"Uter umbra utroque cervus.","text":"Cras ducimus creator depulso voluntarius terror succurro demo. Avaritia veritatis reprehenderit bonus praesentium. Non tergo crapula creta quam."}
+export const post = {"id":"9780497797591","slug":"tabgo-vulariter-incidunt","title":"Turpis tutis centum confero animadverto.","text":"Creber teres speculum sto acidus tripudio. Dens verbera cattus thermae tutis. Succurro corrumpo corporis."}
