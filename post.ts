@@ -1,1 +1,1 @@
-export const post = {"id":"9781268274938","slug":"crustulum-doloribus-nemo","title":"Cupiditas temptatio pecus crur.","text":"Ducimus vaco theatrum bos ipsum. Praesentium texo explicabo. Nesciunt ademptio testimonium thorax."}
+export const post = {"id":"9780837195407","slug":"textilis-conturbo-utrum","title":"Arx aedificium uxor aegrus comis umerus corrumpo denuo antiquus.","text":"Cornu vado corporis utpote defaeco versus cedo. Agnosco tabella clibanus adhuc cometes aegrotatio sophismata. Vilis conspergo arceo deprimo."}
