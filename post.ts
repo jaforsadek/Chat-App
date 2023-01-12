@@ -1,1 +1,1 @@
-export const post = {"id":"9781649058874","slug":"enim-perspiciatis-volo","title":"Brevis arcus terror vulticulus velut basium tamquam virtus crebro.","text":"Sopor tabella quasi perferendis asporto degenero. Abeo arbitro virga atrox demonstro sub adsidue artificiose capillus. Cogo comparo censura amitto solum cura."}
+export const post = {"id":"9780137596720","slug":"terga-aestas-considero","title":"Uberrime maxime suadeo aestivus.","text":"Spiritus teneo uxor fuga commodi verto. Conitor cedo apparatus. Vesica virga vivo comprehendo turba damno decipio subiungo."}
