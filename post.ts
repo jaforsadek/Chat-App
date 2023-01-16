@@ -1,1 +1,1 @@
-export const post = {"id":"9781627853460","slug":"dolore-coaegresco-dolor","title":"Ancilla maiores degenero barba defluo delectatio theatrum decretum itaque angulus.","text":"Accedo corona cognomen ducimus vereor tempore. Excepturi doloribus victoria. Validus cubitum pecto."}
+export const post = {"id":"9780479607245","slug":"succedo-administratio-tristis","title":"Civitas utroque auditor tempore.","text":"Admoneo triumphus cohors spectaculum facere ad alo. Absens conventus atque voveo tristis delectus tabula cunae aegrotatio thema. Adnuo cuppedia vestrum appono vulnero."}
