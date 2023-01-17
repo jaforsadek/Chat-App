@@ -1,1 +1,1 @@
-export const post = {"id":"9780479607245","slug":"succedo-administratio-tristis","title":"Civitas utroque auditor tempore.","text":"Admoneo triumphus cohors spectaculum facere ad alo. Absens conventus atque voveo tristis delectus tabula cunae aegrotatio thema. Adnuo cuppedia vestrum appono vulnero."}
+export const post = {"id":"9780004719276","slug":"admoneo-decet-teres","title":"Carmen venustas decet.","text":"Tripudio tergum pax molestias certe aestivus subseco. Textor hic sui vulariter clamo ascisco attonbitus thalassinus pauci statim. Appono arbor spes tabgo."}
