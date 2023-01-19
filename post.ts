@@ -1,1 +1,1 @@
-export const post = {"id":"9781138398603","slug":"creta-atrocitas-ara","title":"Taceo xiphias alii conculco vis ventus vulnero.","text":"Theatrum volubilis esse correptius. Nemo adipiscor clam ea tutis. Theca advenio sponte suppono apto."}
+export const post = {"id":"9780331778977","slug":"deprecator-suggero-spes","title":"Vox alii titulus enim quasi sophismata vicinus vestrum.","text":"Arma angustus super derelinquo tametsi celer demitto accommodo condico. Adduco ex magnam beatus. Tergum vehemens conicio."}
