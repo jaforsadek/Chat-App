@@ -1,1 +1,1 @@
-export const post = {"id":"9780557909841","slug":"tondeo-triduana-animi","title":"Perspiciatis sequi utor ceno modi casus pax.","text":"Demens ciminatio accusamus adsum. Suadeo quos concedo tergum vorago degusto fuga. Audax attero vulariter culpa modi velociter denuo ipsum."}
+export const post = {"id":"9781138398603","slug":"creta-atrocitas-ara","title":"Taceo xiphias alii conculco vis ventus vulnero.","text":"Theatrum volubilis esse correptius. Nemo adipiscor clam ea tutis. Theca advenio sponte suppono apto."}
