@@ -1,1 +1,1 @@
-export const post = {"id":"9780916348199","slug":"calcar-degero-impedit","title":"Video tabella acerbitas curso deorsum beatus pel sordeo tepesco.","text":"Acerbitas tremo demulceo ultra. Teneo beatus coruscus. Valens expedita patior crur vulgo."}
+export const post = {"id":"9780695837303","slug":"laudantium-accusator-nobis","title":"Ager spiritus sopor acceptus soleo patrocinor officia porro.","text":"Pel defendo sumo corporis laudantium adversus. Quae vulgus id carbo tumultus desidero. Absque iusto illum cribro derelinquo suus deorsum itaque pectus suppellex."}
