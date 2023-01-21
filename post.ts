@@ -1,1 +1,1 @@
-export const post = {"id":"9781753609603","slug":"abeo-verbum-taceo","title":"Tam cena cibo.","text":"Candidus vulnero vix vomito. Ut aduro constans. Textilis aliquam comburo."}
+export const post = {"id":"9781309166956","slug":"defessus-villa-cubo","title":"Rem credo ademptio acceptus sodalitas volo.","text":"Cito verto labore eius sodalitas concedo utroque sublime atque comburo. Argumentum amo adfectus crudelis adicio debeo solvo creator. Comitatus admiratio canis alius denego."}
