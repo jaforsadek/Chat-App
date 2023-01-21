@@ -1,1 +1,1 @@
-export const post = {"id":"9780255655293","slug":"velociter-vesco-vester","title":"Aduro assentator circumvenio valetudo culpa amor sopor.","text":"Approbo cura celo. Cupiditate soleo pecto. Vitium explicabo non tam statim aggero capto."}
+export const post = {"id":"9781753609603","slug":"abeo-verbum-taceo","title":"Tam cena cibo.","text":"Candidus vulnero vix vomito. Ut aduro constans. Textilis aliquam comburo."}
