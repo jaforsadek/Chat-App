@@ -1,1 +1,1 @@
-export const post = {"id":"9781238744577","slug":"temporibus-ait-valeo","title":"Degero voro spes suscipio vestrum bos tactus numquam pariatur adfero.","text":"Subseco dens tempus molestias antepono subseco. Demulceo ustulo valde speciosus accommodo aptus. Antea conservo demergo adhaero."}
+export const post = {"id":"9781867299189","slug":"officia-absorbeo-carmen","title":"Cerno ad varius porro eius solio bibo tum corporis.","text":"Color auctor abeo. Cunabula tenuis rem recusandae amplus advoco paulatim vulnus amo. Titulus velociter utroque cogo."}
