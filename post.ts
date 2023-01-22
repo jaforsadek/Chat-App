@@ -1,1 +1,1 @@
-export const post = {"id":"9780941815307","slug":"tibi-substantia-copia","title":"Cupio arma autus odio suus.","text":"Colo unde vestigium subito texo ratione maxime admoneo. Textus atavus paulatim tamdiu sunt desparatus. Tardus altus pariatur desparatus aeger avarus coadunatio sumo pecco venustas."}
+export const post = {"id":"9781277228038","slug":"ulterius-celo-decimus","title":"Acer depraedor stella.","text":"Summa calculus id. Volva verumtamen in adicio coerceo adaugeo veritatis demoror. Testimonium arcesso tumultus tres laborum aperio votum."}
