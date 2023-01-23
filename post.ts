@@ -1,1 +1,1 @@
-export const post = {"id":"9780451051561","slug":"cursim-coadunatio-demoror","title":"Tepesco conicio sequi coepi aegrus conduco.","text":"Alias derideo ex. Vilitas acer sui vomer bibo curriculum curis asperiores. Comparo arca corrumpo aperio astrum."}
+export const post = {"id":"9781714508068","slug":"defleo-xiphias-aetas","title":"Dignissimos sufficio aetas contra crustulum eos debitis absorbeo truculenter.","text":"Est varius tenetur vinco vorax deporto doloribus. Carcer arcesso crepusculum similique dolorem cohaero vestrum decet. Voluntarius accommodo terga speciosus."}
