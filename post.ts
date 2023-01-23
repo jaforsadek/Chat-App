@@ -1,1 +1,1 @@
-export const post = {"id":"9780121460426","slug":"textilis-sophismata-sui","title":"Confero mollitia vespillo.","text":"Clementia amiculum infit. Numquam tenuis sustineo deleniti stultus crastinus cum comis doloribus trado. Nesciunt adhaero tonsor vulgaris."}
+export const post = {"id":"9780451051561","slug":"cursim-coadunatio-demoror","title":"Tepesco conicio sequi coepi aegrus conduco.","text":"Alias derideo ex. Vilitas acer sui vomer bibo curriculum curis asperiores. Comparo arca corrumpo aperio astrum."}
