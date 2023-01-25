@@ -1,1 +1,1 @@
-export const post = {"id":"9780142627440","slug":"venio-attollo-casus","title":"Velociter velut tego.","text":"Claustrum voluptate adeo administratio. Spectaculum trucido copia necessitatibus. Basium subiungo stultus nam doloribus torqueo supra certus crastinus cetera."}
+export const post = {"id":"9781896162959","slug":"alo-succurro-volup","title":"Claro casso credo claudeo adflicto.","text":"Atqui crudelis possimus cinis. Vomito demonstro carcer. Assumenda demergo ante campana ab cena subseco capio ara."}
