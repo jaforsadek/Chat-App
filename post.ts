@@ -1,1 +1,1 @@
-export const post = {"id":"9781896162959","slug":"alo-succurro-volup","title":"Claro casso credo claudeo adflicto.","text":"Atqui crudelis possimus cinis. Vomito demonstro carcer. Assumenda demergo ante campana ab cena subseco capio ara."}
+export const post = {"id":"9780114689636","slug":"charisma-titulus-peccatus","title":"Baiulus acquiro consuasor.","text":"Truculenter balbus paens angulus utor coepi eligendi cohaero subseco coadunatio. Bibo sopor conturbo coniuratio ocer statim teres veritatis. Suppono vir damnatio tergeo."}
