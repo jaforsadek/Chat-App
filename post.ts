@@ -1,1 +1,1 @@
-export const post = {"id":"9780295400723","slug":"doloremque-facere-villa","title":"Claro aptus creo tero denuo sint chirographum.","text":"Porro degero adhuc arbitro. Cohaero ventus capto. Libero utique titulus ultra sint cupiditate beatae solum annus campana."}
+export const post = {"id":"9780142627440","slug":"venio-attollo-casus","title":"Velociter velut tego.","text":"Claustrum voluptate adeo administratio. Spectaculum trucido copia necessitatibus. Basium subiungo stultus nam doloribus torqueo supra certus crastinus cetera."}
