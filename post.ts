@@ -1,1 +1,1 @@
-export const post = {"id":"9780114689636","slug":"charisma-titulus-peccatus","title":"Baiulus acquiro consuasor.","text":"Truculenter balbus paens angulus utor coepi eligendi cohaero subseco coadunatio. Bibo sopor conturbo coniuratio ocer statim teres veritatis. Suppono vir damnatio tergeo."}
+export const post = {"id":"9780322551206","slug":"caute-arto-aperiam","title":"Quas aegrotatio tibi debitis solus creber caute adnuo cupiditate.","text":"Accusator carbo tamisium utor vallum cohors hic. Cometes tolero ustulo aegre. Voluptatibus delinquo vinco templum pecus tabella."}
