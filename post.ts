@@ -1,1 +1,1 @@
-export const post = {"id":"9780416429879","slug":"varius-sed-apostolus","title":"Vivo custodia tenus casus deripio commemoro.","text":"Facere averto ars compello aliqua suffragium thalassinus. Demoror adnuo cernuus cubitum. Tepesco quidem vilis tubineus desparatus."}
+export const post = {"id":"9781890029043","slug":"admoveo-contabesco-audentia","title":"Doloremque vilitas adiuvo explicabo causa terreo artificiose caecus velut consuasor.","text":"Considero curia tumultus. Vinum defero amissio. Cui alter attonbitus beneficium."}
