@@ -1,1 +1,1 @@
-export const post = {"id":"9780083499397","slug":"clamo-ter-bos","title":"Vivo vulnero teneo tepesco comes xiphias.","text":"Uter vir sonitus vinitor tandem facilis strenuus audax. Undique colligo tersus culpa accendo tener ventito. Quidem vel auditor."}
+export const post = {"id":"9781392371336","slug":"theologus-deporto-aer","title":"Ater deputo turbo ab auditor adsuesco advoco desparatus impedit.","text":"Vulgus ait animus curia. Aqua solio tendo. Quisquam curto tum laboriosam arbor vulgo demoror."}
