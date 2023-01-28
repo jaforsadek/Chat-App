@@ -1,1 +1,1 @@
-export const post = {"id":"9780322551206","slug":"caute-arto-aperiam","title":"Quas aegrotatio tibi debitis solus creber caute adnuo cupiditate.","text":"Accusator carbo tamisium utor vallum cohors hic. Cometes tolero ustulo aegre. Voluptatibus delinquo vinco templum pecus tabella."}
+export const post = {"id":"9780083499397","slug":"clamo-ter-bos","title":"Vivo vulnero teneo tepesco comes xiphias.","text":"Uter vir sonitus vinitor tandem facilis strenuus audax. Undique colligo tersus culpa accendo tener ventito. Quidem vel auditor."}
