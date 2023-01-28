@@ -1,1 +1,1 @@
-export const post = {"id":"9781392371336","slug":"theologus-deporto-aer","title":"Ater deputo turbo ab auditor adsuesco advoco desparatus impedit.","text":"Vulgus ait animus curia. Aqua solio tendo. Quisquam curto tum laboriosam arbor vulgo demoror."}
+export const post = {"id":"9780786457625","slug":"libero-canto-creo","title":"Vis ustilo delibero constans omnis tantum amita apud.","text":"Circumvenio stipes cunabula aestus avarus. Appositus condico aggero utor. Abstergo atavus amplexus alius."}
