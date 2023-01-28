@@ -1,1 +1,1 @@
-export const post = {"id":"9780786457625","slug":"libero-canto-creo","title":"Vis ustilo delibero constans omnis tantum amita apud.","text":"Circumvenio stipes cunabula aestus avarus. Appositus condico aggero utor. Abstergo atavus amplexus alius."}
+export const post = {"id":"9780416429879","slug":"varius-sed-apostolus","title":"Vivo custodia tenus casus deripio commemoro.","text":"Facere averto ars compello aliqua suffragium thalassinus. Demoror adnuo cernuus cubitum. Tepesco quidem vilis tubineus desparatus."}
