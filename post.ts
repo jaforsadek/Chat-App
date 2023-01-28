@@ -1,1 +1,1 @@
-export const post = {"id":"9781890029043","slug":"admoveo-contabesco-audentia","title":"Doloremque vilitas adiuvo explicabo causa terreo artificiose caecus velut consuasor.","text":"Considero curia tumultus. Vinum defero amissio. Cui alter attonbitus beneficium."}
+export const post = {"id":"9780377765566","slug":"adulatio-deludo-tribuo","title":"Cribro commemoro spiritus civitas fuga nam accommodo.","text":"Decens tertius comparo audacia solitudo timor. Caste odio statua crinis curto speciosus uberrime adamo. Tollo allatus curtus vobis tamquam."}
