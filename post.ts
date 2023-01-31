@@ -1,1 +1,1 @@
-export const post = {"id":"9780239170835","slug":"tergo-defessus-audeo","title":"Spero caries addo tametsi ter vitium.","text":"Deporto solvo repellendus incidunt utroque aestivus nam. Ullam amplitudo valetudo. Vulnero sperno adsidue depromo harum solus amor solitudo paens."}
+export const post = {"id":"9780850348583","slug":"terminatio-nemo-undique","title":"Dolorem vilis crux debilito.","text":"Cupiditas textor cubicularis utique porro vester copiose temporibus xiphias curto. Degero decumbo cursus amitto argumentum. Sordeo abscido aeger bonus paens."}
