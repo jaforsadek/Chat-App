@@ -1,1 +1,1 @@
-export const post = {"id":"9780811398640","slug":"balbus-utique-contego","title":"Tutamen incidunt eligendi tenuis altus thema.","text":"Trans triduana substantia tribuo appono argumentum depereo. Neque votum dolorum eum. Charisma comptus occaecati copiose."}
+export const post = {"id":"9781131627007","slug":"voluptates-reiciendis-amissio","title":"Alveus crastinus atrocitas theatrum.","text":"Suadeo quasi studio temperantia ullam concedo autus soluta. Sto ut amet odio decipio dedecor abduco. Deinde cursim votum convoco avaritia absens custodia assentator patruus crapula."}
