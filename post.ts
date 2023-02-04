@@ -1,1 +1,1 @@
-export const post = {"id":"9780782538397","slug":"amo-cruentus-argumentum","title":"Suus xiphias esse viriliter alias terminatio stultus thesis autem.","text":"Allatus demens patior tristis caries caveo supellex virgo. Tersus alius absconditus apostolus mollitia voco voluptatibus. Ver tametsi agnosco ait blandior."}
+export const post = {"id":"9781745307692","slug":"comprehendo-carus-cognatus","title":"Callide aufero demonstro ars bene.","text":"Coadunatio deorsum deleo. Talio trans solus unde accusamus. Abundans demonstro adeptio allatus decens ustilo sub demoror."}
