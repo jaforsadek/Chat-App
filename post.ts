@@ -1,1 +1,1 @@
-export const post = {"id":"9781745307692","slug":"comprehendo-carus-cognatus","title":"Callide aufero demonstro ars bene.","text":"Coadunatio deorsum deleo. Talio trans solus unde accusamus. Abundans demonstro adeptio allatus decens ustilo sub demoror."}
+export const post = {"id":"9780198083849","slug":"appello-distinctio-abduco","title":"Demitto contigo amor delego trepide addo.","text":"Delego abduco agnosco suffoco aurum. Sequi vita custodia omnis suppellex tego tunc caelestis asperiores. Clarus verus cohibeo decor."}
