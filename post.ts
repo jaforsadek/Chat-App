@@ -1,1 +1,1 @@
-export const post = {"id":"9781796191493","slug":"quasi-cuppedia-arcus","title":"Labore color cimentarius accusamus cinis laudantium tubineus.","text":"Antea sperno vulgo sui. Via vulpes asper. Tempore strues tum admitto vulnero supra cruentus tergiversatio benigne volaticus."}
+export const post = {"id":"9781357188726","slug":"unus-cubo-vilicus","title":"Aut astrum voluntarius.","text":"Arceo cultura baiulus patruus clibanus atavus talis ventosus acceptus testimonium. Articulus abbas vox. Verecundia cavus patruus tempora."}
