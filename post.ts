@@ -1,1 +1,1 @@
-export const post = {"id":"9781357188726","slug":"unus-cubo-vilicus","title":"Aut astrum voluntarius.","text":"Arceo cultura baiulus patruus clibanus atavus talis ventosus acceptus testimonium. Articulus abbas vox. Verecundia cavus patruus tempora."}
+export const post = {"id":"9781595324399","slug":"absum-aptus-utor","title":"Decumbo cohibeo caritas totidem sortitus sto velut.","text":"Doloremque tunc culpa amissio absorbeo dolorem sumptus. Aeger succedo theologus asporto campana. Bibo alius appositus."}
