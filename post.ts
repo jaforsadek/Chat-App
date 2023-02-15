@@ -1,1 +1,1 @@
-export const post = {"id":"9780304097241","slug":"timor-canto-vir","title":"Civis tergo condico amitto.","text":"Adeptio caste debitis cumque adinventitias. Coerceo toties quaerat tollo. Brevis vigor trucido depereo coerceo aliqua adimpleo a venustas tenus."}
+export const post = {"id":"9781893806054","slug":"tamdiu-speculum-torqueo","title":"Atqui umerus coepi varietas desino somnus veritatis congregatio cibo correptius.","text":"Amissio autem quaerat uxor virga. Vulariter adulatio tantum compono ciminatio solium deficio alii culpa. Commemoro currus nostrum cura subnecto."}
