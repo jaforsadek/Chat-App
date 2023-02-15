@@ -1,1 +1,1 @@
-export const post = {"id":"9781492789772","slug":"solvo-ducimus-libero","title":"Venia subseco auxilium.","text":"Dicta despecto viscus spiculum amor aperiam error strues. Compello defetiscor cupressus pax clamo creator aliqua. Titulus tendo taedium cinis vir calco."}
+export const post = {"id":"9781860810824","slug":"conturbo-vetus-accusantium","title":"Vetus excepturi somnus degenero.","text":"Subnecto terra adicio laboriosam curtus. Terreo inflammatio coepi. Voco alveus bos annus nostrum error sordeo sum."}
