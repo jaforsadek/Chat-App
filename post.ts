@@ -1,1 +1,1 @@
-export const post = {"id":"9780304644414","slug":"admoveo-vinum-aspernatur","title":"Comitatus comedo curto terga.","text":"Viriliter pariatur claustrum in curatio synagoga arbor delego. Arceo colligo adeptio comminor attollo annus tenus abbas. Thesis sophismata consequatur varietas."}
+export const post = {"id":"9781556700453","slug":"amet-altus-bene","title":"Virgo eligendi ater.","text":"Textilis aufero averto sequi administratio sint somniculosus. Tabgo trepide testimonium vilicus sint testimonium cenaculum mollitia. Cometes comminor thymum nostrum aqua animus suscipio."}
