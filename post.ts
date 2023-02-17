@@ -1,1 +1,1 @@
-export const post = {"id":"9780364382400","slug":"desipio-aetas-denuo","title":"Similique curriculum dolorum pariatur.","text":"Cibus voveo depulso tyrannus recusandae tyrannus strenuus. Corporis depraedor decens bibo vorago. Valde ustulo voco terminatio stips."}
+export const post = {"id":"9780243383610","slug":"arguo-thermae-adeptio","title":"Cerno virtus arguo absorbeo blandior adstringo voluptates tener delego contigo.","text":"Suscipio sopor colligo adficio arca iure. Cunabula accusator spero decerno vilis tandem. Adipisci caecus damnatio."}
