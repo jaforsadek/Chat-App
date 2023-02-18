@@ -1,1 +1,1 @@
-export const post = {"id":"9780683878912","slug":"earum-adficio-iure","title":"Cui ratione amplus ascisco.","text":"Odit cogo ducimus cunabula ago soluta delectatio. Claudeo spiritus quisquam amplexus thalassinus crebro desolo coniecto teres. Custodia conspergo adicio supellex uberrime tracto deprecator tempore causa."}
+export const post = {"id":"9781972189122","slug":"benigne-beneficium-cuius","title":"Tabernus adstringo coruscus.","text":"Totus termes thymbra fugiat. Quas defungo combibo antea deludo maxime exercitationem. Quae cauda argentum tolero supra."}
