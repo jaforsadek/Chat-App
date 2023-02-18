@@ -1,1 +1,1 @@
-export const post = {"id":"9780967000510","slug":"vobis-tergiversatio-fugit","title":"Suggero cetera ventus venio.","text":"Dedecor triumphus sordeo cervus dolores deficio amitto. Vulgo vorax trado suscipit neque absens adnuo cultura. Cunae adulescens acquiro earum volo una calco."}
+export const post = {"id":"9781206145399","slug":"crepusculum-ventito-tabella","title":"Delibero cura tergo.","text":"Cauda tum itaque adeo vulnus sursum. Vis cohors suscipit clementia abstergo. Verecundia suggero deporto."}
