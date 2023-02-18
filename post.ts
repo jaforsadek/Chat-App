@@ -1,1 +1,1 @@
-export const post = {"id":"9781972189122","slug":"benigne-beneficium-cuius","title":"Tabernus adstringo coruscus.","text":"Totus termes thymbra fugiat. Quas defungo combibo antea deludo maxime exercitationem. Quae cauda argentum tolero supra."}
+export const post = {"id":"9780967000510","slug":"vobis-tergiversatio-fugit","title":"Suggero cetera ventus venio.","text":"Dedecor triumphus sordeo cervus dolores deficio amitto. Vulgo vorax trado suscipit neque absens adnuo cultura. Cunae adulescens acquiro earum volo una calco."}
