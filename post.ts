@@ -1,1 +1,1 @@
-export const post = {"id":"9780552391795","slug":"carbo-similique-quos","title":"Desolo constans cognatus capto.","text":"Adeptio vitae sustineo argumentum auditor sufficio vilis reprehenderit vomica causa. Vado decens explicabo aptus tui communis laboriosam. Canis terebro amplus conduco."}
+export const post = {"id":"9780786442829","slug":"vivo-aranea-cognomen","title":"Optio confido sulum confugo arguo.","text":"Vito ducimus acceptus abbas. Vorago cervus alo color aeger demo aranea. Tutamen ventito cursus coadunatio certus clementia coaegresco."}
