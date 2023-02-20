@@ -1,1 +1,1 @@
-export const post = {"id":"9781957181646","slug":"compono-statua-tubineus","title":"Natus decens umquam.","text":"Utroque supellex fuga tamquam verto demum minima contigo sono valetudo. Soluta reprehenderit allatus vinco. Thalassinus utilis repellat studio statua."}
+export const post = {"id":"9780061620195","slug":"arbustum-aliquam-denuncio","title":"Tabula aveho caecus.","text":"Cinis video contabesco constans tertius angustus virga tendo canonicus adinventitias. Facere beatus repudiandae tamisium adsuesco xiphias. Rerum ago acsi uxor aeneus subnecto natus."}
