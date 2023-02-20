@@ -1,1 +1,1 @@
-export const post = {"id":"9780786442829","slug":"vivo-aranea-cognomen","title":"Optio confido sulum confugo arguo.","text":"Vito ducimus acceptus abbas. Vorago cervus alo color aeger demo aranea. Tutamen ventito cursus coadunatio certus clementia coaegresco."}
+export const post = {"id":"9780688632366","slug":"acervus-vulnus-sufficio","title":"Terebro attero vulpes consuasor adsuesco auditor fugit.","text":"Tunc illo aeneus cunae. Reprehenderit somniculosus calculus cupressus cribro. Viscus titulus cuppedia denego."}
