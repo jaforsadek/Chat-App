@@ -1,1 +1,1 @@
-export const post = {"id":"9780431883335","slug":"aeger-crepusculum-acceptus","title":"Summisse concido iusto ter.","text":"Cauda rem acer umbra vesco cruentus corroboro derelinquo maiores inflammatio. Terminatio deputo tres derelinquo. Eaque amplus textilis repellendus appello volubilis depono."}
+export const post = {"id":"9781957181646","slug":"compono-statua-tubineus","title":"Natus decens umquam.","text":"Utroque supellex fuga tamquam verto demum minima contigo sono valetudo. Soluta reprehenderit allatus vinco. Thalassinus utilis repellat studio statua."}
