@@ -1,1 +1,1 @@
-export const post = {"id":"9781534372016","slug":"curso-dolorem-theologus","title":"Attollo amor congregatio spoliatio suffragium cras.","text":"Audax tergo cenaculum tenuis patrocinor patria. Delicate spero pectus earum umquam cum totus deinde demonstro debilito. Accendo dolor avarus."}
+export const post = {"id":"9780389180166","slug":"torqueo-quis-adipiscor","title":"Illum cerno adflicto incidunt tubineus trans creo.","text":"Considero fugiat speculum magni victoria. Denique video subito venio ver comitatus. Torqueo conscendo succurro quod astrum velociter socius."}
