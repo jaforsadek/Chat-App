@@ -1,1 +1,1 @@
-export const post = {"id":"9780964484139","slug":"ut-usque-fugiat","title":"Uxor nesciunt pecus.","text":"Tandem combibo laboriosam amplus dens textilis dedecor. Libero centum aurum speculum aequus corpus saepe. Abscido supplanto virgo teneo vitae suffragium depono voro vir appono."}
+export const post = {"id":"9781529656909","slug":"attonbitus-auxilium-altus","title":"Odit verumtamen trado alter.","text":"Illum depraedor curiositas. Tandem teneo vinitor sto vero. Conatus pecco quibusdam sol cotidie articulus appello voluptates apto."}
