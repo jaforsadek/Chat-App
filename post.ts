@@ -1,1 +1,1 @@
-export const post = {"id":"9781529656909","slug":"attonbitus-auxilium-altus","title":"Odit verumtamen trado alter.","text":"Illum depraedor curiositas. Tandem teneo vinitor sto vero. Conatus pecco quibusdam sol cotidie articulus appello voluptates apto."}
+export const post = {"id":"9780275534226","slug":"aegrus-statua-amicitia","title":"Volaticus eaque aestivus delectatio verbum denuncio ullam adversus.","text":"Stultus tabella blanditiis pecto. Debeo ver verumtamen conventus aiunt termes stips stips desidero. Ara turbo tonsor totus."}
