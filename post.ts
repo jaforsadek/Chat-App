@@ -1,1 +1,1 @@
-export const post = {"id":"9780880446440","slug":"ut-deorsum-vivo","title":"Decumbo ascit conicio.","text":"Cornu vere vir tabella. Valetudo perferendis victoria maxime expedita quos quia aestivus avarus. Vulgus vociferor quis utrimque magni terra vel atque vitium congregatio."}
+export const post = {"id":"9780896062481","slug":"advoco-repudiandae-avarus","title":"Arcus supplanto distinctio veritatis depopulo.","text":"Attero addo suscipit talus spoliatio. Canonicus consequatur arcus. Avaritia adsuesco callide caput degero terra sint."}
