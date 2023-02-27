@@ -1,1 +1,1 @@
-export const post = {"id":"9780865625075","slug":"vindico-apparatus-patria","title":"Subvenio talus uterque alveus demonstro.","text":"Amissio campana mollitia celer verus curiositas totidem. Contigo vel amplitudo. Spiculum ipsam cultura subvenio ascisco admitto quae aliquam."}
+export const post = {"id":"9781731357502","slug":"tolero-suppono-degusto","title":"Fuga acies doloremque ver quia esse.","text":"Valde atrox tabernus cibus comes adsidue quae. Uxor decipio saepe armarium. Theatrum architecto suscipit suscipio aduro celo."}
