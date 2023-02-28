@@ -1,1 +1,1 @@
-export const post = {"id":"9780468603999","slug":"desparatus-conitor-qui","title":"Desino degero vociferor textor arceo cariosus illum adduco vulnero.","text":"Atavus nam dens decor super. Laboriosam contego stips copia adsum victoria. Cresco alius cribro ipsam sodalitas consectetur theologus barba est."}
+export const post = {"id":"9781089451426","slug":"volaticus-causa-perspiciatis","title":"Possimus clibanus cotidie patria.","text":"Cetera angelus cras textor delego. Non temptatio suasoria iste. Adstringo patior altus quisquam certus at vel bellum."}
