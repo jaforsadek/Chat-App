@@ -1,1 +1,1 @@
-export const post = {"id":"9780193657908","slug":"vinculum-cena-articulus","title":"Ars ademptio vehemens teres ademptio.","text":"Cimentarius baiulus vitae demens constans arcesso alias desipio sol creo. Adipiscor viduo eaque. Sonitus tener coniecto deduco."}
+export const post = {"id":"9780468603999","slug":"desparatus-conitor-qui","title":"Desino degero vociferor textor arceo cariosus illum adduco vulnero.","text":"Atavus nam dens decor super. Laboriosam contego stips copia adsum victoria. Cresco alius cribro ipsam sodalitas consectetur theologus barba est."}
