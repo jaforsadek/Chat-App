@@ -1,1 +1,1 @@
-export const post = {"id":"9781089451426","slug":"volaticus-causa-perspiciatis","title":"Possimus clibanus cotidie patria.","text":"Cetera angelus cras textor delego. Non temptatio suasoria iste. Adstringo patior altus quisquam certus at vel bellum."}
+export const post = {"id":"9781639767649","slug":"volaticus-vir-subito","title":"Coma amplitudo tertius cogo.","text":"Circumvenio delibero subito turpis comparo. Tondeo coepi nemo. Altus arguo pauper conor appello crebro artificiose terga veritatis."}
