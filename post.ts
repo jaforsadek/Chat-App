@@ -1,1 +1,1 @@
-export const post = {"id":"9781390203349","slug":"ambulo-textor-toties","title":"Ars tribuo bibo utrum velit sponte tactus.","text":"Tenus amet dedecor vacuus. Absorbeo molestiae ambulo turba. Vita occaecati deorsum accommodo strues."}
+export const post = {"id":"9780926569300","slug":"statim-depromo-crudelis","title":"Carcer amita rerum denego numquam considero acidus vereor.","text":"Color claudeo summa cubo aeneus tenuis quas. Delego confugo creber canis candidus asperiores quisquam aetas delectatio tonsor. In vesper somnus timor triduana consuasor thymbra summopere."}
