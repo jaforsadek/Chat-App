@@ -1,1 +1,1 @@
-export const post = {"id":"9780033587495","slug":"corpus-custodia-viduo","title":"Triumphus vindico solio velit.","text":"Distinctio quaerat cursus. Amaritudo alii argumentum sit adicio campana aestas verbum constans ulciscor. Cupio cohors spiculum sapiente tenuis celo."}
+export const post = {"id":"9780518697541","slug":"adflicto-vicinus-aeternus","title":"Perferendis tollo dolore tyrannus abscido aestus quos ambitus.","text":"Convoco tunc eaque provident aegrus amiculum sursum candidus cariosus. Uxor velociter defero cui. Brevis solum comes cohibeo dolores."}
