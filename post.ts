@@ -1,1 +1,1 @@
-export const post = {"id":"9780754795902","slug":"traho-suppellex-thalassinus","title":"Centum admoneo tertius aegrotatio.","text":"Ipsam facilis caelum defluo convoco dens. Architecto amiculum spectaculum alo coruscus constans. Adversus cura abutor cohaero sperno tergeo error correptius aer."}
+export const post = {"id":"9781249962625","slug":"aureus-accommodo-corporis","title":"Aggero denuo territo creo aegrus aspicio auctus.","text":"Modi demulceo color deleo adflicto defero tolero coaegresco. Ipsum thesis alii vilitas curis theatrum. Crapula qui vulariter."}
