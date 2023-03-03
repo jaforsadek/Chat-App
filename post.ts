@@ -1,1 +1,1 @@
-export const post = {"id":"9781653005116","slug":"denique-territo-culpa","title":"Nemo cupiditas usus cavus abutor absque tepesco.","text":"Comitatus corona tricesimus totam apud. Dolor suffoco spero absque aliquid nihil. Totus verus porro utrimque cohors harum video esse crinis tui."}
+export const post = {"id":"9781542322195","slug":"vallum-spectaculum-sulum","title":"Crudelis depono urbs cavus stultus dolores colligo accommodo armarium.","text":"Aperiam admoneo caelum. Culpa admoveo peccatus. Veniam claustrum vero."}
