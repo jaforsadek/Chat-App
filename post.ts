@@ -1,1 +1,1 @@
-export const post = {"id":"9781542322195","slug":"vallum-spectaculum-sulum","title":"Crudelis depono urbs cavus stultus dolores colligo accommodo armarium.","text":"Aperiam admoneo caelum. Culpa admoveo peccatus. Veniam claustrum vero."}
+export const post = {"id":"9780754795902","slug":"traho-suppellex-thalassinus","title":"Centum admoneo tertius aegrotatio.","text":"Ipsam facilis caelum defluo convoco dens. Architecto amiculum spectaculum alo coruscus constans. Adversus cura abutor cohaero sperno tergeo error correptius aer."}
