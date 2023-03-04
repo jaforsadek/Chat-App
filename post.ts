@@ -1,1 +1,1 @@
-export const post = {"id":"9780175864232","slug":"aufero-alveus-cibo","title":"Angelus abbas tracto degero casus caveo.","text":"Ipsum consectetur traho clamo timor. Socius verbera caries. Utilis basium vomer tum viscus decerno cornu acsi adhaero."}
+export const post = {"id":"9780621848137","slug":"venia-angelus-abstergo","title":"Occaecati aer vomica aureus.","text":"Advenio temporibus soleo sui bellicus vomer officiis temporibus vulticulus demitto. Centum adulatio decerno a. Defetiscor solutio necessitatibus vulgaris accusamus iusto derideo atque."}
