@@ -1,1 +1,1 @@
-export const post = {"id":"9780805918427","slug":"vobis-volup-deprimo","title":"Tolero suadeo absum harum cibo.","text":"Tepesco cur utroque absum confido. Vero explicabo ducimus bellicus bellum somniculosus color tunc degero. Vox tepesco chirographum voco tutis demonstro speculum."}
+export const post = {"id":"9780018341319","slug":"quam-provident-civitas","title":"Centum toties corroboro tumultus considero.","text":"Sophismata versus corpus cura territo suppono trucido aeger. Curvo altus infit ascisco auctus. Adfectus totus quisquam."}
