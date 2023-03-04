@@ -1,1 +1,1 @@
-export const post = {"id":"9780735160293","slug":"suadeo-ipsa-animadverto","title":"Quia optio aegrotatio umbra centum.","text":"Vulticulus aranea una decerno vae sumptus dolorem. Deleniti dens tergo. Patria cuppedia apud tabula subvenio."}
+export const post = {"id":"9780586238752","slug":"alii-similique-solus","title":"Explicabo ulciscor pariatur pauper suppellex minus uredo.","text":"Spero demonstro praesentium atqui allatus tandem tepesco tero temporibus conscendo. Teres molestiae thalassinus ait uberrime vulnero. Voluptatum curso decens."}
