@@ -1,1 +1,1 @@
-export const post = {"id":"9780018341319","slug":"quam-provident-civitas","title":"Centum toties corroboro tumultus considero.","text":"Sophismata versus corpus cura territo suppono trucido aeger. Curvo altus infit ascisco auctus. Adfectus totus quisquam."}
+export const post = {"id":"9780735160293","slug":"suadeo-ipsa-animadverto","title":"Quia optio aegrotatio umbra centum.","text":"Vulticulus aranea una decerno vae sumptus dolorem. Deleniti dens tergo. Patria cuppedia apud tabula subvenio."}
