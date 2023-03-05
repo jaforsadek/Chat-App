@@ -1,1 +1,1 @@
-export const post = {"id":"9780873122122","slug":"eveniet-territo-at","title":"Subito custodia creptio tutamen omnis deduco audax mollitia decet vaco.","text":"Stella cognomen abutor super. Deficio abutor absens itaque pariatur velit corona ante. Benevolentia addo cena convoco est."}
+export const post = {"id":"9780414217997","slug":"abduco-decretum-virtus","title":"Ut statim una.","text":"Alienus vergo currus sponte dolore subito compello adipisci. Apostolus deorsum tyrannus nam ducimus. Tantum nesciunt ocer vorago deripio vorago."}
