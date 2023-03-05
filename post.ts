@@ -1,1 +1,1 @@
-export const post = {"id":"9780414217997","slug":"abduco-decretum-virtus","title":"Ut statim una.","text":"Alienus vergo currus sponte dolore subito compello adipisci. Apostolus deorsum tyrannus nam ducimus. Tantum nesciunt ocer vorago deripio vorago."}
+export const post = {"id":"9781681310510","slug":"arbor-asper-conventus","title":"Cultellus curto vere subito depromo odit vado censura.","text":"Infit adhaero curo acsi labore decumbo confero debitis delinquo canonicus. Catena campana curatio thalassinus victoria ulterius cognomen condico spiculum. Infit tempore audacia."}
