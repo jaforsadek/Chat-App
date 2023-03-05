@@ -1,1 +1,1 @@
-export const post = {"id":"9780878907731","slug":"umbra-dolores-appello","title":"Adulescens ea ducimus cognomen.","text":"Commodi aggredior totidem maxime deleo. Conculco calcar decretum tabula thesaurus delicate adsuesco tracto. Celo curriculum adeptio pauci et verumtamen."}
+export const post = {"id":"9780873122122","slug":"eveniet-territo-at","title":"Subito custodia creptio tutamen omnis deduco audax mollitia decet vaco.","text":"Stella cognomen abutor super. Deficio abutor absens itaque pariatur velit corona ante. Benevolentia addo cena convoco est."}
