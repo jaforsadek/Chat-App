@@ -1,1 +1,1 @@
-export const post = {"id":"9781681310510","slug":"arbor-asper-conventus","title":"Cultellus curto vere subito depromo odit vado censura.","text":"Infit adhaero curo acsi labore decumbo confero debitis delinquo canonicus. Catena campana curatio thalassinus victoria ulterius cognomen condico spiculum. Infit tempore audacia."}
+export const post = {"id":"9780062744869","slug":"cohibeo-desolo-spero","title":"Sto degero curtus vigor.","text":"Ubi defetiscor tunc dedecor thalassinus arbustum sonitus xiphias concedo crinis. Sordeo angustus acsi. Volaticus tutis acidus."}
