@@ -1,1 +1,1 @@
-export const post = {"id":"9780062744869","slug":"cohibeo-desolo-spero","title":"Sto degero curtus vigor.","text":"Ubi defetiscor tunc dedecor thalassinus arbustum sonitus xiphias concedo crinis. Sordeo angustus acsi. Volaticus tutis acidus."}
+export const post = {"id":"9780295569994","slug":"cupiditate-conqueror-arceo","title":"Antea animi capitulus dicta.","text":"Desino vaco velum tunc aurum sumptus vulgivagus delicate vigilo maiores. Tego charisma tempus sublime substantia centum crudelis careo vilicus. Conatus ustilo sollicito veritatis adulescens voluptatum verbum."}
