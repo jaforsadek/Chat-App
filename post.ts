@@ -1,1 +1,1 @@
-export const post = {"id":"9781115708845","slug":"somnus-timor-colo","title":"Talis appello contego deputo.","text":"Cursus utrimque coniuratio benigne ullam articulus. Aegrotatio spiritus victus. Autus sufficio sublime accendo."}
+export const post = {"id":"9781889386676","slug":"vorago-arbitro-vulgus","title":"Vester totam conitor sono vesica brevis cogito utroque defetiscor.","text":"Arx decens vallum vespillo. Admoveo terreo vulgus audeo maiores. Cernuus cena eligendi."}
