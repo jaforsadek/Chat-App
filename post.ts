@@ -1,1 +1,1 @@
-export const post = {"id":"9780300360905","slug":"debeo-venustas-demulceo","title":"Ars advoco angustus bos vesco consequatur turba teneo.","text":"Crastinus fugit torrens stillicidium centum enim adsum accusator. Contigo ad conor audentia vallum illum. Trans versus tametsi nobis timor tolero decipio talio."}
+export const post = {"id":"9781115708845","slug":"somnus-timor-colo","title":"Talis appello contego deputo.","text":"Cursus utrimque coniuratio benigne ullam articulus. Aegrotatio spiritus victus. Autus sufficio sublime accendo."}
