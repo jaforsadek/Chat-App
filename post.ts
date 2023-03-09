@@ -1,1 +1,1 @@
-export const post = {"id":"9781049740928","slug":"sordeo-tabernus-compono","title":"Somniculosus compello vapulus conforto adinventitias umerus.","text":"Tripudio arca villa sollicito atqui cometes sumo cura curvo sum. Amet audax cilicium cura canis vero valeo architecto tollo. Ventosus barba corporis excepturi."}
+export const post = {"id":"9781809827173","slug":"abeo-consectetur-suspendo","title":"Colo suspendo cattus.","text":"Architecto tamdiu tumultus vespillo victus astrum chirographum crapula. Qui vilis vinco. Articulus tepidus alius antiquus curia appono tutis."}
