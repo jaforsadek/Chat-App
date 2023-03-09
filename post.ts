@@ -1,1 +1,1 @@
-export const post = {"id":"9781809827173","slug":"abeo-consectetur-suspendo","title":"Colo suspendo cattus.","text":"Architecto tamdiu tumultus vespillo victus astrum chirographum crapula. Qui vilis vinco. Articulus tepidus alius antiquus curia appono tutis."}
+export const post = {"id":"9781679322037","slug":"supplanto-abeo-una","title":"Accedo inventore stella cimentarius agnosco utrimque cedo depraedor ipsum.","text":"Denuo thema ulciscor peccatus depereo addo temeritas ater. Caelestis unde virtus quis calamitas. Volup verecundia volaticus ventus."}
