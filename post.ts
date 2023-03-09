@@ -1,1 +1,1 @@
-export const post = {"id":"9781889386676","slug":"vorago-arbitro-vulgus","title":"Vester totam conitor sono vesica brevis cogito utroque defetiscor.","text":"Arx decens vallum vespillo. Admoveo terreo vulgus audeo maiores. Cernuus cena eligendi."}
+export const post = {"id":"9781049740928","slug":"sordeo-tabernus-compono","title":"Somniculosus compello vapulus conforto adinventitias umerus.","text":"Tripudio arca villa sollicito atqui cometes sumo cura curvo sum. Amet audax cilicium cura canis vero valeo architecto tollo. Ventosus barba corporis excepturi."}
