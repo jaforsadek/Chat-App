@@ -1,1 +1,1 @@
-export const post = {"id":"9781487027926","slug":"utilis-voluptas-ab","title":"Molestiae articulus caput sollicito.","text":"Auditor averto ara sollers confugo fuga natus ullam aureus. Ascisco sapiente audax ulciscor. Studio valde venio contra truculenter consequatur."}
+export const post = {"id":"9781548861797","slug":"basium-sollicito-vulariter","title":"Solum thymbra minima subnecto vespillo somniculosus.","text":"Distinctio denuncio desipio consectetur amoveo. Aqua quia caste ulciscor via adopto. Valde trado thalassinus delibero angelus balbus adfero."}
