@@ -1,1 +1,1 @@
-export const post = {"id":"9781631369568","slug":"versus-adulescens-desidero","title":"Absum thorax tristis spiculum incidunt curiositas.","text":"Atque toties cresco expedita comes auxilium depraedor tendo alius tertius. Amitto volutabrum comprehendo dicta desidero autus. Virtus contigo at vinco adeptio."}
+export const post = {"id":"9781113060525","slug":"qui-veritas-aperio","title":"Tempus contego tamdiu temeritas.","text":"Adulatio arx beatus. Temperantia abutor vis somnus consequuntur utrum exercitationem. Comptus vilitas utroque cinis autus angulus alioqui."}
