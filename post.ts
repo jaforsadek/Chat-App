@@ -1,1 +1,1 @@
-export const post = {"id":"9780092644603","slug":"peior-cauda-argentum","title":"Ab coepi aperte verto vitae voluptas vulgus auctus terreo cattus.","text":"Peior quasi sophismata. Clarus aliquam sursum vomito. Coepi amaritudo dedico praesentium esse xiphias undique subito."}
+export const post = {"id":"9780730109969","slug":"depromo-defleo-dicta","title":"Convoco clarus adnuo attollo verbum tot repellat.","text":"Depraedor uredo capillus demens. Tergiversatio commemoro adeo voluptatem. Ut adipiscor titulus amo."}
