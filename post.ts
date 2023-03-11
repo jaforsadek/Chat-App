@@ -1,1 +1,1 @@
-export const post = {"id":"9781859884751","slug":"subseco-terror-ante","title":"Sumptus excepturi cervus cumque sed totus.","text":"Maiores mollitia tolero vivo quos angelus deficio. Vester pauper temptatio laborum utilis curriculum. Abduco amplexus decor traho aer sustineo advoco."}
+export const post = {"id":"9781957795065","slug":"tenax-omnis-deprecator","title":"Tutis contabesco cernuus conitor bellum.","text":"Dolores theologus ver cupressus claustrum vito vapulus. Avarus chirographum conturbo arcus. Quo absens concedo maiores adiuvo aedificium aegrus."}
