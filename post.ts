@@ -1,1 +1,1 @@
-export const post = {"id":"9781349691586","slug":"amplus-inflammatio-adeo","title":"Nam ara tardus cuius constans dolores stabilis.","text":"Suppellex asperiores eveniet adsum. Cruciamentum tego vomito thymum. Totam corporis denique."}
+export const post = {"id":"9780306328015","slug":"decens-defessus-auctor","title":"Antiquus ante delinquo arcesso comedo expedita terreo.","text":"Validus cras amitto. Cupiditate deleo harum turba sursum aperio catena cursim. Vinum cresco adstringo speculum usitas suus certe cultellus comedo."}
