@@ -1,1 +1,1 @@
-export const post = {"id":"9780333480144","slug":"copia-harum-velut","title":"Aegre verus appositus aliquam coadunatio soluta.","text":"Comprehendo mollitia sufficio tamdiu subito ademptio curto. Aliquam vigor varius demens consequatur autus. Sint trucido arbor vel."}
+export const post = {"id":"9780044368038","slug":"vestigium-suadeo-earum","title":"Advoco callide utroque demonstro supplanto incidunt.","text":"Cohaero curtus abduco praesentium omnis. Abscido ustulo amplitudo avaritia. Caritas celer sollers depono maxime aureus derelinquo urbs aliquid."}
