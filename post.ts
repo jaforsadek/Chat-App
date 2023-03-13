@@ -1,1 +1,1 @@
-export const post = {"id":"9780443835889","slug":"derelinquo-voco-adsum","title":"Demens eveniet vado beatae timidus officiis deorsum necessitatibus vesper vaco.","text":"Assumenda ab provident illum caute adficio caritas sed centum. Arceo temporibus subiungo textus. Carmen tardus arbustum."}
+export const post = {"id":"9781349691586","slug":"amplus-inflammatio-adeo","title":"Nam ara tardus cuius constans dolores stabilis.","text":"Suppellex asperiores eveniet adsum. Cruciamentum tego vomito thymum. Totam corporis denique."}
