@@ -1,1 +1,1 @@
-export const post = {"id":"9780306328015","slug":"decens-defessus-auctor","title":"Antiquus ante delinquo arcesso comedo expedita terreo.","text":"Validus cras amitto. Cupiditate deleo harum turba sursum aperio catena cursim. Vinum cresco adstringo speculum usitas suus certe cultellus comedo."}
+export const post = {"id":"9780333480144","slug":"copia-harum-velut","title":"Aegre verus appositus aliquam coadunatio soluta.","text":"Comprehendo mollitia sufficio tamdiu subito ademptio curto. Aliquam vigor varius demens consequatur autus. Sint trucido arbor vel."}
