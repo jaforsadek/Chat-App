@@ -1,1 +1,1 @@
-export const post = {"id":"9781535893497","slug":"depono-depulso-tactus","title":"Vomica supra dedico velociter.","text":"Alias cohors bonus celer caries studio. Corona aggredior viridis vitiosus aggero recusandae voveo. Impedit vilitas cilicium."}
+export const post = {"id":"9781420748840","slug":"peccatus-vindico-amplus","title":"Somniculosus caritas video timidus.","text":"Aperte ciminatio appello sordeo pauper cultura suasoria curiositas tantillus balbus. Supplanto apparatus currus ademptio speciosus decor stips. Doloremque pecus totidem amplus bellicus."}
