@@ -1,1 +1,1 @@
-export const post = {"id":"9780817730178","slug":"desino-ipsam-volup","title":"Tepesco eius defendo thema cilicium adsidue cedo defluo.","text":"Necessitatibus peior speciosus cenaculum quia asper cohibeo basium subito. Articulus cilicium amitto comitatus tutamen minus despecto sit. Arbitro tracto aliquam coruscus vae."}
+export const post = {"id":"9780377355279","slug":"amoveo-paulatim-animi","title":"Vindico debilito est.","text":"Surculus tenetur iste ut. Vergo barba sublime decimus architecto ultra. Carpo ipsa talis."}
