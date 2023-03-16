@@ -1,1 +1,1 @@
-export const post = {"id":"9781608573622","slug":"assumenda-socius-vigilo","title":"Cornu blandior attollo aptus depromo compello cognomen infit vestigium.","text":"Audio averto degusto. Trado cubicularis tepidus. Arx caries atque quibusdam sollers id textor."}
+export const post = {"id":"9780836400922","slug":"admoveo-socius-paens","title":"Conduco cenaculum facilis terror capto supellex.","text":"Cado quibusdam cohibeo. Conturbo inflammatio atqui statim acervus aestivus consuasor depraedor acies. Vilis accedo tabesco."}
