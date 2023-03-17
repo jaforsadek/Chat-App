@@ -1,1 +1,1 @@
-export const post = {"id":"9780675414319","slug":"sub-clam-ulterius","title":"Tui subiungo vehemens.","text":"Amiculum combibo conatus tero acceptus atrox. Volaticus acervus timor cupressus tantum. Trucido earum bellum copiose autem."}
+export const post = {"id":"9781008678231","slug":"voluptatibus-coadunatio-crustulum","title":"Cunabula thorax annus allatus talis.","text":"Vacuus crebro abscido angustus absconditus ratione. Cum aveho labore cimentarius subnecto cunabula claustrum. Amplus acerbitas calculus."}
