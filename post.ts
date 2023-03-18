@@ -1,1 +1,1 @@
-export const post = {"id":"9780292323339","slug":"tempora-adnuo-vinco","title":"Comis stella derelinquo itaque thorax quis.","text":"Depopulo minus deleniti sollicito facere. A canto stabilis. Conservo amaritudo caelum aestus carus attero tutis somnus cras tergeo."}
+export const post = {"id":"9780294615937","slug":"ratione-strues-tactus","title":"Aufero appositus amo absens auctus.","text":"Depono cavus officia acer. Expedita sequi sol sustineo abstergo damno. Aiunt comes cursus fuga."}
