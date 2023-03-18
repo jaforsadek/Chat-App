@@ -1,1 +1,1 @@
-export const post = {"id":"9780321471918","slug":"vomer-celebrer-vir","title":"Vix ventito coaegresco vos quaerat canis vigor antepono deputo.","text":"Degenero subito video. Tabernus et audio vulgivagus atque. Defetiscor vir celo caute ager suffragium apparatus utroque."}
+export const post = {"id":"9780070614192","slug":"statim-bellum-angelus","title":"Antea subseco infit tener abutor spargo.","text":"Vis praesentium vindico umerus socius cubitum. Cura audeo optio venio. Adduco demum decumbo victus admoneo cibo vaco bis adstringo."}
