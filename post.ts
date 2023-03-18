@@ -1,1 +1,1 @@
-export const post = {"id":"9780294615937","slug":"ratione-strues-tactus","title":"Aufero appositus amo absens auctus.","text":"Depono cavus officia acer. Expedita sequi sol sustineo abstergo damno. Aiunt comes cursus fuga."}
+export const post = {"id":"9780321471918","slug":"vomer-celebrer-vir","title":"Vix ventito coaegresco vos quaerat canis vigor antepono deputo.","text":"Degenero subito video. Tabernus et audio vulgivagus atque. Defetiscor vir celo caute ager suffragium apparatus utroque."}
