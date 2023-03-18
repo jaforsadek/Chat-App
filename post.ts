@@ -1,1 +1,1 @@
-export const post = {"id":"9780497022808","slug":"incidunt-repudiandae-atqui","title":"Decimus comminor repellat facere quibusdam.","text":"Confido coma illo contigo. Theatrum casus optio ubi voro. Auctus careo fugit conitor cursus cuppedia colo arbustum."}
+export const post = {"id":"9780186329751","slug":"dapifer-acsi-barba","title":"Voluntarius decimus casus beatae cenaculum nostrum.","text":"Taedium voluptas depopulo. Sufficio tabula vulpes explicabo delego concido tamisium universe arx. Undique vinculum vitiosus annus thermae tantillus."}
