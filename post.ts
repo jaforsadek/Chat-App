@@ -1,1 +1,1 @@
-export const post = {"id":"9780303232636","slug":"absque-desolo-cognomen","title":"Recusandae adopto animadverto accendo clamo dedecor quisquam custodia.","text":"Tribuo vinculum appello. Animus arbitro ventus canis attollo succedo cuppedia vallum ad. Vilis utrum beatae error utroque stabilis architecto volup stips versus."}
+export const post = {"id":"9780755216635","slug":"facilis-velum-testimonium","title":"Conqueror cupiditas contra curtus arto architecto aestus.","text":"Nemo clementia vilicus. Veniam demonstro supra. Chirographum credo vel creo terror depono labore."}
