@@ -1,1 +1,1 @@
-export const post = {"id":"9781108193672","slug":"capillus-uter-cilicium","title":"Aggredior ascisco synagoga arma accendo umquam tergeo ter viriliter paens.","text":"Tendo circumvenio verumtamen deludo angelus crustulum. Cogito eligendi ustilo defetiscor pecus subnecto cado itaque conqueror. Ceno amplitudo caute uter."}
+export const post = {"id":"9781248940853","slug":"defendo-sumo-commodi","title":"Studio tamisium denego vitae.","text":"Quia at canonicus amissio acidus unus earum vigor. Vae crebro talus. Valde collum video quia demonstro currus."}
