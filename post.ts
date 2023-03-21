@@ -1,1 +1,1 @@
-export const post = {"id":"9781248940853","slug":"defendo-sumo-commodi","title":"Studio tamisium denego vitae.","text":"Quia at canonicus amissio acidus unus earum vigor. Vae crebro talus. Valde collum video quia demonstro currus."}
+export const post = {"id":"9780267389223","slug":"asporto-autus-sulum","title":"Contra angelus absorbeo.","text":"Mollitia tamisium victoria tersus. Paens tumultus deporto sumo avaritia. Angelus defleo creber appello cursim cupiditate debeo."}
