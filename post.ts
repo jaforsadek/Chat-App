@@ -1,1 +1,1 @@
-export const post = {"id":"9780483031494","slug":"acceptus-tabernus-arcus","title":"Umerus trepide bestia villa aspicio solium sint cervus carmen.","text":"Volutabrum adflicto cerno abscido vigor ea. Tabernus curatio amicitia deduco adnuo villa conduco delinquo coadunatio barba. Angulus crux arguo sublime cedo dicta."}
+export const post = {"id":"9780221102585","slug":"culpo-stella-condico","title":"Ea non decimus urbanus validus barba acidus aptus.","text":"Adamo nobis aperiam recusandae ambitus celo desparatus. Debitis tremo alii thymum argentum. Tui benigne virgo."}
