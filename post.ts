@@ -1,1 +1,1 @@
-export const post = {"id":"9780267389223","slug":"asporto-autus-sulum","title":"Contra angelus absorbeo.","text":"Mollitia tamisium victoria tersus. Paens tumultus deporto sumo avaritia. Angelus defleo creber appello cursim cupiditate debeo."}
+export const post = {"id":"9780328873319","slug":"damno-clarus-animi","title":"Depraedor ait explicabo vigilo sulum unus tristis.","text":"Totus creber adulescens caecus tolero via varietas cultura. Officiis statim veritatis arto supplanto unus terra statua vergo. Ventosus inventore tumultus crastinus vomer vociferor."}
