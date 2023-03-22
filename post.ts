@@ -1,1 +1,1 @@
-export const post = {"id":"9780221102585","slug":"culpo-stella-condico","title":"Ea non decimus urbanus validus barba acidus aptus.","text":"Adamo nobis aperiam recusandae ambitus celo desparatus. Debitis tremo alii thymum argentum. Tui benigne virgo."}
+export const post = {"id":"9781178167306","slug":"compello-calco-tendo","title":"Valde denuo volaticus creber.","text":"Ago taceo sol. Certus deputo aro. Adeo bellum conicio acidus summopere curso adaugeo summa xiphias antea."}
