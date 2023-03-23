@@ -1,1 +1,1 @@
-export const post = {"id":"9781956692853","slug":"voluntarius-delectus-canto","title":"Cedo thesis copiose talis.","text":"Animus quis torqueo delibero vir paens adicio quas. Bardus atrocitas sequi. Cubo cotidie vos allatus absum asper thema colligo."}
+export const post = {"id":"9780210609552","slug":"cubitum-solium-abeo","title":"Assumenda admoveo ciminatio tenetur cerno aegrotatio arcus.","text":"Communis curis cruentus benigne curia admitto stultus arma vir crapula. Asperiores sordeo ventus aetas aedificium summisse. Succurro ustulo clementia."}
