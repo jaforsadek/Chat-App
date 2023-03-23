@@ -1,1 +1,1 @@
-export const post = {"id":"9781390633221","slug":"taedium-vomer-cado","title":"Umbra infit aperte demonstro assumenda clementia victoria theatrum sol.","text":"Annus volva utpote demoror comburo decipio. Suadeo capio itaque aestus aranea alioqui ascit voluptate autus. Centum vulgo amicitia conor aestus unde vomer contabesco."}
+export const post = {"id":"9781026419472","slug":"auctor-tutis-tredecim","title":"Ipsam tristis catena adeo deleo expedita atqui corrumpo tamquam.","text":"Cursus vox curto. Crudelis cribro saepe. Defero depopulo viriliter uxor."}
