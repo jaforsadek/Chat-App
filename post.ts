@@ -1,1 +1,1 @@
-export const post = {"id":"9781178167306","slug":"compello-calco-tendo","title":"Valde denuo volaticus creber.","text":"Ago taceo sol. Certus deputo aro. Adeo bellum conicio acidus summopere curso adaugeo summa xiphias antea."}
+export const post = {"id":"9781124153803","slug":"sapiente-charisma-cubo","title":"Tempus decumbo cubicularis iure turbo demum curtus cattus adulatio depulso.","text":"Conor placeat antiquus torrens. Demo tener sed amplitudo uberrime vulticulus. Utique tutis videlicet custodia subseco tabula torqueo."}
