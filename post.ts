@@ -1,1 +1,1 @@
-export const post = {"id":"9781124153803","slug":"sapiente-charisma-cubo","title":"Tempus decumbo cubicularis iure turbo demum curtus cattus adulatio depulso.","text":"Conor placeat antiquus torrens. Demo tener sed amplitudo uberrime vulticulus. Utique tutis videlicet custodia subseco tabula torqueo."}
+export const post = {"id":"9781956692853","slug":"voluntarius-delectus-canto","title":"Cedo thesis copiose talis.","text":"Animus quis torqueo delibero vir paens adicio quas. Bardus atrocitas sequi. Cubo cotidie vos allatus absum asper thema colligo."}
