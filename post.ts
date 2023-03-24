@@ -1,1 +1,1 @@
-export const post = {"id":"9780234450772","slug":"aggero-cito-deludo","title":"Cumque impedit beatus conscendo dicta assumenda repellendus.","text":"Degero solitudo curto conitor. Adamo cado tabgo curia est laudantium provident accedo. Baiulus reiciendis cupio mollitia viriliter et."}
+export const post = {"id":"9781784953584","slug":"verbera-atque-tondeo","title":"Suus aestus aut tantum cubicularis alienus corrumpo.","text":"Votum appositus benigne odio casso speciosus qui cervus. Aliquid creo aegrus patior totam. Viduo ceno suscipio quasi argentum verto."}
