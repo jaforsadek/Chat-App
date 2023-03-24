@@ -1,1 +1,1 @@
-export const post = {"id":"9781784953584","slug":"verbera-atque-tondeo","title":"Suus aestus aut tantum cubicularis alienus corrumpo.","text":"Votum appositus benigne odio casso speciosus qui cervus. Aliquid creo aegrus patior totam. Viduo ceno suscipio quasi argentum verto."}
+export const post = {"id":"9781066498734","slug":"cruciamentum-culpa-officia","title":"Deprimo turbo creber tam.","text":"Illo vaco thalassinus cultura ascisco vester speculum hic argentum. Canto compello enim coruscus universe blandior. Bellum aperiam ambulo aurum viriliter ulciscor agnitio."}
