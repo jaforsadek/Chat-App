@@ -1,1 +1,1 @@
-export const post = {"id":"9781066498734","slug":"cruciamentum-culpa-officia","title":"Deprimo turbo creber tam.","text":"Illo vaco thalassinus cultura ascisco vester speculum hic argentum. Canto compello enim coruscus universe blandior. Bellum aperiam ambulo aurum viriliter ulciscor agnitio."}
+export const post = {"id":"9781080897155","slug":"abeo-celebrer-depraedor","title":"Adinventitias sol defendo cubicularis.","text":"Cicuta temptatio arbor patior. Nam spiritus abundans. Ceno angustus absorbeo xiphias defetiscor delicate delinquo."}
