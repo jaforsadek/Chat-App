@@ -1,1 +1,1 @@
-export const post = {"id":"9781195890980","slug":"sumo-fuga-caterva","title":"Acerbitas cariosus coerceo.","text":"Tondeo illo fugiat quaerat thesaurus tergeo confido. Utpote arca audacia vado magnam vulnus aestivus tenetur. Denego vergo minima."}
+export const post = {"id":"9781816237217","slug":"aequitas-denique-itaque","title":"Vergo textilis blandior patrocinor totam.","text":"Tabesco ullam pariatur placeat comes tabesco aestus iure. Soluta tametsi allatus beatae volubilis vehemens talus victoria suppellex tollo. Catena adulescens tracto tempore confugo comes allatus."}
