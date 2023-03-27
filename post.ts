@@ -1,1 +1,1 @@
-export const post = {"id":"9780059587219","slug":"spargo-commodo-ait","title":"Temperantia facere cavus causa ubi.","text":"Spiculum clam summopere strenuus trans ciminatio decipio non abscido. Pariatur subvenio amoveo adipisci pecto. A carmen solutio."}
+export const post = {"id":"9781195890980","slug":"sumo-fuga-caterva","title":"Acerbitas cariosus coerceo.","text":"Tondeo illo fugiat quaerat thesaurus tergeo confido. Utpote arca audacia vado magnam vulnus aestivus tenetur. Denego vergo minima."}
