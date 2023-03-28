@@ -1,1 +1,1 @@
-export const post = {"id":"9780262391467","slug":"varietas-vesica-adinventitias","title":"Angelus trepide conturbo.","text":"Bene tepesco adhaero caste. Eos amiculum templum angustus cibus aliquid decretum libero. Audacia eligendi succurro viridis veritas velut ambitus virgo."}
+export const post = {"id":"9780451525208","slug":"vulticulus-certe-caelum","title":"Conicio tubineus sumo defero.","text":"Cernuus sortitus argentum. Corrumpo quo corona triumphus conservo caste dolore theatrum. Deporto natus tracto comes."}
