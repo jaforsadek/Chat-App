@@ -1,1 +1,1 @@
-export const post = {"id":"9780451525208","slug":"vulticulus-certe-caelum","title":"Conicio tubineus sumo defero.","text":"Cernuus sortitus argentum. Corrumpo quo corona triumphus conservo caste dolore theatrum. Deporto natus tracto comes."}
+export const post = {"id":"9780395412800","slug":"celo-apto-stella","title":"Convoco thymum tabernus condico cognomen eveniet adaugeo.","text":"Tenus caecus statim celebrer delectus coniecto atavus verbera atrox cado. Tot vulticulus advoco denuncio comes termes voluptates cupiditas. Sto summa similique demulceo illo."}
