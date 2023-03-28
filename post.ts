@@ -1,1 +1,1 @@
-export const post = {"id":"9780927261869","slug":"necessitatibus-aperte-atqui","title":"Supplanto conatus abeo cariosus complectus totidem sub reprehenderit suscipit depromo.","text":"Vinum tres succedo statim tracto quis. Clam tollo conqueror vicinus vorax sponte. Ultio aqua arca tempus aegre thermae antea."}
+export const post = {"id":"9781860239977","slug":"substantia-caute-admitto","title":"Demitto delinquo paulatim turpis.","text":"Trans omnis virga verumtamen adulescens. Demum caelestis aliqua alveus. Aliquam veniam ventus solitudo."}
