@@ -1,1 +1,1 @@
-export const post = {"id":"9780306561146","slug":"custodia-degenero-arbustum","title":"Decens speciosus laudantium repellat sulum rem valde vos.","text":"Corpus animi vallum. Vomica trucido suffragium atque demulceo ducimus dignissimos. Certus sui vilis totidem carbo amita."}
+export const post = {"id":"9781319532147","slug":"desparatus-copia-cognatus","title":"Tactus arma sursum uterque recusandae conscendo.","text":"Usus infit viduo. Admiratio sophismata asper defessus sponte solitudo iure brevis argentum alveus. Turpis deserunt bellicus."}
