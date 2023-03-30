@@ -1,1 +1,1 @@
-export const post = {"id":"9781319532147","slug":"desparatus-copia-cognatus","title":"Tactus arma sursum uterque recusandae conscendo.","text":"Usus infit viduo. Admiratio sophismata asper defessus sponte solitudo iure brevis argentum alveus. Turpis deserunt bellicus."}
+export const post = {"id":"9780231614252","slug":"adficio-tabella-suppono","title":"Canis color ultio cribro tepidus bellicus.","text":"Clarus demens somniculosus voluptate depopulo arto cetera tabgo. Decor velit cattus carus. Crinis constans sustineo."}
