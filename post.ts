@@ -1,1 +1,1 @@
-export const post = {"id":"9780231614252","slug":"adficio-tabella-suppono","title":"Canis color ultio cribro tepidus bellicus.","text":"Clarus demens somniculosus voluptate depopulo arto cetera tabgo. Decor velit cattus carus. Crinis constans sustineo."}
+export const post = {"id":"9781375533300","slug":"addo-voluptatibus-sed","title":"Callide alveus omnis combibo surculus cohors.","text":"Corona coma amplitudo atque sto dens claro ascisco aegre. Veritas delectus non aegrotatio cado fuga corroboro articulus. Spoliatio cuius tui combibo comis."}
