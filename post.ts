@@ -1,1 +1,1 @@
-export const post = {"id":"9781754999581","slug":"provident-aiunt-vinum","title":"Cruciamentum voluptates conculco adsidue adduco volubilis adicio.","text":"Tondeo vergo victoria crastinus. Ubi deleniti supra tero trans. Sint arguo amita astrum."}
+export const post = {"id":"9781725119048","slug":"denego-summisse-tabesco","title":"Cohaero solvo benigne.","text":"Tutis abeo vulgivagus adsuesco. Impedit ambitus aeneus. Numquam alter correptius clam vomer urbs desidero templum validus."}
