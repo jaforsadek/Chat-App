@@ -1,1 +1,1 @@
-export const post = {"id":"9781725119048","slug":"denego-summisse-tabesco","title":"Cohaero solvo benigne.","text":"Tutis abeo vulgivagus adsuesco. Impedit ambitus aeneus. Numquam alter correptius clam vomer urbs desidero templum validus."}
+export const post = {"id":"9781912365142","slug":"corpus-aeger-crebro","title":"Quis clam supellex thema balbus.","text":"Sollers cras teneo atavus. Tantillus a clibanus beatae conicio ipsam clamo concedo abundans. Vestrum debilito vulnus tergo tribuo dolorum summopere argumentum omnis."}
