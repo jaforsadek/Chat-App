@@ -1,1 +1,1 @@
-export const post = {"id":"9781630799489","slug":"valetudo-solutio-summa","title":"Curso paulatim tergiversatio.","text":"Utroque tardus aggero volo caveo suus desino texo. Defetiscor contego nihil adulescens cerno. Vinitor verumtamen audentia bos colligo sperno illum vilis vesco voveo."}
+export const post = {"id":"9781720394501","slug":"vomer-quam-dolor","title":"Teneo victus volaticus statua.","text":"Sonitus asperiores odit velut. Denuo patrocinor titulus deprimo nisi accusator peior utique. Vicissitudo tricesimus cohors."}
