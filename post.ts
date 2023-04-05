@@ -1,1 +1,1 @@
-export const post = {"id":"9781912365142","slug":"corpus-aeger-crebro","title":"Quis clam supellex thema balbus.","text":"Sollers cras teneo atavus. Tantillus a clibanus beatae conicio ipsam clamo concedo abundans. Vestrum debilito vulnus tergo tribuo dolorum summopere argumentum omnis."}
+export const post = {"id":"9780931133619","slug":"capitulus-arca-pecco","title":"Tollo cometes alias nam sperno verumtamen trepide.","text":"Clementia ara uxor adipiscor. Cui titulus adopto. Tersus adamo acervus iure barba defessus adulatio carus arbustum amicitia."}
