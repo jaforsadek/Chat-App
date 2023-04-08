@@ -1,1 +1,1 @@
-export const post = {"id":"9781038770318","slug":"repellat-quidem-theca","title":"Vitiosus cenaculum repudiandae basium brevis agnitio.","text":"Tot arto decerno. Stultus termes dens adulatio tubineus crustulum. Vociferor suggero conservo abeo solium articulus."}
+export const post = {"id":"9780877574934","slug":"auxilium-facilis-earum","title":"Nostrum aer viriliter iusto.","text":"Adulatio vetus cunabula adulescens careo. Cedo sapiente saepe comitatus maxime. Aureus solum veritatis cilicium usitas vigor ullus tepesco quidem concedo."}
