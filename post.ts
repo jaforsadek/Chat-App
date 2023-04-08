@@ -1,1 +1,1 @@
-export const post = {"id":"9780877574934","slug":"auxilium-facilis-earum","title":"Nostrum aer viriliter iusto.","text":"Adulatio vetus cunabula adulescens careo. Cedo sapiente saepe comitatus maxime. Aureus solum veritatis cilicium usitas vigor ullus tepesco quidem concedo."}
+export const post = {"id":"9781035917082","slug":"tabesco-ocer-vaco","title":"Tondeo cibus quod reiciendis tam.","text":"Cribro copiose acceptus sui magnam nesciunt decipio stabilis. Accendo doloribus adulescens cupio tempus. Caecus basium vociferor nostrum soluta utrimque."}
