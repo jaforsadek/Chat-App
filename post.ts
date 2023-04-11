@@ -1,1 +1,1 @@
-export const post = {"id":"9780221297403","slug":"utrimque-stillicidium-amita","title":"Beatus adicio tertius.","text":"Fuga inflammatio volutabrum credo ancilla sol vae tracto super cursim. Creator amiculum thymbra. Tenax celo videlicet tempora."}
+export const post = {"id":"9781633958357","slug":"subseco-combibo-administratio","title":"Solitudo vos arcesso ex atqui.","text":"Centum ventus cedo altus demulceo clamo. Tamen totus tredecim aestas depopulo. Est aiunt tersus colligo adduco minus super."}
