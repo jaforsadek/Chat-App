@@ -1,1 +1,1 @@
-export const post = {"id":"9781493607501","slug":"accusantium-spiculum-rerum","title":"Officia aequus aliqua.","text":"Talio coerceo aestus altus creber coaegresco. Claudeo attero ambitus voluptatem averto coma. Vigilo arceo vigilo vulgo cursim appositus a attollo."}
+export const post = {"id":"9781271181735","slug":"acceptus-vitium-casus","title":"Bellum corrupti coruscus molestias defaeco doloribus vigilo voco canis.","text":"Aegre repellat audentia deporto deorsum auctus attollo patrocinor corona. Colo combibo amita creo assumenda corpus denique. Veritatis catena barba."}
