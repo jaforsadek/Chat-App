@@ -1,1 +1,1 @@
-export const post = {"id":"9780966374346","slug":"crudelis-capio-thema","title":"Sono clam vetus tergiversatio beatus speciosus eum.","text":"Damno autem nemo officiis a decipio bardus credo brevis nemo. Sapiente pax acceptus comminor. Umbra natus aegrus terra aperio abeo enim adeo."}
+export const post = {"id":"9781709162947","slug":"substantia-alius-magnam","title":"Tempora thesaurus bardus decens.","text":"Quibusdam denego cohibeo tripudio vindico hic alienus. Adiuvo coniuratio accendo spes pectus voco apto. Aliquid valeo adipisci vere curia repellat adamo."}
