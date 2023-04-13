@@ -1,1 +1,1 @@
-export const post = {"id":"9780440533443","slug":"vado-aduro-appono","title":"Victoria triduana aestivus.","text":"Suggero valeo terra copia volo attonbitus concedo. Expedita audeo cum triumphus strues nulla callide cupiditate acer. Desparatus exercitationem caveo sursum."}
+export const post = {"id":"9780966374346","slug":"crudelis-capio-thema","title":"Sono clam vetus tergiversatio beatus speciosus eum.","text":"Damno autem nemo officiis a decipio bardus credo brevis nemo. Sapiente pax acceptus comminor. Umbra natus aegrus terra aperio abeo enim adeo."}
