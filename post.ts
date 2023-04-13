@@ -1,1 +1,1 @@
-export const post = {"id":"9781709162947","slug":"substantia-alius-magnam","title":"Tempora thesaurus bardus decens.","text":"Quibusdam denego cohibeo tripudio vindico hic alienus. Adiuvo coniuratio accendo spes pectus voco apto. Aliquid valeo adipisci vere curia repellat adamo."}
+export const post = {"id":"9781920120702","slug":"arma-absconditus-amplexus","title":"Itaque acervus desidero currus.","text":"Amicitia decens cupressus ipsum cibus canto caries. Creber accendo terra. Enim tenus tabesco."}
