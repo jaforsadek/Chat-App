@@ -1,1 +1,1 @@
-export const post = {"id":"9780458322923","slug":"inventore-claustrum-aliqua","title":"Ait audax conturbo aufero condico sub vulnero varietas.","text":"Decerno adversus super adhaero sperno. Utpote usus amicitia. Uberrime mollitia ipsa."}
+export const post = {"id":"9780363457604","slug":"contego-adeo-cubo","title":"Calculus error bardus statua vulgaris.","text":"Inflammatio desparatus sonitus necessitatibus cogito cultellus turpis vitiosus dolore. Surculus brevis volutabrum umbra cruciamentum sollers ultra. Expedita agnitio suffragium summopere casso."}
