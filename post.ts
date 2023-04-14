@@ -1,1 +1,1 @@
-export const post = {"id":"9781920120702","slug":"arma-absconditus-amplexus","title":"Itaque acervus desidero currus.","text":"Amicitia decens cupressus ipsum cibus canto caries. Creber accendo terra. Enim tenus tabesco."}
+export const post = {"id":"9780458322923","slug":"inventore-claustrum-aliqua","title":"Ait audax conturbo aufero condico sub vulnero varietas.","text":"Decerno adversus super adhaero sperno. Utpote usus amicitia. Uberrime mollitia ipsa."}
