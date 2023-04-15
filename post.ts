@@ -1,1 +1,1 @@
-export const post = {"id":"9780470295205","slug":"decretum-despecto-vulpes","title":"Tremo aedificium ascit verto canonicus fugit earum adhuc adimpleo soluta.","text":"Adiuvo tunc impedit aliqua natus ulterius undique defaeco benigne. Crustulum aperiam sed vorago. Vestrum custodia sulum claudeo."}
+export const post = {"id":"9780843971811","slug":"cimentarius-cimentarius-conscendo","title":"Ulciscor arx defero.","text":"Canonicus canonicus excepturi deripio apostolus campana dedico somniculosus. Quia aetas minima facere arcus delectus. Clam quae cursim."}
