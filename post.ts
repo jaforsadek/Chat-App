@@ -1,1 +1,1 @@
-export const post = {"id":"9780507269988","slug":"solus-deprecator-usitas","title":"Pauper quidem asperiores teneo brevis dedico autus.","text":"Suadeo viriliter coniecto vulnus vinculum. Aeternus tantum tres tenetur autus adeptio vapulus amplexus. Tenax voluptatum vesper soluta via tametsi."}
+export const post = {"id":"9781661296315","slug":"asper-depromo-cur","title":"Constans aperio vulgo.","text":"Verus aurum tam despecto. Verecundia vesper sollicito cur comburo adipiscor denego ventus. Voluptatem defaeco termes similique decimus tam doloremque."}
