@@ -1,1 +1,1 @@
-export const post = {"id":"9780394276380","slug":"cui-confero-tremo","title":"Capillus communis desipio ullam adaugeo verecundia assumenda calculus acerbitas quae.","text":"Eaque ad theca alioqui. Crastinus cras vomito debitis volaticus coma. Deprecator tego statim attero traho pel."}
+export const post = {"id":"9780274269587","slug":"virtus-summopere-sui","title":"Amiculum audio canis unde.","text":"Odio amplexus artificiose abutor claudeo. Cui arbitro cursim arma arbor talis universe. Ipsa alii bos abstergo sto."}
