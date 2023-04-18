@@ -1,1 +1,1 @@
-export const post = {"id":"9780274269587","slug":"virtus-summopere-sui","title":"Amiculum audio canis unde.","text":"Odio amplexus artificiose abutor claudeo. Cui arbitro cursim arma arbor talis universe. Ipsa alii bos abstergo sto."}
+export const post = {"id":"9781486121434","slug":"adhaero-surgo-tametsi","title":"Maiores comminor vesco.","text":"Tenetur deinde sodalitas virtus dicta sunt. Possimus crustulum coruscus atrocitas bestia celer adsuesco vicinus. Copia pectus fuga odio quo venia praesentium."}
