@@ -1,1 +1,1 @@
-export const post = {"id":"9780480358983","slug":"demitto-universe-contra","title":"Voluptatibus curto ante thermae somniculosus trado subiungo odit incidunt.","text":"Suppellex conduco degusto celer adopto. Appello adflicto copia una testimonium. Caute cometes antea theatrum adsuesco."}
+export const post = {"id":"9780112345343","slug":"tristis-avarus-vestrum","title":"Bonus ullam cenaculum speciosus.","text":"Suffragium cursim impedit pauci totidem coniuratio sursum repellat fugit. Volva stultus atavus. Caecus depereo vulnero utor conturbo cena."}
