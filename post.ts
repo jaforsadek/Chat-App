@@ -1,1 +1,1 @@
-export const post = {"id":"9780226543253","slug":"volo-aranea-dolore","title":"Optio vespillo tunc beneficium spiritus usque peior coadunatio.","text":"Comprehendo abbas tergo decet admoveo. Crebro accedo copiose numquam. Conduco ustilo curriculum."}
+export const post = {"id":"9781377875910","slug":"velociter-virtus-arx","title":"Libero thymbra arceo dignissimos vestigium.","text":"Aequitas volva eligendi cavus. Caelestis cariosus ad quis vomica bos vinculum totidem. Aestas advoco subito terror vigor cohibeo thymum unde."}
