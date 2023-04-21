@@ -1,1 +1,1 @@
-export const post = {"id":"9780646711812","slug":"antepono-in-audeo","title":"A audeo non hic verbum trepide commodo aut officiis.","text":"Cunctatio abscido cunctatio sono amita. Vel templum amor deripio acceptus adstringo templum suscipit curatio balbus. Voluptas caute annus caelum annus apostolus vobis rerum sopor."}
+export const post = {"id":"9780456972694","slug":"sufficio-approbo-coniecto","title":"Sunt tener ipsam ultio.","text":"Tergeo vita una. Defungo denuncio talus cibus. Tamdiu termes votum vesica bardus atqui cuius colo asporto."}
