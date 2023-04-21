@@ -1,1 +1,1 @@
-export const post = {"id":"9780456972694","slug":"sufficio-approbo-coniecto","title":"Sunt tener ipsam ultio.","text":"Tergeo vita una. Defungo denuncio talus cibus. Tamdiu termes votum vesica bardus atqui cuius colo asporto."}
+export const post = {"id":"9780226543253","slug":"volo-aranea-dolore","title":"Optio vespillo tunc beneficium spiritus usque peior coadunatio.","text":"Comprehendo abbas tergo decet admoveo. Crebro accedo copiose numquam. Conduco ustilo curriculum."}
