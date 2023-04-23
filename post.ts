@@ -1,1 +1,1 @@
-export const post = {"id":"9780961975944","slug":"vilitas-absum-alo","title":"Via avaritia cinis baiulus capio.","text":"Aer currus tergum ascisco adstringo cinis aegrus. Occaecati desipio spargo arceo tamquam arguo votum officia taedium. Arbustum aequus eligendi desidero teneo officiis contabesco vinculum vulnero."}
+export const post = {"id":"9780595789306","slug":"curis-autem-valeo","title":"Pauci sumptus color ratione vinco.","text":"Debeo ducimus suasoria iste. Comptus thermae contigo averto una vicinus. Sumo votum tandem uxor comis."}
