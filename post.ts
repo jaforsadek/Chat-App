@@ -1,1 +1,1 @@
-export const post = {"id":"9780595789306","slug":"curis-autem-valeo","title":"Pauci sumptus color ratione vinco.","text":"Debeo ducimus suasoria iste. Comptus thermae contigo averto una vicinus. Sumo votum tandem uxor comis."}
+export const post = {"id":"9780167290056","slug":"curriculum-chirographum-totidem","title":"Accendo asperiores theca.","text":"Soleo ante tabgo demergo addo dapifer in. Texo beatae patior modi at aurum terreo somniculosus varius hic. Vicissitudo cernuus talus cunctatio ait virgo pecto chirographum consequatur delibero."}
