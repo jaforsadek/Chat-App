@@ -1,1 +1,1 @@
-export const post = {"id":"9781555165666","slug":"adulatio-tutamen-demo","title":"Videlicet crapula terga sophismata inflammatio.","text":"Talus depereo occaecati cibo tonsor crustulum aurum cresco cognomen uredo. Correptius cedo thesis comminor sponte confugo eligendi animadverto vilitas. Adfectus artificiose theca adeo templum condico."}
+export const post = {"id":"9780992285500","slug":"defendo-sub-auctus","title":"Fugiat perferendis benevolentia.","text":"Contabesco subnecto vix tabesco decipio. Arbor acsi quidem cena officiis. Id centum soleo dolore arbustum."}
