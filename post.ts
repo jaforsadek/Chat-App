@@ -1,1 +1,1 @@
-export const post = {"id":"9780992285500","slug":"defendo-sub-auctus","title":"Fugiat perferendis benevolentia.","text":"Contabesco subnecto vix tabesco decipio. Arbor acsi quidem cena officiis. Id centum soleo dolore arbustum."}
+export const post = {"id":"9781465960542","slug":"teneo-impedit-corrumpo","title":"Video doloremque callide benevolentia cognatus aetas error auditor necessitatibus varius.","text":"Amet exercitationem talis adipisci volup quae tego absorbeo. Talio cena thalassinus fugiat tum subvenio acceptus amplexus. Acer argumentum exercitationem."}
