@@ -1,1 +1,1 @@
-export const post = {"id":"9781857443387","slug":"sponte-acsi-vigor","title":"Architecto corrumpo creta subiungo timidus comprehendo.","text":"Comitatus defetiscor appositus celebrer totus. Corporis ea aer atque. Calco ambulo vobis strues deludo tempora nisi via paens thermae."}
+export const post = {"id":"9780454756005","slug":"aqua-vitiosus-cribro","title":"Volubilis canonicus desipio commemoro ultio caterva.","text":"Cotidie contabesco suspendo vinitor cur. Cinis dens praesentium speciosus tutis derideo omnis. Cauda apto curiositas cur surculus varietas."}
