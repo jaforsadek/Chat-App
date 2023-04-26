@@ -1,1 +1,1 @@
-export const post = {"id":"9781961781245","slug":"compello-vitiosus-advoco","title":"Suppellex apud accedo.","text":"Audax clam acidus ratione carus curso terebro deporto tristis. Suppono utpote suffragium cunctatio accommodo supra. Amplus uterque coniuratio vulnero asperiores et."}
+export const post = {"id":"9781439190500","slug":"vulpes-curtus-admoveo","title":"Adversus architecto defero angulus voveo.","text":"Spero amplexus curriculum demonstro aqua abundans utique vomer qui caute. Tunc ut decretum sunt celebrer contego deporto. Temptatio assumenda vesper virtus."}
