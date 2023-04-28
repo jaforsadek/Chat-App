@@ -1,1 +1,1 @@
-export const post = {"id":"9781176710504","slug":"tunc-doloremque-tabernus","title":"Decretum tendo tamen patrocinor tribuo bene.","text":"Statua ascisco perferendis assumenda aetas balbus tenetur cinis cibo defero. Hic uter decor crepusculum. Defungo pecto terror."}
+export const post = {"id":"9781615128167","slug":"laudantium-ars-bonus","title":"Sequi concido ocer cupio cado.","text":"Pauper carpo commodo ratione alter considero tutamen desipio ante quia. Cursus tibi defetiscor textilis. Autus usque adsuesco deporto celer."}
