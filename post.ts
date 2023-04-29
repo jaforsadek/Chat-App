@@ -1,1 +1,1 @@
-export const post = {"id":"9781367613225","slug":"enim-conatus-velociter","title":"Desino omnis cicuta expedita depulso terreo tolero suus repellat.","text":"Civis bardus summisse charisma. Corrupti utrimque tertius confugo suspendo truculenter. Defetiscor vulgaris vulpes maxime substantia voro aeneus sursum vergo curis."}
+export const post = {"id":"9780802847553","slug":"conitor-desipio-amoveo","title":"Depulso armarium cultellus.","text":"Sordeo vaco aspernatur. Calco ademptio cultellus deprecator. Ubi crinis deripio conservo voluntarius."}
