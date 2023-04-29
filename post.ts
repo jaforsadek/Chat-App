@@ -1,1 +1,1 @@
-export const post = {"id":"9781266090387","slug":"averto-tenetur-sit","title":"Comburo coniecto vicinus verumtamen synagoga necessitatibus aiunt capillus commodi creta.","text":"Cohibeo spiculum conventus caveo custodia commodi torqueo. Sponte combibo cunctatio. Tero sol celer."}
+export const post = {"id":"9780841739666","slug":"ex-tremo-censura","title":"Auctor cito est clamo.","text":"Ventus eligendi crudelis balbus artificiose approbo solutio. Celebrer strues denuo cunae dolor. Sonitus iste subseco tum candidus."}
