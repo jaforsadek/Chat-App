@@ -1,1 +1,1 @@
-export const post = {"id":"9780841739666","slug":"ex-tremo-censura","title":"Auctor cito est clamo.","text":"Ventus eligendi crudelis balbus artificiose approbo solutio. Celebrer strues denuo cunae dolor. Sonitus iste subseco tum candidus."}
+export const post = {"id":"9781367613225","slug":"enim-conatus-velociter","title":"Desino omnis cicuta expedita depulso terreo tolero suus repellat.","text":"Civis bardus summisse charisma. Corrupti utrimque tertius confugo suspendo truculenter. Defetiscor vulgaris vulpes maxime substantia voro aeneus sursum vergo curis."}
