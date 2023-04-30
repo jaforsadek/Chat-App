@@ -1,1 +1,1 @@
-export const post = {"id":"9781729867174","slug":"vorago-corrumpo-tantillus","title":"Taedium sapiente delectus.","text":"Utor pax vox tenax timor utor campana. Culpo vomito nemo volup consequuntur. Arbor ex caveo sequi totidem vero capio brevis canis corpus."}
+export const post = {"id":"9781842980460","slug":"terebro-optio-ipsam","title":"Aperio creber validus admoveo dens timidus cupressus sursum aer vicinus.","text":"Tergeo quae alter doloribus tredecim. Crux complectus occaecati ventus vociferor ea suasoria adeptio quam vero. Et vester valde dedecor sapiente bibo."}
