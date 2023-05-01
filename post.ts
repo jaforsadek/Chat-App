@@ -1,1 +1,1 @@
-export const post = {"id":"9781189321544","slug":"tempore-sonitus-cattus","title":"Cito delicate defero attollo nesciunt bene.","text":"Quia tonsor ascit. Sollicito valeo vero circumvenio turba. Cedo molestiae non spoliatio beatus colligo."}
+export const post = {"id":"9780830298648","slug":"tot-aliquam-tricesimus","title":"Delectus barba atrox repellat depopulo circumvenio arcus victoria depulso.","text":"Aetas vomer tabgo maxime. Arceo cumque adstringo thesis. Quos corroboro provident arguo aer absconditus tabgo nam voluptatem absum."}
