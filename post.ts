@@ -1,1 +1,1 @@
-export const post = {"id":"9780830298648","slug":"tot-aliquam-tricesimus","title":"Delectus barba atrox repellat depopulo circumvenio arcus victoria depulso.","text":"Aetas vomer tabgo maxime. Arceo cumque adstringo thesis. Quos corroboro provident arguo aer absconditus tabgo nam voluptatem absum."}
+export const post = {"id":"9780007846641","slug":"curtus-talio-subnecto","title":"Virgo sol culpa cauda theca supra.","text":"Clamo cometes cursim ducimus vinum. Nemo adstringo socius tutis arbustum. Tui xiphias odio demo debitis desolo temeritas virga animadverto comptus."}
