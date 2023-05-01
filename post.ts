@@ -1,1 +1,1 @@
-export const post = {"id":"9780138979157","slug":"commodo-amet-sapiente","title":"Crapula in comburo pecus subseco calco neque corroboro vitium cogo.","text":"Doloribus harum tumultus. Arceo consectetur aestas terror depopulo vesco facilis vehemens itaque antiquus. Delectatio curvo nesciunt strenuus."}
+export const post = {"id":"9781189321544","slug":"tempore-sonitus-cattus","title":"Cito delicate defero attollo nesciunt bene.","text":"Quia tonsor ascit. Sollicito valeo vero circumvenio turba. Cedo molestiae non spoliatio beatus colligo."}
