@@ -1,1 +1,1 @@
-export const post = {"id":"9780218546378","slug":"tergiversatio-surgo-suggero","title":"Valeo avarus cado conculco dapifer accendo porro.","text":"Taedium ipsam administratio tardus debeo. Aspernatur dignissimos validus caute vero suffragium odio attonbitus. Ustilo deripio autus adsuesco."}
+export const post = {"id":"9780786726141","slug":"articulus-crustulum-audio","title":"Velum repellendus patior degenero textilis.","text":"Desparatus usitas unde architecto corrumpo cibus. Atqui aestivus corpus baiulus tonsor commemoro solum. Tactus tenax quaerat nobis cupiditas."}
