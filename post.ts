@@ -1,1 +1,1 @@
-export const post = {"id":"9780007846641","slug":"curtus-talio-subnecto","title":"Virgo sol culpa cauda theca supra.","text":"Clamo cometes cursim ducimus vinum. Nemo adstringo socius tutis arbustum. Tui xiphias odio demo debitis desolo temeritas virga animadverto comptus."}
+export const post = {"id":"9781555408916","slug":"deserunt-viduo-tempus","title":"Aut maxime debeo architecto vomito cresco abscido.","text":"Comptus natus tergeo libero provident. Iusto cupiditas accusator dedecor illum adulatio arx. Solvo beneficium tot supellex."}
