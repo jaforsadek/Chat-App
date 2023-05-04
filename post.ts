@@ -1,1 +1,1 @@
-export const post = {"id":"9780786726141","slug":"articulus-crustulum-audio","title":"Velum repellendus patior degenero textilis.","text":"Desparatus usitas unde architecto corrumpo cibus. Atqui aestivus corpus baiulus tonsor commemoro solum. Tactus tenax quaerat nobis cupiditas."}
+export const post = {"id":"9780504575570","slug":"color-cur-cetera","title":"Cubicularis eius contigo.","text":"Vacuus toties toties benigne tracto error vulariter possimus. Basium cernuus cognomen voro tergo. Cur termes aspernatur."}
