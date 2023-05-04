@@ -1,1 +1,1 @@
-export const post = {"id":"9781454382065","slug":"facere-trucido-compono","title":"Caelum amoveo centum voro somniculosus.","text":"Vigor ipsum adicio. Basium tactus sum. Arma tutis sto viridis torrens."}
+export const post = {"id":"9780597951749","slug":"adulatio-canto-suscipit","title":"Officiis tibi clarus una volva absconditus.","text":"Demitto volo voro ut qui. Theologus quam coniecto adsidue aestivus. Vorago cruentus vere depulso laborum substantia corrumpo verus."}
