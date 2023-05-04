@@ -1,1 +1,1 @@
-export const post = {"id":"9780504575570","slug":"color-cur-cetera","title":"Cubicularis eius contigo.","text":"Vacuus toties toties benigne tracto error vulariter possimus. Basium cernuus cognomen voro tergo. Cur termes aspernatur."}
+export const post = {"id":"9781848860841","slug":"communis-considero-caelestis","title":"Color aequus urbs vesco sed tunc pecto.","text":"Trado stillicidium antiquus patrocinor tonsor coniuratio vito. Tergiversatio aperte allatus rerum amissio. Vulticulus aer cometes maiores ascit."}
