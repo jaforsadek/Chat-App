@@ -1,1 +1,1 @@
-export const post = {"id":"9781390918793","slug":"fuga-capillus-tum","title":"Adfero vigilo basium sapiente.","text":"Accendo nihil volaticus spoliatio. Summopere deporto talus cupiditate autus. Vere tego super aqua coniecto vaco iste denique."}
+export const post = {"id":"9780275464042","slug":"alo-degenero-vel","title":"Cito delinquo coadunatio.","text":"Conicio conscendo via tredecim adulatio. Balbus universe delibero defessus balbus villa tamen. Despecto depereo somnus."}
