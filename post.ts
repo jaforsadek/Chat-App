@@ -1,1 +1,1 @@
-export const post = {"id":"9781400424221","slug":"caute-ancilla-vivo","title":"Varietas asperiores arma animi.","text":"Virga voro crastinus audeo crur deripio eaque facilis cervus turpis. Unde victus abbas. Vociferor accendo deficio agnosco cupiditate."}
+export const post = {"id":"9780075344513","slug":"candidus-strues-carmen","title":"Decumbo deripio denique volup.","text":"Eligendi antepono nemo. Carcer vociferor canto colo ulciscor velum thalassinus aranea caries. Tam abscido supplanto vulgo voluptatem."}
