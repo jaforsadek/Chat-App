@@ -1,1 +1,1 @@
-export const post = {"id":"9780075344513","slug":"candidus-strues-carmen","title":"Decumbo deripio denique volup.","text":"Eligendi antepono nemo. Carcer vociferor canto colo ulciscor velum thalassinus aranea caries. Tam abscido supplanto vulgo voluptatem."}
+export const post = {"id":"9781001533292","slug":"claustrum-truculenter-demonstro","title":"Cunabula alias vere infit arbor.","text":"Tergo videlicet corporis tener succurro contabesco ullam. Acervus turbo cultura cunabula sublime. Vehemens adsidue arbor audio deputo confugo consuasor."}
