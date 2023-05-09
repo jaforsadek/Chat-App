@@ -1,1 +1,1 @@
-export const post = {"id":"9780134119830","slug":"conculco-curso-totam","title":"Virtus commodo placeat omnis suasoria adsum sit.","text":"Vicinus curia carmen aeger copiose aliquam. Copia carpo venio molestias credo. Voluptas voluptatem vulariter solvo dedico vindico aliquam."}
+export const post = {"id":"9781359524966","slug":"caste-conscendo-cursus","title":"Comedo ter patruus usque ascisco.","text":"Voco tredecim umerus ara arceo. Delinquo triumphus adaugeo surculus subito cresco similique utique. Commodo fugit stipes balbus autus."}
