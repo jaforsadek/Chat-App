@@ -1,1 +1,1 @@
-export const post = {"id":"9781359524966","slug":"caste-conscendo-cursus","title":"Comedo ter patruus usque ascisco.","text":"Voco tredecim umerus ara arceo. Delinquo triumphus adaugeo surculus subito cresco similique utique. Commodo fugit stipes balbus autus."}
+export const post = {"id":"9781023743150","slug":"clamo-ab-cibo","title":"Utroque occaecati aspernatur delego depraedor.","text":"Repellendus confero depromo tamen aeger temeritas error credo vicissitudo verus. Spargo videlicet tutamen conqueror. Decumbo desipio eligendi capitulus."}
