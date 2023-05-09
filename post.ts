@@ -1,1 +1,1 @@
-export const post = {"id":"9781023743150","slug":"clamo-ab-cibo","title":"Utroque occaecati aspernatur delego depraedor.","text":"Repellendus confero depromo tamen aeger temeritas error credo vicissitudo verus. Spargo videlicet tutamen conqueror. Decumbo desipio eligendi capitulus."}
+export const post = {"id":"9781512791211","slug":"solum-defero-deleniti","title":"Bene utor ocer acidus nostrum cohibeo cauda abduco tergum celebrer.","text":"Facere cupressus voco valens turpis adhaero abstergo doloremque sumo. Derelinquo aperio carmen. Copiose appositus suppono."}
