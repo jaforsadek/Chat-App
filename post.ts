@@ -1,1 +1,1 @@
-export const post = {"id":"9780521366816","slug":"sed-arbor-votum","title":"Ipsam defendo venia cariosus iste thesaurus summisse.","text":"Una minima conculco demitto expedita. Velum carbo somniculosus cibus nostrum paulatim crapula thesaurus ultio. Quidem comburo auctus aggredior."}
+export const post = {"id":"9780134119830","slug":"conculco-curso-totam","title":"Virtus commodo placeat omnis suasoria adsum sit.","text":"Vicinus curia carmen aeger copiose aliquam. Copia carpo venio molestias credo. Voluptas voluptatem vulariter solvo dedico vindico aliquam."}
