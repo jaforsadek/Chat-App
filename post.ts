@@ -1,1 +1,1 @@
-export const post = {"id":"9781372450112","slug":"consuasor-cervus-sufficio","title":"Conspergo verumtamen sophismata tunc tyrannus aeternus coadunatio.","text":"Coma sollicito quos. Utique curso acervus est cum cumque cunctatio recusandae. Cubicularis modi arguo debitis contra carus deduco copiose utroque calamitas."}
+export const post = {"id":"9780604623997","slug":"clarus-adsum-deporto","title":"Spargo addo tot.","text":"Eius condico sustineo cerno tempora cetera voluptatem tepidus casso sub. Capto corroboro adeptio. Sursum bene adicio tersus."}
