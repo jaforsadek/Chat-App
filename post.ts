@@ -1,1 +1,1 @@
-export const post = {"id":"9780428772758","slug":"deleo-despecto-nulla","title":"Avaritia vere cenaculum uredo vitiosus.","text":"Carmen statua cattus quia deleo eius. Cui defessus adnuo ipsa. Sortitus ipsum cribro maiores tabula capio texo credo."}
+export const post = {"id":"9780275112738","slug":"canto-tenuis-perferendis","title":"Rerum admoveo voro consectetur.","text":"Quibusdam adhuc suspendo. Cunabula umbra summa deleo. Dens curso convoco sonitus necessitatibus damnatio vere itaque accommodo."}
