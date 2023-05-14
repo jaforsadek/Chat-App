@@ -1,1 +1,1 @@
-export const post = {"id":"9780275112738","slug":"canto-tenuis-perferendis","title":"Rerum admoveo voro consectetur.","text":"Quibusdam adhuc suspendo. Cunabula umbra summa deleo. Dens curso convoco sonitus necessitatibus damnatio vere itaque accommodo."}
+export const post = {"id":"9780259440161","slug":"curo-considero-voco","title":"Tergum adipisci spoliatio textus atqui arceo bis vulticulus.","text":"Sapiente coniecto conventus autem spoliatio. Quas sperno usque decumbo tertius tot aestas. Tolero odio tener amplexus vomito autem."}
