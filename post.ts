@@ -1,1 +1,1 @@
-export const post = {"id":"9780716532316","slug":"bene-votum-cumque","title":"Adaugeo bardus quas bibo vulgivagus adflicto cotidie totam.","text":"Solutio vehemens thermae suppellex enim tot. Adficio cohaero vis patior deinde avaritia. Totidem veritatis adhaero verbum denuncio ter statua."}
+export const post = {"id":"9780340978726","slug":"valeo-cunae-corroboro","title":"Texo adaugeo ancilla adsidue.","text":"Cimentarius pauper venustas. Ambitus auditor demonstro. Comburo territo tredecim curvo theologus praesentium dolores."}
