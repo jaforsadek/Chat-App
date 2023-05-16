@@ -1,1 +1,1 @@
-export const post = {"id":"9781369870596","slug":"dolor-virtus-cado","title":"Spoliatio quis quas.","text":"Bellum audeo astrum suggero statua. Defluo facilis absque. Creber curtus fugit esse cogito virga absens synagoga eius."}
+export const post = {"id":"9781639713745","slug":"tergo-appositus-veritatis","title":"Approbo ventosus tabella centum tabula ultio ago acidus tabgo.","text":"Defetiscor substantia admoneo titulus cribro claro vero aedificium cultellus cogo. Claro demonstro patria patria ambulo. Cunabula adfectus confugo amplitudo."}
