@@ -1,1 +1,1 @@
-export const post = {"id":"9781768819462","slug":"undique-advenio-aliqua","title":"Optio thymbra dedecor accusamus.","text":"Astrum tabula victus correptius auctus. Deduco sortitus demoror expedita decor absens. Cerno cur adinventitias sunt communis repellat ago alo aer."}
+export const post = {"id":"9780211919773","slug":"patrocinor-uxor-ver","title":"Ver sollicito una.","text":"Natus suffragium una vesco tum solus atque crux. Crudelis commemoro tego confugo vulariter. Strues ambulo arbor bos deinde apparatus tempore veniam solium."}
