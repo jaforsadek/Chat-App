@@ -1,1 +1,1 @@
-export const post = {"id":"9780690639681","slug":"delego-coniecto-thema","title":"Tamquam comprehendo eligendi neque desidero.","text":"Arca tenax trans tumultus delego tamisium totidem comburo eos audio. Cariosus sumo timor. Animadverto subnecto occaecati pariatur vitae cruentus ver modi."}
+export const post = {"id":"9780520187146","slug":"vestrum-cursim-vomito","title":"Certus cernuus conspergo sit cupiditate tero amissio.","text":"Volo unde viriliter magni recusandae inflammatio demo. Speculum aqua similique. Vetus condico addo demo tandem suus tabernus."}
