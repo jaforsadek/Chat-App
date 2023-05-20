@@ -1,1 +1,1 @@
-export const post = {"id":"9780211919773","slug":"patrocinor-uxor-ver","title":"Ver sollicito una.","text":"Natus suffragium una vesco tum solus atque crux. Crudelis commemoro tego confugo vulariter. Strues ambulo arbor bos deinde apparatus tempore veniam solium."}
+export const post = {"id":"9780690639681","slug":"delego-coniecto-thema","title":"Tamquam comprehendo eligendi neque desidero.","text":"Arca tenax trans tumultus delego tamisium totidem comburo eos audio. Cariosus sumo timor. Animadverto subnecto occaecati pariatur vitae cruentus ver modi."}
