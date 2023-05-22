@@ -1,1 +1,1 @@
-export const post = {"id":"9781764355834","slug":"depopulo-bellum-cattus","title":"Civis tracto commemoro voluptatibus caelum.","text":"Cruciamentum tonsor caries totidem et auditor audeo vos dedecor. Umquam porro validus cedo ulterius debeo. Supplanto bis cattus voveo alo."}
+export const post = {"id":"9780603449154","slug":"trado-thorax-bellicus","title":"Audeo quaerat strenuus ultio cupiditate cruentus.","text":"Libero conculco synagoga curis cinis acer ipsum dens campana. A caute colo. Amiculum labore synagoga atavus."}
