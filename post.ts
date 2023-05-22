@@ -1,1 +1,1 @@
-export const post = {"id":"9781423992769","slug":"spero-spoliatio-villa","title":"Comparo colligo demonstro cauda subvenio defungo adflicto.","text":"Abscido apto spargo addo truculenter. In cui cubicularis cohors curia nisi sufficio sunt quas. Subito animadverto votum cunae vicissitudo capitulus."}
+export const post = {"id":"9781243599681","slug":"subnecto-timidus-utilis","title":"Sursum victus animadverto.","text":"Aestus condico vix temptatio temeritas certus spes virgo infit apostolus. Harum neque auxilium civis ocer assumenda advenio. Tantillus arbor tondeo ago."}
