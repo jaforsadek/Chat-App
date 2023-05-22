@@ -1,1 +1,1 @@
-export const post = {"id":"9780330313629","slug":"reprehenderit-denego-sui","title":"Facilis facilis taedium coniecto deporto.","text":"Comparo rem vergo taceo paulatim pecus cunabula admoveo. Artificiose defungo avarus aut. Pecus celebrer conduco statim adflicto tonsor conspergo utrum."}
+export const post = {"id":"9781764355834","slug":"depopulo-bellum-cattus","title":"Civis tracto commemoro voluptatibus caelum.","text":"Cruciamentum tonsor caries totidem et auditor audeo vos dedecor. Umquam porro validus cedo ulterius debeo. Supplanto bis cattus voveo alo."}
