@@ -1,1 +1,1 @@
-export const post = {"id":"9780520187146","slug":"vestrum-cursim-vomito","title":"Certus cernuus conspergo sit cupiditate tero amissio.","text":"Volo unde viriliter magni recusandae inflammatio demo. Speculum aqua similique. Vetus condico addo demo tandem suus tabernus."}
+export const post = {"id":"9781423992769","slug":"spero-spoliatio-villa","title":"Comparo colligo demonstro cauda subvenio defungo adflicto.","text":"Abscido apto spargo addo truculenter. In cui cubicularis cohors curia nisi sufficio sunt quas. Subito animadverto votum cunae vicissitudo capitulus."}
