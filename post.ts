@@ -1,1 +1,1 @@
-export const post = {"id":"9780603449154","slug":"trado-thorax-bellicus","title":"Audeo quaerat strenuus ultio cupiditate cruentus.","text":"Libero conculco synagoga curis cinis acer ipsum dens campana. A caute colo. Amiculum labore synagoga atavus."}
+export const post = {"id":"9780636886735","slug":"texo-vesco-vergo","title":"Incidunt vir templum terga admoneo utor asperiores.","text":"Termes tabernus quibusdam caritas quos tondeo substantia voluptatum. Adversus creber auctor arguo tutamen desipio. Aeneus approbo sollers vilicus amiculum cum artificiose."}
