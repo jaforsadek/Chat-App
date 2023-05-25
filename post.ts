@@ -1,1 +1,1 @@
-export const post = {"id":"9780078829741","slug":"consequatur-ascisco-demum","title":"Victoria amicitia texo.","text":"Tego cupiditas spoliatio alius libero campana decimus. Pauper deporto defaeco uberrime viridis. Spargo cuppedia sunt terra."}
+export const post = {"id":"9781882003686","slug":"iusto-verbera-cariosus","title":"Adamo desidero adimpleo combibo aufero tenus tibi clibanus vorago tutamen.","text":"Callide depromo venia terror cumque audax delinquo. Fugit arma vigor adipisci culpo. Inventore cuppedia admoveo derelinquo defessus demum considero taedium."}
