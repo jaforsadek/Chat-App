@@ -1,1 +1,1 @@
-export const post = {"id":"9780341646396","slug":"tenus-tergiversatio-velut","title":"Atavus arbitro iusto utrum architecto ancilla uterque.","text":"Conscendo custodia soluta. Maiores catena tamisium. Depraedor amitto theca adficio voro curriculum peior."}
+export const post = {"id":"9780782213911","slug":"adimpleo-cura-correptius","title":"Averto viduo deinde defungo aranea laborum tui caelestis decretum.","text":"Corrigo arbitro paens arguo. Suggero atavus ante doloribus. Perferendis patria velociter articulus tutis statim."}
