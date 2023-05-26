@@ -1,1 +1,1 @@
-export const post = {"id":"9780372672616","slug":"abscido-attero-sopor","title":"Ait contabesco desipio denique tantum commemoro voluptates.","text":"Arbustum certus voco caveo argumentum. Pauci creptio assumenda possimus. Addo iusto amissio accendo."}
+export const post = {"id":"9780504518898","slug":"vulticulus-tempore-repellat","title":"Aliquam deduco thesaurus ratione earum appono.","text":"Crepusculum taedium cohibeo. Basium amplus adsuesco aperiam abscido amplexus thesaurus. Sint adimpleo desolo pecto abstergo undique placeat supplanto cognomen."}
