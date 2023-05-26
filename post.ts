@@ -1,1 +1,1 @@
-export const post = {"id":"9780948760853","slug":"vomica-accusantium-appello","title":"Utroque tabgo amplus totidem texo mollitia curvo.","text":"Utique conatus speciosus inflammatio. Aranea teneo aut turba compono voveo. Varietas convoco sopor conturbo perferendis cenaculum curtus caries."}
+export const post = {"id":"9780319937440","slug":"aduro-laudantium-spiculum","title":"Adficio dedico tyrannus.","text":"Architecto temperantia ver necessitatibus dedico bene ratione beatus. Templum ambulo aestas. Voro ulterius demitto."}
