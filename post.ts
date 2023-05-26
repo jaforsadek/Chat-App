@@ -1,1 +1,1 @@
-export const post = {"id":"9780782213911","slug":"adimpleo-cura-correptius","title":"Averto viduo deinde defungo aranea laborum tui caelestis decretum.","text":"Corrigo arbitro paens arguo. Suggero atavus ante doloribus. Perferendis patria velociter articulus tutis statim."}
+export const post = {"id":"9780948760853","slug":"vomica-accusantium-appello","title":"Utroque tabgo amplus totidem texo mollitia curvo.","text":"Utique conatus speciosus inflammatio. Aranea teneo aut turba compono voveo. Varietas convoco sopor conturbo perferendis cenaculum curtus caries."}
