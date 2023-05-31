@@ -1,1 +1,1 @@
-export const post = {"id":"9781512474336","slug":"tabesco-cupio-eius","title":"Tribuo vis surculus conitor admoneo audax utroque terror.","text":"Xiphias tametsi voluptatum ventus. Acceptus vita via coadunatio suasoria decimus cado numquam vilitas. Magnam tumultus alii suscipio."}
+export const post = {"id":"9781157365679","slug":"dolorem-dicta-bellum","title":"Audacia ultio ab cohibeo suscipit theologus.","text":"Virga cauda teres caterva sapiente pauci. Vobis chirographum ipsam vehemens virtus. Dolorum sed suus."}
