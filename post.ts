@@ -1,1 +1,1 @@
-export const post = {"id":"9780285099395","slug":"debitis-paens-dignissimos","title":"Consuasor utilis versus argumentum demum.","text":"Auctus altus decor. Adinventitias ducimus inflammatio tergum sint video. Varietas color quisquam sustineo cresco summa curto antepono."}
+export const post = {"id":"9780612050556","slug":"cupiditas-varietas-vulgaris","title":"Civis timidus tergum careo solus perspiciatis virgo.","text":"Copia correptius vero. Peior tenuis acerbitas. Aut xiphias sordeo aut alioqui."}
