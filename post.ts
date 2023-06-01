@@ -1,1 +1,1 @@
-export const post = {"id":"9780516731414","slug":"hic-talis-suffoco","title":"Calculus desipio valetudo.","text":"Cernuus vehemens quo reiciendis tero. Depulso comptus theologus amitto calculus unus. Dolore cubicularis taedium porro molestias antea volo succedo arbitro."}
+export const post = {"id":"9780965753449","slug":"quaerat-sopor-excepturi","title":"Tergo bestia vitiosus collum alioqui volaticus.","text":"Admoneo uterque conculco terga iusto. Tametsi canto modi demens. Aegre ventus utor cenaculum asporto vesco repudiandae veritas theatrum."}
