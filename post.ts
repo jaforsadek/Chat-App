@@ -1,1 +1,1 @@
-export const post = {"id":"9780612050556","slug":"cupiditas-varietas-vulgaris","title":"Civis timidus tergum careo solus perspiciatis virgo.","text":"Copia correptius vero. Peior tenuis acerbitas. Aut xiphias sordeo aut alioqui."}
+export const post = {"id":"9781259394041","slug":"carus-aegre-at","title":"Adulescens adsum vestigium.","text":"Damnatio veniam carpo sol convoco ars triumphus. Beatae cur terror cimentarius numquam ulterius benigne decet pax. Adicio acidus pecto summisse paens angustus amor versus."}
