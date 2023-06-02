@@ -1,1 +1,1 @@
-export const post = {"id":"9780027953688","slug":"cavus-asperiores-apto","title":"Amplexus peccatus minus quae.","text":"Cumque ventus aegrus calamitas alii sumo. Usus ex avarus. Baiulus testimonium nobis nemo pauper depraedor."}
+export const post = {"id":"9780600527367","slug":"adficio-decet-angulus","title":"Aggredior quae clamo cattus aliqua cilicium.","text":"Vomer ancilla thesaurus urbs viriliter deprecator. Cibo demoror talio auxilium. Asper appello consectetur vester bonus."}
