@@ -1,1 +1,1 @@
-export const post = {"id":"9781900452670","slug":"solitudo-facilis-demulceo","title":"Defero vos aeternus benevolentia.","text":"Adinventitias considero ago asperiores antiquus damnatio bos comminor. Curatio alveus vivo minus eius acerbitas. Terminatio corporis synagoga."}
+export const post = {"id":"9781531603687","slug":"coerceo-cursus-demergo","title":"Tendo vomica nulla suffoco amaritudo tersus subiungo timor.","text":"Virtus eligendi volo. Vereor aut vaco adiuvo corrumpo subnecto solitudo. Vox admitto taceo amor theologus vir."}
