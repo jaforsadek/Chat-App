@@ -1,1 +1,1 @@
-export const post = {"id":"9781531603687","slug":"coerceo-cursus-demergo","title":"Tendo vomica nulla suffoco amaritudo tersus subiungo timor.","text":"Virtus eligendi volo. Vereor aut vaco adiuvo corrumpo subnecto solitudo. Vox admitto taceo amor theologus vir."}
+export const post = {"id":"9780010802733","slug":"barba-eligendi-volo","title":"Allatus aliqua demo sopor voluntarius strues virga quae temperantia.","text":"Sollicito arbitro atrox urbs cilicium. Aut anser copiose nostrum. Arto conculco id annus perspiciatis teneo vitae triumphus suffragium."}
