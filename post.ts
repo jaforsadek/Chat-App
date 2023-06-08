@@ -1,1 +1,1 @@
-export const post = {"id":"9780062472908","slug":"voro-thema-administratio","title":"Inflammatio totus depono.","text":"Pecus cruentus cilicium. Animi termes vulnus spero dolor subseco strenuus altus depromo expedita. Capio corona acidus coruscus ver."}
+export const post = {"id":"9781522764199","slug":"sordeo-usitas-deinde","title":"Utrum totidem via argumentum voveo deludo ultio amet.","text":"Sollers volo arcus. Alo venia admoneo libero crapula admiratio antepono derideo. Comitatus adulatio color certe spero aufero umerus."}
