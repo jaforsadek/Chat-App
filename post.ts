@@ -1,1 +1,1 @@
-export const post = {"id":"9780070624955","slug":"careo-officia-desolo","title":"Vere ustilo centum annus peior audeo paulatim coma acceptus consectetur.","text":"Cui alii avaritia. Ratione cupiditas abscido verumtamen vindico patria denuncio. Porro carus vir ceno caelum catena vallum ventosus itaque."}
+export const post = {"id":"9780591817645","slug":"appositus-sonitus-ancilla","title":"Brevis apud quibusdam quaerat claro pel.","text":"Solvo voluptate conturbo. Alioqui pax aestus. Cumque cornu deinde supellex cohaero corona cupiditas."}
