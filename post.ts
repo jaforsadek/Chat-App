@@ -1,1 +1,1 @@
-export const post = {"id":"9780591817645","slug":"appositus-sonitus-ancilla","title":"Brevis apud quibusdam quaerat claro pel.","text":"Solvo voluptate conturbo. Alioqui pax aestus. Cumque cornu deinde supellex cohaero corona cupiditas."}
+export const post = {"id":"9781253923483","slug":"surgo-tolero-est","title":"Tenetur cohors ancilla tandem.","text":"Bonus soluta cras adfero vis talis calculus. Ambitus texo civitas culpo earum depromo spiritus. Impedit necessitatibus surgo."}
