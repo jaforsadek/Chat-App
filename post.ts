@@ -1,1 +1,1 @@
-export const post = {"id":"9781856378413","slug":"stultus-causa-vinitor","title":"Decor decipio tredecim deleo talus tenetur.","text":"Caterva arbor suadeo ocer vito synagoga delinquo aut tutamen. Volaticus arma stipes. Ipsam caput strues voco virtus."}
+export const post = {"id":"9781390048759","slug":"terga-ago-totam","title":"Quisquam terror aurum arbustum illum adiuvo.","text":"Crur dedico conitor aduro vox patria contabesco. Verbum communis dens corrupti templum volubilis ascisco aro tondeo. Vinco ademptio valeo solus agnitio absconditus defleo ara."}
