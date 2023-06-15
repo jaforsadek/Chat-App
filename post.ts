@@ -1,1 +1,1 @@
-export const post = {"id":"9781253923483","slug":"surgo-tolero-est","title":"Tenetur cohors ancilla tandem.","text":"Bonus soluta cras adfero vis talis calculus. Ambitus texo civitas culpo earum depromo spiritus. Impedit necessitatibus surgo."}
+export const post = {"id":"9781856378413","slug":"stultus-causa-vinitor","title":"Decor decipio tredecim deleo talus tenetur.","text":"Caterva arbor suadeo ocer vito synagoga delinquo aut tutamen. Volaticus arma stipes. Ipsam caput strues voco virtus."}
