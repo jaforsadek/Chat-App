@@ -1,1 +1,1 @@
-export const post = {"id":"9781595595454","slug":"vox-admitto-thymbra","title":"Calculus attero umquam vehemens alienus.","text":"Accommodo depulso agnitio cultura. Votum sub vetus. Absens admiratio cibo alter defluo aequitas."}
+export const post = {"id":"9780488020684","slug":"libero-spiritus-victoria","title":"Cernuus vespillo thymum vilicus.","text":"Spiritus umerus crux texo ubi coadunatio amita admitto. Varius quia defaeco sit aetas attero. Thesis defendo ut spargo rem cibus audeo."}
