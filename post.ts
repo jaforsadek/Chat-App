@@ -1,1 +1,1 @@
-export const post = {"id":"9781390048759","slug":"terga-ago-totam","title":"Quisquam terror aurum arbustum illum adiuvo.","text":"Crur dedico conitor aduro vox patria contabesco. Verbum communis dens corrupti templum volubilis ascisco aro tondeo. Vinco ademptio valeo solus agnitio absconditus defleo ara."}
+export const post = {"id":"9781595595454","slug":"vox-admitto-thymbra","title":"Calculus attero umquam vehemens alienus.","text":"Accommodo depulso agnitio cultura. Votum sub vetus. Absens admiratio cibo alter defluo aequitas."}
