@@ -1,1 +1,1 @@
-export const post = {"id":"9780586734001","slug":"exercitationem-traho-cilicium","title":"Depereo defleo quae pecto.","text":"Bonus spargo curis ipsum creber degenero correptius delectatio. Debeo contabesco angulus sit tenuis auctus sequi auditor vorago. Thema adflicto sursum theologus substantia."}
+export const post = {"id":"9780751490954","slug":"adinventitias-ademptio-facilis","title":"Vulticulus magnam vel inventore delectatio quibusdam pel cotidie.","text":"Pecus dolores civis votum. Solutio doloremque spes comptus. Atque ademptio agnosco."}
