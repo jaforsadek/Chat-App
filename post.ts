@@ -1,1 +1,1 @@
-export const post = {"id":"9780751490954","slug":"adinventitias-ademptio-facilis","title":"Vulticulus magnam vel inventore delectatio quibusdam pel cotidie.","text":"Pecus dolores civis votum. Solutio doloremque spes comptus. Atque ademptio agnosco."}
+export const post = {"id":"9781864553758","slug":"capillus-vulgo-deludo","title":"Varietas decipio sortitus vitiosus pecus aperte pauper cura theatrum.","text":"Amitto pecco adipiscor confero facilis cohaero omnis. Ducimus absque abscido vetus. Sint vos accendo caute."}
