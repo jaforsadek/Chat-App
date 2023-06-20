@@ -1,1 +1,1 @@
-export const post = {"id":"9781864553758","slug":"capillus-vulgo-deludo","title":"Varietas decipio sortitus vitiosus pecus aperte pauper cura theatrum.","text":"Amitto pecco adipiscor confero facilis cohaero omnis. Ducimus absque abscido vetus. Sint vos accendo caute."}
+export const post = {"id":"9781821327903","slug":"una-acceptus-sapiente","title":"Solus ea attollo approbo templum certus trado labore cado acerbitas.","text":"Cupiditas quasi utroque defleo ipsum adfero. Approbo arbor valetudo. Caute strues conscendo tametsi cultura cognatus patruus cupiditas."}
