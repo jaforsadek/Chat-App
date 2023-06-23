@@ -1,1 +1,1 @@
-export const post = {"id":"9780571069149","slug":"sublime-causa-numquam","title":"Adipiscor cunabula comitatus tondeo.","text":"Repudiandae minima aeneus totam angelus conitor uberrime bardus aliquid. Clam vita et combibo admoveo deporto. Sublime dedecor sit supra video altus consequatur vestrum."}
+export const post = {"id":"9781214432986","slug":"comminor-cohaero-admoneo","title":"Thalassinus stella talio cui addo demoror claro solvo voro.","text":"Ultio desidero crur. Bos tamdiu tabernus cura iste magni. Tergo succurro venio cunae vulticulus vomica."}
