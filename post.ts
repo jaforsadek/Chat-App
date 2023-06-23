@@ -1,1 +1,1 @@
-export const post = {"id":"9781639633067","slug":"temperantia-venio-deduco","title":"Avarus porro voluptatibus utrimque.","text":"Synagoga ver comitatus tabgo bellicus vulariter. Tui aequus clamo. Cresco commodo soluta traho bellicus necessitatibus."}
+export const post = {"id":"9780556509189","slug":"decor-utilis-ante","title":"Deprecator decretum volva congregatio cavus.","text":"Angulus cura abduco adduco copiose abscido aequus. Cena vomer aiunt taceo conservo laborum. Decor suasoria cupressus umerus autus appono defluo trans."}
