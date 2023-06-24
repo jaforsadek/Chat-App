@@ -1,1 +1,1 @@
-export const post = {"id":"9780182512270","slug":"corpus-consequatur-consectetur","title":"Certus unus caries aureus nostrum.","text":"Aliquam solum deripio. At attollo acceptus trepide cum caecus attollo vel. Usitas auctor arguo crux truculenter talus."}
+export const post = {"id":"9780815906704","slug":"voluptate-claustrum-bellicus","title":"Cibus adfero curvo somnus sollers pauci.","text":"Coruscus cresco aestas totus volutabrum cunctatio tribuo. Studio utrimque vox. Placeat vestrum compono strues defungo theologus solitudo uberrime depono adinventitias."}
