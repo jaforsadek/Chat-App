@@ -1,1 +1,1 @@
-export const post = {"id":"9781214432986","slug":"comminor-cohaero-admoneo","title":"Thalassinus stella talio cui addo demoror claro solvo voro.","text":"Ultio desidero crur. Bos tamdiu tabernus cura iste magni. Tergo succurro venio cunae vulticulus vomica."}
+export const post = {"id":"9780182512270","slug":"corpus-consequatur-consectetur","title":"Certus unus caries aureus nostrum.","text":"Aliquam solum deripio. At attollo acceptus trepide cum caecus attollo vel. Usitas auctor arguo crux truculenter talus."}
