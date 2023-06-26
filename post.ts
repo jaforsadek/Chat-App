@@ -1,1 +1,1 @@
-export const post = {"id":"9780010865707","slug":"nulla-vulnero-varietas","title":"Suppono cinis video caute.","text":"Vulgus tenuis deputo valetudo studio degero canis delectus. Cotidie vobis depopulo casus caput succurro debilito corrigo. Subvenio aequitas adnuo adamo considero audentia."}
+export const post = {"id":"9781293907849","slug":"vorago-vado-copiose","title":"Casus vilis sulum tricesimus sonitus brevis.","text":"Tactus subvenio abundans maiores corrupti autus campana vilitas textor celo. Vestigium sopor custodia possimus. Usitas aperio eveniet aliquam cogito."}
