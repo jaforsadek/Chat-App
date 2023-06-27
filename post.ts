@@ -1,1 +1,1 @@
-export const post = {"id":"9781959611356","slug":"varius-vito-tenus","title":"Sollers uterque claudeo id temeritas caterva.","text":"Trado veritas corporis absum summa territo fugiat adeo cuius titulus. Cauda amicitia depereo somniculosus tactus sunt traho vulnero ager aduro. Modi vox adeo."}
+export const post = {"id":"9781000836523","slug":"ambulo-amaritudo-creptio","title":"Correptius calculus complectus.","text":"Timor subiungo tenus. Clibanus subseco officia nulla textus uredo veritatis depono deinde id. Tergeo templum deripio."}
