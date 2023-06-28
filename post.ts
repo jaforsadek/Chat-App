@@ -1,1 +1,1 @@
-export const post = {"id":"9781000836523","slug":"ambulo-amaritudo-creptio","title":"Correptius calculus complectus.","text":"Timor subiungo tenus. Clibanus subseco officia nulla textus uredo veritatis depono deinde id. Tergeo templum deripio."}
+export const post = {"id":"9780212392155","slug":"comburo-ad-dedico","title":"Adnuo enim crastinus approbo teres.","text":"Viscus vicinus cohaero corrigo ceno theologus coniecto totidem. Concido verus alioqui apostolus cernuus. Agnitio claustrum volubilis carmen pecus laudantium acquiro caries nemo inventore."}
