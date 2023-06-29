@@ -1,1 +1,1 @@
-export const post = {"id":"9781300721796","slug":"velut-charisma-tego","title":"Ut non conor desidero corona desipio vitae.","text":"Pauci aptus adicio admiratio sollicito eos summopere truculenter. Calamitas caelum decimus reiciendis tibi tabgo ventito. Creator animadverto enim contego conicio cedo patria agnitio esse."}
+export const post = {"id":"9781341357954","slug":"odio-anser-cunabula","title":"Bos summisse synagoga canis.","text":"Stella atque vallum aurum officiis combibo molestiae. Cum pectus animus cauda utique. At studio compello cuppedia aperiam curiositas."}
