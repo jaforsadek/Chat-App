@@ -1,1 +1,1 @@
-export const post = {"id":"9781727081107","slug":"strues-caput-cupiditate","title":"Tabesco decimus sed bellum.","text":"Numquam caste timidus utroque commemoro earum aliquid velit asper. Cohibeo sursum adhuc libero spiritus delectatio acquiro tepesco adeo absorbeo. Carpo nulla ustilo creator suggero deripio."}
+export const post = {"id":"9780926387218","slug":"ventito-vinitor-curatio","title":"Sopor cupressus apto.","text":"Credo reprehenderit absorbeo administratio aut vetus. Animi ante virtus contra carpo. Consequuntur ocer solus."}
