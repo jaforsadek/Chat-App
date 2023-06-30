@@ -1,1 +1,1 @@
-export const post = {"id":"9780926387218","slug":"ventito-vinitor-curatio","title":"Sopor cupressus apto.","text":"Credo reprehenderit absorbeo administratio aut vetus. Animi ante virtus contra carpo. Consequuntur ocer solus."}
+export const post = {"id":"9780055483874","slug":"denuncio-vulnus-aut","title":"Verbera tubineus denique nihil acer victus sumo delectus vigor.","text":"Aeternus carpo admiratio tamisium amet voco textor aeternus aqua aspicio. Clam accusamus strenuus. Decet strenuus strues defendo commodi quod utrum."}
