@@ -1,1 +1,1 @@
-export const post = {"id":"9781424489206","slug":"contego-tersus-sublime","title":"Tempus adipiscor absorbeo virga velociter alii subvenio stella.","text":"Suspendo cresco truculenter patrocinor libero. Accusator ventus capto tondeo patria aequus aufero circumvenio cohaero trado. Numquam totam sonitus velum delinquo abeo comptus appositus."}
+export const post = {"id":"9780090785285","slug":"vorax-admoveo-absorbeo","title":"Video creptio cupiditate decor.","text":"Architecto solutio vulgivagus defluo. Tabgo dicta admiratio claudeo decerno usque vix. Astrum celer maiores."}
