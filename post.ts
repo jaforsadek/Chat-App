@@ -1,1 +1,1 @@
-export const post = {"id":"9780980946383","slug":"certe-combibo-utrum","title":"Stipes nihil tot voveo cenaculum commemoro peior.","text":"Baiulus pecto considero. A crux delectatio amplus vulgivagus. Cupiditate aegrotatio titulus sollers cogito abscido tumultus."}
+export const post = {"id":"9781817543942","slug":"solio-vere-ipsa","title":"Thema solus laboriosam caecus tabella testimonium.","text":"Atqui tollo vester spectaculum curto adimpleo. Solvo quo complectus numquam alveus deporto. Beneficium succurro coniuratio distinctio arca timidus tunc advenio ars."}
