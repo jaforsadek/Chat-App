@@ -1,1 +1,1 @@
-export const post = {"id":"9781731060761","slug":"suffoco-anser-causa","title":"Ustulo curis asper patrocinor cinis aestivus strenuus.","text":"Sollers universe adulatio deserunt tui vociferor constans cruentus ubi. Antiquus color blanditiis accusantium sufficio viridis viridis capto expedita. Laborum spargo conor vorago."}
+export const post = {"id":"9781407685892","slug":"attero-desparatus-voluptatum","title":"Beatae dedecor quam.","text":"Urbanus convoco similique desparatus adstringo cupio pecco. Stipes terga aurum. Averto caput cui."}
