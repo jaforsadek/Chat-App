@@ -1,1 +1,1 @@
-export const post = {"id":"9781664420748","slug":"repellendus-vetus-cupiditas","title":"Desipio beatae somnus adsidue peccatus turbo balbus.","text":"Solvo valde debeo. Cupio clementia quam textus. Cultellus derideo deinde repellendus defleo ater abundans arceo."}
+export const post = {"id":"9781268360389","slug":"alienus-commodi-arbitro","title":"Cicuta surculus absorbeo usitas autem suasoria.","text":"Caecus sumo cognatus accusantium unde angustus optio acidus corpus. Certe utique adsidue caritas ambitus. Abutor vix advenio."}
