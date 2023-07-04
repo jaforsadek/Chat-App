@@ -1,1 +1,1 @@
-export const post = {"id":"9781407685892","slug":"attero-desparatus-voluptatum","title":"Beatae dedecor quam.","text":"Urbanus convoco similique desparatus adstringo cupio pecco. Stipes terga aurum. Averto caput cui."}
+export const post = {"id":"9781890024109","slug":"corroboro-virga-alii","title":"Ulterius adeo teneo cado id virgo.","text":"Caveo distinctio conscendo thema calco repellat. Vulgaris velit ullus vulariter turbo absque terreo suffoco. Allatus contigo venustas aestivus bonus adversus tenetur tamdiu usque iure."}
