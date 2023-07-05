@@ -1,1 +1,1 @@
-export const post = {"id":"9780830761098","slug":"assentator-crebro-tumultus","title":"Adficio vapulus acer sit similique distinctio corroboro uter conor.","text":"Templum adnuo reiciendis. Ratione cupressus aggero cibo exercitationem vigor canonicus cunctatio vulgivagus. Coaegresco tantillus admoveo."}
+export const post = {"id":"9780979005183","slug":"cursus-celebrer-turbo","title":"Aetas adipisci ipsa aetas arbustum cursim.","text":"Anser amicitia nemo. Desolo cinis audio maxime ratione umbra. Tabesco aspicio appono valetudo commodi casus adiuvo cetera ademptio."}
