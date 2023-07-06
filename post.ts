@@ -1,1 +1,1 @@
-export const post = {"id":"9780478392265","slug":"deporto-depono-cena","title":"Tantillus sint laudantium concedo sperno spiritus.","text":"Validus angelus natus conqueror adversus condico esse. Delinquo abbas averto crudelis voveo textilis. Validus eum delectus."}
+export const post = {"id":"9780968277218","slug":"colo-bis-reiciendis","title":"Adipiscor excepturi dignissimos tempora pecto aestas quia curatio.","text":"Vae crux talio acerbitas. Cito cattus possimus vaco. Tertius cinis spoliatio."}
