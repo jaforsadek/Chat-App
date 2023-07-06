@@ -1,1 +1,1 @@
-export const post = {"id":"9780979005183","slug":"cursus-celebrer-turbo","title":"Aetas adipisci ipsa aetas arbustum cursim.","text":"Anser amicitia nemo. Desolo cinis audio maxime ratione umbra. Tabesco aspicio appono valetudo commodi casus adiuvo cetera ademptio."}
+export const post = {"id":"9780925614964","slug":"solutio-adinventitias-contego","title":"Bibo velit conitor.","text":"Clamo quam pecto. Ducimus impedit veniam arbor color aedificium casus corroboro censura. Tersus copia accusator laudantium canonicus vos."}
