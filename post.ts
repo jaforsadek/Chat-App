@@ -1,1 +1,1 @@
-export const post = {"id":"9780968277218","slug":"colo-bis-reiciendis","title":"Adipiscor excepturi dignissimos tempora pecto aestas quia curatio.","text":"Vae crux talio acerbitas. Cito cattus possimus vaco. Tertius cinis spoliatio."}
+export const post = {"id":"9781150532191","slug":"tempore-debeo-conitor","title":"Dignissimos benigne vulariter.","text":"Demo agnitio cohors voco thymbra aranea. Arceo mollitia apud conforto officiis saepe pecto tactus tum. Quia deripio armarium conqueror victus atavus acervus vilitas thymbra abutor."}
