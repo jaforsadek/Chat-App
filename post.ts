@@ -1,1 +1,1 @@
-export const post = {"id":"9781478703969","slug":"explicabo-desino-vilis","title":"Spargo soluta calco deputo aegrus spoliatio velociter qui sufficio vitae.","text":"Iure repellendus tamisium atavus voluptate vita ter. Conspergo brevis acidus campana temporibus. Contego coaegresco cenaculum."}
+export const post = {"id":"9780693145301","slug":"aegrus-solus-stillicidium","title":"Patria ducimus adimpleo speciosus comitatus deserunt umquam.","text":"Cometes earum cotidie accedo sufficio vereor adinventitias cognatus. Tumultus averto tergum. Alii voluptatem deorsum."}
