@@ -1,1 +1,1 @@
-export const post = {"id":"9781792968952","slug":"nisi-denuncio-usque","title":"Abduco ver vorago commodi.","text":"Aequitas capillus ipsum. Corrumpo xiphias tactus minima acies custodia impedit aegre. Curriculum triumphus caelestis talio."}
+export const post = {"id":"9780827777934","slug":"ratione-nam-acervus","title":"Deorsum sortitus clementia amita accusantium sequi traho.","text":"Itaque culpo vorax depulso atrocitas corona. Quo creta vacuus admitto defluo conor pel temeritas corpus. Ustilo asporto velit curia consequatur amoveo."}
