@@ -1,1 +1,1 @@
-export const post = {"id":"9780693145301","slug":"aegrus-solus-stillicidium","title":"Patria ducimus adimpleo speciosus comitatus deserunt umquam.","text":"Cometes earum cotidie accedo sufficio vereor adinventitias cognatus. Tumultus averto tergum. Alii voluptatem deorsum."}
+export const post = {"id":"9780578331683","slug":"verbum-tabernus-concedo","title":"Blandior vinco video ascit apto.","text":"Est temeritas vobis tyrannus anser. Desolo creta adhuc. Sublime alius trans utor stella tergeo defendo."}
