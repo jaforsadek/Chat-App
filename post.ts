@@ -1,1 +1,1 @@
-export const post = {"id":"9781792851964","slug":"beatus-commodi-defetiscor","title":"Cilicium cras cedo animus doloribus cavus territo ascit.","text":"Tego cupio abbas amoveo carpo valens. Ceno unde decimus eius demoror tabella. Victus conventus asporto utrum ara coruscus tabesco."}
+export const post = {"id":"9780068808541","slug":"defluo-capillus-velit","title":"Thesaurus catena textus vesica videlicet mollitia.","text":"Sapiente ipsam quos uredo tenax. Spectaculum cito somniculosus defleo benigne amita. Casso tergum antepono canonicus stipes similique occaecati vindico."}
