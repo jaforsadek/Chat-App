@@ -1,1 +1,1 @@
-export const post = {"id":"9780176896621","slug":"coruscus-peior-coniecto","title":"Damno rem suscipit tripudio admoneo totam clam provident deputo.","text":"Uredo consequatur error deorsum. Asporto adulescens aureus subito. Venustas creator tonsor antea dedico."}
+export const post = {"id":"9781370638260","slug":"adnuo-laborum-crapula","title":"Abutor carmen tondeo sollers aegrotatio absque vulariter suffoco sustineo.","text":"Sordeo super depulso ventus creo stella cupressus amita adduco stella. Cavus cicuta careo. Cerno est vae corona textus."}
