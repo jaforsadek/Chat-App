@@ -1,1 +1,1 @@
-export const post = {"id":"9781590129807","slug":"aiunt-talio-solus","title":"Tego benigne aptus conduco umbra tamisium cunctatio cubo cervus.","text":"Abutor vir decumbo accommodo ago sublime. Amaritudo earum illo copia corrigo. Non verumtamen defessus brevis nemo curto deleniti benigne benigne curvo."}
+export const post = {"id":"9781852692964","slug":"amitto-cenaculum-aiunt","title":"Beatae sordeo denuo demum triduana ager.","text":"Perspiciatis caste vitiosus ager. Officiis deprecator patior cuppedia. Corrigo nobis comminor creptio voro ater cupiditas."}
