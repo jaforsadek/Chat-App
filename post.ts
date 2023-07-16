@@ -1,1 +1,1 @@
-export const post = {"id":"9780435580421","slug":"abutor-tres-dolores","title":"Aduro appello socius stipes vitae.","text":"Aperiam creo cubo calamitas sollicito. Vomito voluptas dicta repellendus assentator. Tot bos undique supellex tui artificiose demonstro solitudo."}
+export const post = {"id":"9780943811543","slug":"absque-anser-aggero","title":"Summopere caveo sum suscipit conservo textus accusamus.","text":"Stillicidium tubineus atrocitas. Adinventitias cupio tristis deludo depraedor curis tabella. Dignissimos temperantia at cubo aspernatur nihil."}
