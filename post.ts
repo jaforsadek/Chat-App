@@ -1,1 +1,1 @@
-export const post = {"id":"9780762073313","slug":"nostrum-depereo-verto","title":"Carpo canis creptio vitiosus cado caecus defaeco aut.","text":"Aeger aggredior volaticus incidunt viridis bellum vilis utilis accendo canonicus. Deleniti terebro tabula consequatur. Cursim carus quisquam caute alo cruentus."}
+export const post = {"id":"9780625487554","slug":"hic-ante-ceno","title":"Vitium congregatio sopor deripio crux accusantium.","text":"Decet tandem vaco comes. Angustus circumvenio deprecator. Cuius usque suadeo atrox stella usitas absum acceptus accusator validus."}
