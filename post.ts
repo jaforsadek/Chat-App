@@ -1,1 +1,1 @@
-export const post = {"id":"9780645697452","slug":"voco-auctus-crux","title":"Ventito tamquam tenuis vivo torqueo alias.","text":"Tyrannus conscendo vivo. Sol aspicio cimentarius uxor tunc vinitor at. Fugiat verbum ab."}
+export const post = {"id":"9780327984375","slug":"assentator-celer-congregatio","title":"Civis denique asper adhuc absum sol pectus considero.","text":"Theologus aestus molestiae velociter vado deporto textus tabella. Defleo dedico tener compono vulpes calamitas thalassinus consequuntur utilis claudeo. Thymum teneo virga adimpleo."}
