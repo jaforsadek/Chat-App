@@ -1,1 +1,1 @@
-export const post = {"id":"9781698026411","slug":"caecus-coaegresco-appello","title":"Accusantium tempus usque argentum denuo benigne cenaculum videlicet bene virgo.","text":"Curso creo cohors auctus cenaculum angulus currus. Repellat sordeo laborum auxilium succurro tamen substantia. Alias compono vulgivagus ante demonstro crur abundans vesco pauci."}
+export const post = {"id":"9781796354140","slug":"urbanus-bis-eligendi","title":"Facilis cohibeo omnis.","text":"Dignissimos suffragium tantum spectaculum arca. Cohibeo soleo arceo. Tabesco usus sol credo tribuo sunt tunc."}
