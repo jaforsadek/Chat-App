@@ -1,1 +1,1 @@
-export const post = {"id":"9781728861883","slug":"crur-pauper-quia","title":"Delego aeternus subnecto certe defendo natus collum defetiscor adeo conturbo.","text":"Ait adipiscor sopor quasi. Valde cattus caelum expedita. Arbustum usus nobis caput altus dedico."}
+export const post = {"id":"9780769955896","slug":"virtus-aggero-turpis","title":"Cultura corporis tristis.","text":"Sophismata cilicium colo. Altus vestigium harum. Nemo absum cupiditas amo."}
