@@ -1,1 +1,1 @@
-export const post = {"id":"9780769955896","slug":"virtus-aggero-turpis","title":"Cultura corporis tristis.","text":"Sophismata cilicium colo. Altus vestigium harum. Nemo absum cupiditas amo."}
+export const post = {"id":"9781254406190","slug":"nostrum-decerno-patrocinor","title":"Velociter certe cultura sopor suscipio sint cupiditas vitium sordeo vomito.","text":"Cervus tener audio. Facere subito aiunt. Absens tenuis atavus tracto bellum amor adstringo nihil viriliter tergiversatio."}
