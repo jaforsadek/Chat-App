@@ -1,1 +1,1 @@
-export const post = {"id":"9781796354140","slug":"urbanus-bis-eligendi","title":"Facilis cohibeo omnis.","text":"Dignissimos suffragium tantum spectaculum arca. Cohibeo soleo arceo. Tabesco usus sol credo tribuo sunt tunc."}
+export const post = {"id":"9781125335468","slug":"tot-cresco-conforto","title":"Sono decet vicissitudo solum hic celo abutor aegrus.","text":"Supra cursim utpote. Vinitor sollicito claustrum atrox tui. Spero statua aptus appono solus tenuis."}
