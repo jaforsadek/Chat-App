@@ -1,1 +1,1 @@
-export const post = {"id":"9780191998010","slug":"decipio-maxime-attollo","title":"Aeger delibero apto tracto totam sortitus bellum.","text":"Amita aptus depulso catena. Ustilo tenax vehemens paens. Totam subvenio adicio."}
+export const post = {"id":"9780839414131","slug":"taedium-repellat-cubicularis","title":"Condico angelus arbor synagoga nihil summisse cogito.","text":"Vulgus tergum aestas. Verbera cicuta debilito sponte stabilis. Dedico theatrum conatus creta undique crebro infit a illum votum."}
