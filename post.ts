@@ -1,1 +1,1 @@
-export const post = {"id":"9780160750700","slug":"tondeo-aegrotatio-caecus","title":"Urbanus dapifer animus suscipit una tergo pauci solus summopere tollo.","text":"Eum appositus tredecim pecus. Ait sollicito tutis. Textor sum apud quasi adinventitias cupio saepe strues delinquo."}
+export const post = {"id":"9780464304333","slug":"suspendo-vaco-temeritas","title":"Dens videlicet copia.","text":"Depono capillus aeger velociter autus. Vindico spiritus aut patrocinor sequi agnitio quaerat. Ustilo tempus curso tempora sint umquam sulum cariosus viridis doloribus."}
