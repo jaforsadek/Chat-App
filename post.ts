@@ -1,1 +1,1 @@
-export const post = {"id":"9780464428800","slug":"minima-ver-tener","title":"Tersus volup vulgo virga utique expedita vorax cuius amiculum deleniti.","text":"Acies fugiat sumptus comptus vitae barba veritas abutor chirographum cupio. Clamo reprehenderit spiritus deludo vetus degero cito tabella tantillus. Agnosco quos optio."}
+export const post = {"id":"9780995861916","slug":"crastinus-aranea-consuasor","title":"Testimonium enim alii.","text":"Ut campana surculus toties vobis suspendo caveo agnitio. Cupressus carus qui. Aestas patruus tergo comburo ut carbo apparatus."}
