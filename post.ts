@@ -1,1 +1,1 @@
-export const post = {"id":"9780995861916","slug":"crastinus-aranea-consuasor","title":"Testimonium enim alii.","text":"Ut campana surculus toties vobis suspendo caveo agnitio. Cupressus carus qui. Aestas patruus tergo comburo ut carbo apparatus."}
+export const post = {"id":"9781473816176","slug":"sonitus-tandem-adsuesco","title":"Sint pecus confido contabesco aurum acquiro maxime delicate.","text":"Vilicus suus torrens concido ut venio fuga ubi corrigo. Ara uterque bene paens. Spero demitto bellicus adhaero."}
