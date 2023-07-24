@@ -1,1 +1,1 @@
-export const post = {"id":"9781888430530","slug":"convoco-mollitia-cotidie","title":"Auctus conor sol acquiro copiose tergum vomer curso ceno candidus.","text":"Conitor aggero tenuis. Nam solitudo bellicus claro curatio vinum. Error explicabo quia carpo dolore."}
+export const post = {"id":"9780320943461","slug":"super-vicinus-vomica","title":"Uter crepusculum cibus curto iusto asper copiose.","text":"Aptus vulgus cupiditate eligendi agnitio esse soleo turpis aequus. Absum asper averto antea bellicus. Recusandae pariatur aer cicuta vobis."}
