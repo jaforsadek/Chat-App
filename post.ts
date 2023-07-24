@@ -1,1 +1,1 @@
-export const post = {"id":"9780001576926","slug":"termes-averto-conatus","title":"Truculenter virtus speciosus assentator deinde desipio supellex.","text":"Suppono audeo ver cohibeo maiores consequatur arbustum fugiat. Surculus ter terminatio. Toties aegrotatio aspicio eligendi."}
+export const post = {"id":"9781827627236","slug":"aeternus-acies-tametsi","title":"Tum vos tenetur utrimque terra abeo advenio.","text":"Dolor vere tergum. Vorax cupiditas delicate adnuo sufficio. Virtus vulariter accusator defetiscor triumphus cena tondeo administratio teneo sed."}
