@@ -1,1 +1,1 @@
-export const post = {"id":"9781827627236","slug":"aeternus-acies-tametsi","title":"Tum vos tenetur utrimque terra abeo advenio.","text":"Dolor vere tergum. Vorax cupiditas delicate adnuo sufficio. Virtus vulariter accusator defetiscor triumphus cena tondeo administratio teneo sed."}
+export const post = {"id":"9780966914382","slug":"allatus-truculenter-bos","title":"Corroboro statua tego.","text":"Tum tantum concedo fuga thorax. Aliqua demum cilicium deprecator amor conqueror vos tandem. Ipsam desolo uredo consuasor vinum."}
