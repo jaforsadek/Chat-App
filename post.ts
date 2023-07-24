@@ -1,1 +1,1 @@
-export const post = {"id":"9780966914382","slug":"allatus-truculenter-bos","title":"Corroboro statua tego.","text":"Tum tantum concedo fuga thorax. Aliqua demum cilicium deprecator amor conqueror vos tandem. Ipsam desolo uredo consuasor vinum."}
+export const post = {"id":"9781888430530","slug":"convoco-mollitia-cotidie","title":"Auctus conor sol acquiro copiose tergum vomer curso ceno candidus.","text":"Conitor aggero tenuis. Nam solitudo bellicus claro curatio vinum. Error explicabo quia carpo dolore."}
