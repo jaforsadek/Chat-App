@@ -1,1 +1,1 @@
-export const post = {"id":"9781862612372","slug":"correptius-candidus-adulatio","title":"Magnam claudeo creator tempus victoria depulso coaegresco.","text":"Ipsum campana reprehenderit candidus virga tergiversatio tantillus thema vacuus. Quas voluptatem verus cupiditas curiositas. Sol vomica cum conscendo ager et."}
+export const post = {"id":"9780692215647","slug":"demitto-summopere-totus","title":"Tribuo cado confugo absque.","text":"Ante verbum compello explicabo. Aperiam strues accusator patria caveo triumphus. Adeo vinculum vitium."}
