@@ -1,1 +1,1 @@
-export const post = {"id":"9781014827289","slug":"aufero-dens-adversus","title":"Vergo varius centum vulnero quis aptus desino confero.","text":"Ambulo votum contabesco considero verbum. Perspiciatis minus patruus. Adfectus vesper uberrime."}
+export const post = {"id":"9780686141440","slug":"ubi-deleniti-coerceo","title":"Currus aurum minus tredecim vilicus.","text":"Curtus aequus tot celebrer stultus tabernus vaco cometes laborum solvo. Consequatur sufficio valetudo vilicus asporto una tribuo substantia. Venia ipsa dedico animus molestias pecco."}
