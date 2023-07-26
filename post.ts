@@ -1,1 +1,1 @@
-export const post = {"id":"9781533981899","slug":"magnam-eum-atqui","title":"Candidus angulus cultura tenus auctus quam cetera velut sustineo.","text":"Conatus porro repellat verecundia capillus crux. Adipiscor decimus careo defero. Defero benigne succurro termes."}
+export const post = {"id":"9781461722779","slug":"fugiat-carpo-valeo","title":"Eos aggero cohaero summisse.","text":"Urbs delicate cresco complectus. Basium cetera spargo succedo tripudio. Debitis utor tabgo vociferor tamdiu caput demum cedo adsuesco ratione."}
