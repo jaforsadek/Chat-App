@@ -1,1 +1,1 @@
-export const post = {"id":"9781591810988","slug":"inventore-capio-nisi","title":"Quibusdam voco cupio crastinus aveho vulgaris tempora calcar uredo depono.","text":"Sollers allatus beatus. Tondeo solium appello. Ambitus creo dedecor deorsum sonitus qui centum vesco."}
+export const post = {"id":"9780661871607","slug":"vicissitudo-advenio-apto","title":"Impedit surculus deripio turbo quo vinculum corrumpo cohors demitto.","text":"Id dapifer curso audeo. Corrupti studio succurro omnis suus cicuta bonus. Cursus delinquo terror dolore tabella."}
