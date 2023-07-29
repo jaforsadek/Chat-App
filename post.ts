@@ -1,1 +1,1 @@
-export const post = {"id":"9781109436273","slug":"adeo-victoria-demens","title":"Velum demoror timidus ulciscor stillicidium angulus sequi ambulo vito delibero.","text":"Ater pecto arto dolores canis capillus vel confero. Candidus amplexus terga decerno. Patruus cura placeat summa."}
+export const post = {"id":"9780638241037","slug":"tibi-coma-advoco","title":"Asperiores curto angelus appono theca.","text":"Stultus quos chirographum acidus vaco amissio velum volubilis repellat cogito. Conservo vir cedo curso odit apparatus tutis creber facere ter. Calculus catena caritas."}
