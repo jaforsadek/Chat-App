@@ -1,1 +1,1 @@
-export const post = {"id":"9780261824355","slug":"auditor-curiositas-voluptatibus","title":"Tripudio accendo constans velum delinquo itaque.","text":"Autem inflammatio demens nam amitto aetas. Iste cilicium volo. Varius curtus truculenter demoror."}
+export const post = {"id":"9781109436273","slug":"adeo-victoria-demens","title":"Velum demoror timidus ulciscor stillicidium angulus sequi ambulo vito delibero.","text":"Ater pecto arto dolores canis capillus vel confero. Candidus amplexus terga decerno. Patruus cura placeat summa."}
