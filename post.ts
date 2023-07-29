@@ -1,1 +1,1 @@
-export const post = {"id":"9780079787279","slug":"creber-thymum-claro","title":"Caritas degero vado.","text":"Facilis curriculum agnitio facilis quisquam tamquam laborum. Ultio ustilo delinquo uredo creator decor ducimus tendo debeo nostrum. Fuga verto bibo vallum congregatio voluptates verbera vilicus."}
+export const post = {"id":"9781591810988","slug":"inventore-capio-nisi","title":"Quibusdam voco cupio crastinus aveho vulgaris tempora calcar uredo depono.","text":"Sollers allatus beatus. Tondeo solium appello. Ambitus creo dedecor deorsum sonitus qui centum vesco."}
