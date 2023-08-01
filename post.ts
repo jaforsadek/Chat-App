@@ -1,1 +1,1 @@
-export const post = {"id":"9780392543828","slug":"adipiscor-turpis-vester","title":"Debitis vigilo despecto solio molestias distinctio.","text":"Vilicus quos atqui maiores contabesco. Perferendis utrum debilito bellum coepi balbus pauper. Voluptatum suscipit crustulum labore atrox hic audentia voluptate tabgo crustulum."}
+export const post = {"id":"9781553126232","slug":"addo-deinde-tamquam","title":"Facilis nostrum conor.","text":"Abduco victoria subseco. Repellendus velit provident deleniti dolore abutor beatus. Bardus spiritus vinculum denego textus."}
