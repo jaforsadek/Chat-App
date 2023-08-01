@@ -1,1 +1,1 @@
-export const post = {"id":"9781833656671","slug":"qui-conservo-sapiente","title":"Cribro adipiscor defluo strenuus.","text":"Consequuntur umerus vulgivagus aurum. Vir ventus stabilis. Repellat aetas venio."}
+export const post = {"id":"9780392543828","slug":"adipiscor-turpis-vester","title":"Debitis vigilo despecto solio molestias distinctio.","text":"Vilicus quos atqui maiores contabesco. Perferendis utrum debilito bellum coepi balbus pauper. Voluptatum suscipit crustulum labore atrox hic audentia voluptate tabgo crustulum."}
