@@ -1,1 +1,1 @@
-export const post = {"id":"9780321495631","slug":"ea-victoria-amet","title":"Repudiandae vorax vulticulus.","text":"Audacia tubineus cubitum. Sollers carcer delinquo aduro aeneus curo. Rem vester velociter."}
+export const post = {"id":"9781818757737","slug":"clarus-comminor-tamisium","title":"Volaticus cibo voluptas ventito decimus certus ustilo virtus.","text":"Stipes voluntarius collum addo caveo tam sum culpo ventus volo. Crudelis adimpleo absconditus spoliatio aestas. Callide universe reiciendis caput artificiose recusandae doloribus surculus."}
