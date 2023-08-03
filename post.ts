@@ -1,1 +1,1 @@
-export const post = {"id":"9780378348669","slug":"bis-deleniti-aiunt","title":"Culpa mollitia ipsam ipsum capillus deorsum eligendi.","text":"Distinctio tracto somnus curatio. Atque occaecati textilis depopulo suasoria damnatio. Cuius ipsum admiratio copia sonitus umbra."}
+export const post = {"id":"9780069689323","slug":"ventus-artificiose-charisma","title":"Utor thalassinus benigne tutamen acidus atavus dolore tum.","text":"Commemoro amplexus ancilla villa acer denique vergo ambitus suggero. Clarus aetas sollers. Ademptio id speciosus decretum civis vociferor."}
