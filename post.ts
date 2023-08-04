@@ -1,1 +1,1 @@
-export const post = {"id":"9781768929284","slug":"decerno-cubo-taedium","title":"Demum vito amicitia delicate venia deputo comprehendo.","text":"Adimpleo vindico amor. Canonicus cui conor tutamen blandior suppono communis vulticulus annus. Damnatio autus vulpes admiratio ago solvo corroboro tabgo viscus."}
+export const post = {"id":"9781126323389","slug":"alii-arto-auctus","title":"Baiulus inflammatio adsuesco conitor occaecati cruentus cotidie.","text":"Virga baiulus supellex eius. Coadunatio virgo uredo amoveo defungo. Adhuc tristis totam saepe adsum aliquam."}
