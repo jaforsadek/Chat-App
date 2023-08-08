@@ -1,1 +1,1 @@
-export const post = {"id":"9781008945241","slug":"vito-vere-hic","title":"Caute defleo denego.","text":"Tyrannus atque attonbitus vociferor molestiae brevis. Caecus defero animus advenio tandem. Suspendo teneo acquiro sum."}
+export const post = {"id":"9780316045162","slug":"quisquam-veritatis-consequatur","title":"Adipiscor recusandae abundans allatus apostolus speciosus.","text":"Laudantium sortitus fuga. Turba corrupti vorago caute explicabo tamen debitis colligo comes totus. Anser valde veritatis sumo abstergo curia astrum."}
