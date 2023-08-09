@@ -1,1 +1,1 @@
-export const post = {"id":"9780624977018","slug":"sursum-basium-caritas","title":"Atqui artificiose vesco.","text":"Capitulus antepono coniuratio peccatus ascit. Sapiente verumtamen strenuus optio adinventitias triduana. Casso aggero causa."}
+export const post = {"id":"9780840706775","slug":"aliquid-administratio-spoliatio","title":"Acquiro viridis tolero desino depono arceo totam dens aequitas.","text":"Defetiscor cultellus pecto deduco quas assentator denego. Coaegresco angulus colligo tabgo volo curo asporto. Vitium carmen quas viriliter adopto defetiscor."}
