@@ -1,1 +1,1 @@
-export const post = {"id":"9780567692696","slug":"vulgo-subnecto-calamitas","title":"Occaecati absorbeo conforto perspiciatis verto attero tutamen.","text":"Convoco quam inflammatio subvenio asper natus compono abundans ancilla. Curto confero natus defero. Varietas ait vulariter."}
+export const post = {"id":"9781170215647","slug":"thymum-coerceo-natus","title":"Ulciscor cohors suffoco deprecator talio.","text":"Theologus vulariter aliqua. Civis vulgaris textor. Denique sumptus adhaero alo dicta error conforto ullam."}
