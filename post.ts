@@ -1,1 +1,1 @@
-export const post = {"id":"9781170215647","slug":"thymum-coerceo-natus","title":"Ulciscor cohors suffoco deprecator talio.","text":"Theologus vulariter aliqua. Civis vulgaris textor. Denique sumptus adhaero alo dicta error conforto ullam."}
+export const post = {"id":"9781291698312","slug":"cultellus-strues-currus","title":"Decumbo ustilo cervus peccatus spectaculum turbo curtus valde.","text":"Volup animi vacuus. Tripudio confero volutabrum ustulo earum ventus. Vomer ocer compono nam torqueo defero qui."}
