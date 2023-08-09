@@ -1,1 +1,1 @@
-export const post = {"id":"9781291698312","slug":"cultellus-strues-currus","title":"Decumbo ustilo cervus peccatus spectaculum turbo curtus valde.","text":"Volup animi vacuus. Tripudio confero volutabrum ustulo earum ventus. Vomer ocer compono nam torqueo defero qui."}
+export const post = {"id":"9780598062697","slug":"cetera-trans-minima","title":"Cedo voluptates antepono victus dens.","text":"Colligo usitas saepe aliqua ultra complectus pariatur acerbitas decor adfectus. Temperantia adversus patior thymum. Cupio abundans crebro quos totidem peccatus vilitas civitas."}
