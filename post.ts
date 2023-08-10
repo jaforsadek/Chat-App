@@ -1,1 +1,1 @@
-export const post = {"id":"9780572354381","slug":"stultus-turba-utrimque","title":"Spargo summisse universe ascit condico volutabrum statim crastinus.","text":"Candidus vero supplanto dolore. Capto defleo omnis consequatur appositus pel delinquo. Ad quo curatio adinventitias."}
+export const post = {"id":"9780173913291","slug":"copiose-texo-aeneus","title":"Testimonium itaque cito ciminatio.","text":"Paulatim solium cetera paens stultus. Corpus antea vitiosus amor charisma capto curia atque. Delectus civitas facilis careo angustus sum absens nam."}
