@@ -1,1 +1,1 @@
-export const post = {"id":"9780173913291","slug":"copiose-texo-aeneus","title":"Testimonium itaque cito ciminatio.","text":"Paulatim solium cetera paens stultus. Corpus antea vitiosus amor charisma capto curia atque. Delectus civitas facilis careo angustus sum absens nam."}
+export const post = {"id":"9780095174626","slug":"crebro-ea-acervus","title":"Accendo varius suasoria vigor.","text":"Reprehenderit trado quas utrum officia molestias aedificium desparatus. Comes maiores facere asperiores caries. Tantillus casso contra officiis laborum veniam audio."}
