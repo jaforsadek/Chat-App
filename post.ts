@@ -1,1 +1,1 @@
-export const post = {"id":"9780547682822","slug":"id-decimus-collum","title":"Cedo sublime timidus terebro tam colo suadeo unde aperio.","text":"Pariatur stillicidium cernuus argentum. Spoliatio cursim vesper quia a despecto demitto ducimus. Canto stillicidium speciosus tondeo ducimus amoveo at cohors compello."}
+export const post = {"id":"9780042282183","slug":"aranea-cicuta-cognatus","title":"Demum ulciscor toties.","text":"Despecto dolore clementia viridis cito decumbo versus balbus averto. Vulnero victoria eius amissio demonstro. Denuo capio candidus debilito."}
