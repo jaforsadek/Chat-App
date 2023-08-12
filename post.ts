@@ -1,1 +1,1 @@
-export const post = {"id":"9780035986142","slug":"carmen-quisquam-suscipio","title":"Conitor abundans aeneus aiunt.","text":"Acervus utilis vos accendo pauci vigilo eius sui claustrum via. Sonitus termes coaegresco tripudio veritatis degero acerbitas aegre pecto. Thema artificiose neque."}
+export const post = {"id":"9781023050944","slug":"clarus-cupiditate-sint","title":"Tantillus tener fuga quisquam contigo ago dolore copia laborum.","text":"Adsum venia cohibeo. Cito atrocitas labore vigilo caterva. Rerum tabula carbo ceno cupio."}
