@@ -1,1 +1,1 @@
-export const post = {"id":"9780042282183","slug":"aranea-cicuta-cognatus","title":"Demum ulciscor toties.","text":"Despecto dolore clementia viridis cito decumbo versus balbus averto. Vulnero victoria eius amissio demonstro. Denuo capio candidus debilito."}
+export const post = {"id":"9780035986142","slug":"carmen-quisquam-suscipio","title":"Conitor abundans aeneus aiunt.","text":"Acervus utilis vos accendo pauci vigilo eius sui claustrum via. Sonitus termes coaegresco tripudio veritatis degero acerbitas aegre pecto. Thema artificiose neque."}
