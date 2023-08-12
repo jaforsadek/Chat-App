@@ -1,1 +1,1 @@
-export const post = {"id":"9781930052994","slug":"caelum-spero-rem","title":"Turpis tonsor tenuis spiritus talio aggero.","text":"Vobis constans sodalitas vigor contabesco totidem sumo terminatio. Sto canis statim voluptatibus bestia contabesco. Amplitudo atque animadverto assentator arceo itaque."}
+export const post = {"id":"9780890237229","slug":"suppellex-cena-baiulus","title":"Cum curriculum deleo.","text":"Thalassinus aegrus crux. Soleo audacia vesica decens. Voco cito cito."}
