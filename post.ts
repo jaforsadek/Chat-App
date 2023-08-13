@@ -1,1 +1,1 @@
-export const post = {"id":"9780727774118","slug":"laboriosam-tollo-turbo","title":"Blandior summisse non.","text":"Viduo undique ex tres bardus aestus conforto vere. Desparatus cuius voluptas bene sumptus curis vesco. Complectus cenaculum utrum adinventitias apostolus terreo."}
+export const post = {"id":"9781544582429","slug":"cohaero-ventus-subnecto","title":"Paens crebro accedo vigilo.","text":"Vigor curis astrum. Libero super conitor. Administratio capitulus spargo clam verto demergo temptatio suadeo alias vos."}
