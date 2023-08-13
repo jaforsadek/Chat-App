@@ -1,1 +1,1 @@
-export const post = {"id":"9781753303372","slug":"tandem-subiungo-omnis","title":"Terebro statim sufficio vitium.","text":"Architecto cilicium carbo dolor adeptio. Cicuta adficio distinctio trepide abscido tollo traho. Tertius ars demum defero tonsor perspiciatis."}
+export const post = {"id":"9780305350734","slug":"delibero-calco-deprecator","title":"Cinis vociferor tam.","text":"Trepide utroque textus tergeo vigor barba ubi denuo. Culpa ad ante. Aestus statua aequitas tergum ab voro concido cerno aqua."}
