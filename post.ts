@@ -1,1 +1,1 @@
-export const post = {"id":"9780052180042","slug":"decens-tametsi-terror","title":"Thymbra valeo sed commodo termes.","text":"Bellum consuasor id crebro tergiversatio repellendus conscendo comis vulnus. Defetiscor facere curatio abutor. Titulus alius dicta abeo suscipit magni sub absum."}
+export const post = {"id":"9781753303372","slug":"tandem-subiungo-omnis","title":"Terebro statim sufficio vitium.","text":"Architecto cilicium carbo dolor adeptio. Cicuta adficio distinctio trepide abscido tollo traho. Tertius ars demum defero tonsor perspiciatis."}
