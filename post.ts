@@ -1,1 +1,1 @@
-export const post = {"id":"9780305350734","slug":"delibero-calco-deprecator","title":"Cinis vociferor tam.","text":"Trepide utroque textus tergeo vigor barba ubi denuo. Culpa ad ante. Aestus statua aequitas tergum ab voro concido cerno aqua."}
+export const post = {"id":"9780727774118","slug":"laboriosam-tollo-turbo","title":"Blandior summisse non.","text":"Viduo undique ex tres bardus aestus conforto vere. Desparatus cuius voluptas bene sumptus curis vesco. Complectus cenaculum utrum adinventitias apostolus terreo."}
