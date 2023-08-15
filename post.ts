@@ -1,1 +1,1 @@
-export const post = {"id":"9780807845868","slug":"deserunt-ultra-cunctatio","title":"Velociter amo conturbo toties adsum argentum.","text":"Conculco crinis crux comptus thymbra torrens. Comptus animus voluptas comminor sopor. Eaque vulpes amissio denuo terror."}
+export const post = {"id":"9780299090364","slug":"utrimque-delectatio-dolor","title":"Adfero utpote virga ut officiis nesciunt caries tonsor.","text":"Aggero curso vix vivo amaritudo. Thermae denego universe bellum trans. Accendo acquiro desino curis conspergo sollicito."}
