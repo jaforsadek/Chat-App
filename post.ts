@@ -1,1 +1,1 @@
-export const post = {"id":"9781309913475","slug":"censura-defendo-decet","title":"Cunabula clementia aeger magni arca certus.","text":"Curiositas carbo nobis casus auditor. Animus atque vulgus termes terga victoria. Umerus valetudo voluptates ter tero."}
+export const post = {"id":"9780651776806","slug":"tredecim-claudeo-viridis","title":"Appositus laboriosam quas aqua absconditus.","text":"Alius nemo circumvenio succedo arbustum decimus. Soleo commodi versus atrocitas. Cenaculum aqua debeo bardus."}
