@@ -1,1 +1,1 @@
-export const post = {"id":"9780178594761","slug":"ulciscor-balbus-absens","title":"Agnitio ea defendo velum clementia temptatio audeo clamo supellex pecco.","text":"Vinculum aestas adeptio depulso calculus expedita. Clarus adficio aeneus cursim. Suscipio vero adicio."}
+export const post = {"id":"9781531116132","slug":"antea-cursus-comes","title":"Tenuis ocer beatus.","text":"Cursus defero adopto vigor nemo sulum nulla damnatio currus. Angulus ipsam tempora. Veritatis amplitudo conturbo nihil civitas communis."}
