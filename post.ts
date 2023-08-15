@@ -1,1 +1,1 @@
-export const post = {"id":"9781531116132","slug":"antea-cursus-comes","title":"Tenuis ocer beatus.","text":"Cursus defero adopto vigor nemo sulum nulla damnatio currus. Angulus ipsam tempora. Veritatis amplitudo conturbo nihil civitas communis."}
+export const post = {"id":"9780053957001","slug":"vero-saepe-depromo","title":"Cometes vomito impedit exercitationem uberrime benevolentia aspicio quia.","text":"Facere apto ipsum vel. Conqueror speciosus deleo delectus. Suffoco vilicus comes defleo tam terga tandem."}
