@@ -1,1 +1,1 @@
-export const post = {"id":"9781186159140","slug":"bis-solium-facilis","title":"Casso synagoga voluntarius defluo demo ars.","text":"Earum delego doloremque thermae. Veniam quam aqua eveniet ultra delinquo celo tantum. Comitatus voro uxor tametsi tepesco ater tremo placeat tener."}
+export const post = {"id":"9780478554632","slug":"trepide-veritas-vapulus","title":"Usitas vulpes ocer.","text":"Sordeo audacia conduco bonus concedo. Magni aeternus alveus tego itaque nesciunt. Acquiro tollo congregatio quibusdam clementia amor vel ubi somniculosus."}
