@@ -1,1 +1,1 @@
-export const post = {"id":"9781465509604","slug":"pauci-textor-vulgo","title":"Quos comedo absque pauci eaque exercitationem amo tumultus.","text":"Sopor ante auctor sursum ascit vitium. Cuius vitiosus dedecor aeneus voco. Aiunt alter aestus caelestis consequatur bonus desidero sto abbas quasi."}
+export const post = {"id":"9780178594761","slug":"ulciscor-balbus-absens","title":"Agnitio ea defendo velum clementia temptatio audeo clamo supellex pecco.","text":"Vinculum aestas adeptio depulso calculus expedita. Clarus adficio aeneus cursim. Suscipio vero adicio."}
