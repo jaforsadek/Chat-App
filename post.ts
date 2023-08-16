@@ -1,1 +1,1 @@
-export const post = {"id":"9780284537867","slug":"necessitatibus-vilitas-verbera","title":"Comprehendo considero vobis blandior.","text":"Vitae cauda ad consequatur stipes quasi. Ventosus calco dolor apostolus celebrer tepidus ipsam non. Demens ulciscor vindico."}
+export const post = {"id":"9781394830862","slug":"delego-cruentus-teres","title":"Pauci tutis censura bis supplanto decens.","text":"Casus aiunt alveus tot coaegresco decumbo ullus. Adflicto charisma caecus aliquam varietas sumo despecto tempore accendo nulla. Cuppedia sit calculus caelum velit alienus spes."}
