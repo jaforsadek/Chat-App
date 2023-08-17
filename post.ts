@@ -1,1 +1,1 @@
-export const post = {"id":"9781394830862","slug":"delego-cruentus-teres","title":"Pauci tutis censura bis supplanto decens.","text":"Casus aiunt alveus tot coaegresco decumbo ullus. Adflicto charisma caecus aliquam varietas sumo despecto tempore accendo nulla. Cuppedia sit calculus caelum velit alienus spes."}
+export const post = {"id":"9781860149412","slug":"alter-triumphus-cras","title":"Hic vulariter tenax apostolus.","text":"Sapiente acervus ad acquiro defessus conduco acervus summopere candidus. Baiulus deserunt argumentum vir maiores aegrus. Paulatim tenax vorago."}
