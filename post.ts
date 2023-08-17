@@ -1,1 +1,1 @@
-export const post = {"id":"9780475701718","slug":"venio-charisma-super","title":"Crustulum magni totam usque tenus bardus validus delego.","text":"Depraedor tersus saepe ultio. Commodi capillus coaegresco terga. Allatus caput comptus tenetur repellat patior articulus cogito dignissimos."}
+export const post = {"id":"9780127621166","slug":"territo-canto-sequi","title":"Incidunt statua certus velit.","text":"Velut certe alius unus defungo tamquam tenuis balbus. Cum corrupti surgo assumenda. Clamo timor amissio synagoga commemoro derelinquo pecus uterque."}
