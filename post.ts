@@ -1,1 +1,1 @@
-export const post = {"id":"9780127621166","slug":"territo-canto-sequi","title":"Incidunt statua certus velit.","text":"Velut certe alius unus defungo tamquam tenuis balbus. Cum corrupti surgo assumenda. Clamo timor amissio synagoga commemoro derelinquo pecus uterque."}
+export const post = {"id":"9780181853664","slug":"quis-turpis-tutis","title":"Patrocinor concedo subnecto umerus abutor adhaero asperiores.","text":"Degusto quae textus aegrotatio pax decipio curiositas voluptas appositus urbs. Spargo cubitum atque provident taedium. Tenax aestas adduco tolero."}
