@@ -1,1 +1,1 @@
-export const post = {"id":"9780396130796","slug":"tollo-animadverto-pel","title":"Ustilo somnus curis trucido cibus aegrus constans at.","text":"Creta cibo toties apparatus calcar. Demulceo vestrum cupio. Tepidus quasi advenio."}
+export const post = {"id":"9780123539878","slug":"amplexus-curatio-vinco","title":"Tubineus stella cursim defluo allatus canis usus commodo armarium cubitum.","text":"Uberrime sono dolorum eligendi. Incidunt ulterius demulceo virgo cruentus volubilis claustrum. Deripio voveo aequitas aperte somniculosus agnosco amicitia comedo vesica."}
