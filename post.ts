@@ -1,1 +1,1 @@
-export const post = {"id":"9780935690866","slug":"tam-tepesco-maxime","title":"Fugiat advoco defetiscor ventosus.","text":"Villa arbor bibo creator ipsa dicta accusator umerus bibo suscipio. Color repudiandae sollers compello voluptatibus eos. Valens confugo bene testimonium quidem demitto."}
+export const post = {"id":"9780396130796","slug":"tollo-animadverto-pel","title":"Ustilo somnus curis trucido cibus aegrus constans at.","text":"Creta cibo toties apparatus calcar. Demulceo vestrum cupio. Tepidus quasi advenio."}
