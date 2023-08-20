@@ -1,1 +1,1 @@
-export const post = {"id":"9780635744463","slug":"capto-coruscus-decor","title":"Denego tener calco.","text":"Deleo thorax sub civitas calcar. Tactus apud cresco utique. Amet expedita cognatus amplus ancilla conduco desipio cilicium calamitas."}
+export const post = {"id":"9781676465447","slug":"sub-cito-adeptio","title":"Verto tenuis avarus.","text":"Arbitro laudantium tui condico rem occaecati terra creta allatus nesciunt. Absconditus demergo capio vestrum cometes depromo vetus catena. Quod fugiat aliqua sapiente ab advoco cito."}
