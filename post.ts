@@ -1,1 +1,1 @@
-export const post = {"id":"9780947671181","slug":"tenax-cultura-ulciscor","title":"Angustus spectaculum turpis derideo.","text":"Voluptas unde claustrum comptus deripio damno. Coepi astrum suscipit vir sonitus aggredior ventus decet denique. Astrum acidus vilitas."}
+export const post = {"id":"9781336533103","slug":"copia-subvenio-umquam","title":"Bibo amor arx.","text":"Allatus stultus vilis tero collum tremo causa. Comis claustrum accommodo uter tardus vitiosus quod auctor comptus quisquam. Temporibus uter adeo vae decor tamdiu tibi carmen ater esse."}
