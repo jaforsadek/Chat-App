@@ -1,1 +1,1 @@
-export const post = {"id":"9781336533103","slug":"copia-subvenio-umquam","title":"Bibo amor arx.","text":"Allatus stultus vilis tero collum tremo causa. Comis claustrum accommodo uter tardus vitiosus quod auctor comptus quisquam. Temporibus uter adeo vae decor tamdiu tibi carmen ater esse."}
+export const post = {"id":"9780801025945","slug":"cunctatio-quae-speculum","title":"Corpus compono bardus adicio sto vallum paulatim.","text":"Eum apud aperiam. Atqui dolores catena aedificium calamitas statim. Occaecati validus acceptus temptatio adhuc crux confido officia."}
