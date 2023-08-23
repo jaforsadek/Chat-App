@@ -1,1 +1,1 @@
-export const post = {"id":"9780139273018","slug":"amicitia-sumo-talus","title":"Capitulus adeptio vicissitudo.","text":"Tergeo tener viriliter timor. Trado impedit rerum cunae atrox conicio adfectus sono. Taceo depopulo angulus cruciamentum similique pauci adimpleo."}
+export const post = {"id":"9781978638440","slug":"summopere-volva-patruus","title":"Ver taceo taedium.","text":"Ducimus adfero somniculosus ventito suadeo. Sulum cumque armarium stabilis colo pecto stips caritas aliqua vita. Defessus adulescens quisquam verecundia."}
