@@ -1,1 +1,1 @@
-export const post = {"id":"9781978638440","slug":"summopere-volva-patruus","title":"Ver taceo taedium.","text":"Ducimus adfero somniculosus ventito suadeo. Sulum cumque armarium stabilis colo pecto stips caritas aliqua vita. Defessus adulescens quisquam verecundia."}
+export const post = {"id":"9781869716592","slug":"defungo-thermae-illo","title":"Umquam coerceo amor spoliatio valeo.","text":"Cultura quas tergeo valde vulariter. Cui terebro theologus. Amita deficio trado cunctatio contabesco reiciendis pauper blandior studio."}
