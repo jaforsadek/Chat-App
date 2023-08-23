@@ -1,1 +1,1 @@
-export const post = {"id":"9780449982419","slug":"necessitatibus-copiose-cernuus","title":"Cui tametsi cribro.","text":"Quibusdam aggredior audio demum terebro torqueo beatus adulescens. Delectatio defessus bis appono. Corona animus abbas tam."}
+export const post = {"id":"9780263648836","slug":"deorsum-depromo-laborum","title":"Laborum vorago vergo strenuus.","text":"Aegrotatio centum cattus. Civitas tepesco vapulus velit adopto stultus. Omnis adficio tametsi inflammatio placeat adsum pax."}
