@@ -1,1 +1,1 @@
-export const post = {"id":"9780263648836","slug":"deorsum-depromo-laborum","title":"Laborum vorago vergo strenuus.","text":"Aegrotatio centum cattus. Civitas tepesco vapulus velit adopto stultus. Omnis adficio tametsi inflammatio placeat adsum pax."}
+export const post = {"id":"9780139273018","slug":"amicitia-sumo-talus","title":"Capitulus adeptio vicissitudo.","text":"Tergeo tener viriliter timor. Trado impedit rerum cunae atrox conicio adfectus sono. Taceo depopulo angulus cruciamentum similique pauci adimpleo."}
