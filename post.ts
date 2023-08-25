@@ -1,1 +1,1 @@
-export const post = {"id":"9781064271049","slug":"ocer-crepusculum-aggredior","title":"Curatio vetus vicinus timidus fugit dolorem virtus.","text":"Amiculum vinitor sulum. Censura advenio officia corroboro ustulo bellicus. Speculum concido templum admoveo."}
+export const post = {"id":"9780123751270","slug":"corrupti-tandem-canonicus","title":"Tandem approbo victoria tertius conservo.","text":"Vos aegrus beneficium surgo tertius valeo callide esse cetera. Itaque utrum sophismata. Demens abeo dolorum."}
