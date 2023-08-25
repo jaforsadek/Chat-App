@@ -1,1 +1,1 @@
-export const post = {"id":"9781581975444","slug":"adduco-ustilo-adiuvo","title":"Creptio dolores desolo vero supellex congregatio color.","text":"Calcar quia curriculum dolorem. Coepi quibusdam aestas suppono patria denego decumbo volva utrum crebro. Ventito deinde cunae vulgo ratione ancilla addo constans."}
+export const post = {"id":"9781064271049","slug":"ocer-crepusculum-aggredior","title":"Curatio vetus vicinus timidus fugit dolorem virtus.","text":"Amiculum vinitor sulum. Censura advenio officia corroboro ustulo bellicus. Speculum concido templum admoveo."}
