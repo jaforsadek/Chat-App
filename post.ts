@@ -1,1 +1,1 @@
-export const post = {"id":"9780578826257","slug":"crebro-utpote-nihil","title":"Valeo tollo cognatus concedo nostrum careo demitto tamdiu caste cogo.","text":"Tondeo claustrum territo voro cursus deprimo. Stillicidium incidunt adulescens amitto voluptate blanditiis. Traho deduco unus arbor depono tunc supplanto colo aequus vulgus."}
+export const post = {"id":"9780122635922","slug":"vero-turba-nisi","title":"Autem amita ambitus calco.","text":"Vitiosus defessus appello coerceo adulatio amplexus conatus cupiditas. Blanditiis cimentarius cunctatio eos. Taedium alius decens."}
