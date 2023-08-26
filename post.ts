@@ -1,1 +1,1 @@
-export const post = {"id":"9780338347732","slug":"cultellus-sunt-texo","title":"Sophismata vulgus suscipio candidus cado.","text":"Vapulus velociter velit delectatio verbum. Cavus terminatio illo cogo tonsor pectus addo. Vix desipio astrum succurro aestus utilis desipio amissio clementia dolorum."}
+export const post = {"id":"9781111711337","slug":"explicabo-debeo-tertius","title":"Deripio tenax trepide.","text":"Desidero magni sumptus conatus advoco. Alioqui convoco capto architecto totam. Quibusdam vigilo cubitum vel possimus."}
