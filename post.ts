@@ -1,1 +1,1 @@
-export const post = {"id":"9780122635922","slug":"vero-turba-nisi","title":"Autem amita ambitus calco.","text":"Vitiosus defessus appello coerceo adulatio amplexus conatus cupiditas. Blanditiis cimentarius cunctatio eos. Taedium alius decens."}
+export const post = {"id":"9780463098424","slug":"degero-sordeo-temeritas","title":"Pecco complectus strues calcar excepturi.","text":"Dolores arbustum vito tertius molestiae titulus trepide titulus tepidus. Canis numquam averto subseco eius comparo admoveo urbs quam degenero. Damno cito laborum cunctatio."}
