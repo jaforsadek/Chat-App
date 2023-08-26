@@ -1,1 +1,1 @@
-export const post = {"id":"9781111711337","slug":"explicabo-debeo-tertius","title":"Deripio tenax trepide.","text":"Desidero magni sumptus conatus advoco. Alioqui convoco capto architecto totam. Quibusdam vigilo cubitum vel possimus."}
+export const post = {"id":"9781174632891","slug":"velit-complectus-autem","title":"Argentum denuncio caput explicabo.","text":"Aperiam tum pecco aestas bellicus vapulus balbus nam. Caelum vere animi crebro arma patria voluptatum demulceo colo vereor. Animi vulgus carmen theologus sono magnam spoliatio solutio."}
