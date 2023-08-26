@@ -1,1 +1,1 @@
-export const post = {"id":"9780463098424","slug":"degero-sordeo-temeritas","title":"Pecco complectus strues calcar excepturi.","text":"Dolores arbustum vito tertius molestiae titulus trepide titulus tepidus. Canis numquam averto subseco eius comparo admoveo urbs quam degenero. Damno cito laborum cunctatio."}
+export const post = {"id":"9780858076679","slug":"suppono-pel-antepono","title":"Hic delego appello usque illum repudiandae curia comprehendo copia.","text":"Aranea talis aqua. Vilitas vox veniam sursum conturbo ceno. Centum synagoga taceo."}
