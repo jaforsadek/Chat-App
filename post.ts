@@ -1,1 +1,1 @@
-export const post = {"id":"9781203108328","slug":"sint-aut-depraedor","title":"Animi rem caput sperno articulus comes cupio.","text":"Vulnero aveho callide suppono nostrum. Adficio patruus vitiosus vaco. Dolor sumptus solitudo."}
+export const post = {"id":"9780102454307","slug":"quasi-vicinus-advoco","title":"Uberrime supra umerus thalassinus.","text":"Statua quod iure cultellus dapifer tui textor. Vulticulus sursum textilis quisquam sponte curso creator ipsa voluptatum casus. Spero verbera cerno tonsor."}
