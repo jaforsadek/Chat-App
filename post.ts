@@ -1,1 +1,1 @@
-export const post = {"id":"9780858076679","slug":"suppono-pel-antepono","title":"Hic delego appello usque illum repudiandae curia comprehendo copia.","text":"Aranea talis aqua. Vilitas vox veniam sursum conturbo ceno. Centum synagoga taceo."}
+export const post = {"id":"9781203108328","slug":"sint-aut-depraedor","title":"Animi rem caput sperno articulus comes cupio.","text":"Vulnero aveho callide suppono nostrum. Adficio patruus vitiosus vaco. Dolor sumptus solitudo."}
