@@ -1,1 +1,1 @@
-export const post = {"id":"9780102454307","slug":"quasi-vicinus-advoco","title":"Uberrime supra umerus thalassinus.","text":"Statua quod iure cultellus dapifer tui textor. Vulticulus sursum textilis quisquam sponte curso creator ipsa voluptatum casus. Spero verbera cerno tonsor."}
+export const post = {"id":"9781445888750","slug":"ascit-tenus-thermae","title":"Temptatio abeo caelestis commemoro.","text":"Baiulus architecto versus. Solium decretum thorax. Concedo voluptas crustulum acerbitas tandem."}
