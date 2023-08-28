@@ -1,1 +1,1 @@
-export const post = {"id":"9781445888750","slug":"ascit-tenus-thermae","title":"Temptatio abeo caelestis commemoro.","text":"Baiulus architecto versus. Solium decretum thorax. Concedo voluptas crustulum acerbitas tandem."}
+export const post = {"id":"9781095828700","slug":"iure-uxor-possimus","title":"Ara vobis celebrer spectaculum utique votum succedo.","text":"Adimpleo solus sordeo cupressus volutabrum. Constans valeo defluo expedita calamitas. Vehemens ambulo aduro ad."}
