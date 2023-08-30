@@ -1,1 +1,1 @@
-export const post = {"id":"9781857983753","slug":"antea-stipes-solio","title":"Aveho officia colligo harum aufero vero.","text":"Callide voveo adduco uterque video volva tenax usitas aedificium. Explicabo tergeo explicabo adsidue vitium beatus. Arcus benigne ciminatio debitis."}
+export const post = {"id":"9781507027820","slug":"tam-dolor-at","title":"Comes aperio teneo amoveo.","text":"Eligendi tumultus amoveo. Pectus tolero sequi nihil arcus iste clarus coruscus. Subito creptio tumultus balbus corona."}
