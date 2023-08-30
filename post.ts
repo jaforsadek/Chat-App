@@ -1,1 +1,1 @@
-export const post = {"id":"9780178159151","slug":"volva-nostrum-summa","title":"Agnitio coadunatio terreo cinis cibus neque uter adipiscor amitto reprehenderit.","text":"Certus deinde constans tabula vorax tenetur barba velit vivo sortitus. Tametsi ago sortitus. Non sopor dens blanditiis admoneo vinitor socius quaerat."}
+export const post = {"id":"9780436986819","slug":"facilis-bene-antiquus","title":"Cedo solitudo vix subseco culpa.","text":"Vulnus atrocitas bis. Dignissimos cilicium inventore careo credo condico cervus vobis. Vulpes subito creta."}
