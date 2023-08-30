@@ -1,1 +1,1 @@
-export const post = {"id":"9780436986819","slug":"facilis-bene-antiquus","title":"Cedo solitudo vix subseco culpa.","text":"Vulnus atrocitas bis. Dignissimos cilicium inventore careo credo condico cervus vobis. Vulpes subito creta."}
+export const post = {"id":"9781857983753","slug":"antea-stipes-solio","title":"Aveho officia colligo harum aufero vero.","text":"Callide voveo adduco uterque video volva tenax usitas aedificium. Explicabo tergeo explicabo adsidue vitium beatus. Arcus benigne ciminatio debitis."}
