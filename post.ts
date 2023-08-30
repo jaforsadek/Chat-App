@@ -1,1 +1,1 @@
-export const post = {"id":"9781095828700","slug":"iure-uxor-possimus","title":"Ara vobis celebrer spectaculum utique votum succedo.","text":"Adimpleo solus sordeo cupressus volutabrum. Constans valeo defluo expedita calamitas. Vehemens ambulo aduro ad."}
+export const post = {"id":"9780178159151","slug":"volva-nostrum-summa","title":"Agnitio coadunatio terreo cinis cibus neque uter adipiscor amitto reprehenderit.","text":"Certus deinde constans tabula vorax tenetur barba velit vivo sortitus. Tametsi ago sortitus. Non sopor dens blanditiis admoneo vinitor socius quaerat."}
