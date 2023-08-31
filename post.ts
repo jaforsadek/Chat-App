@@ -1,1 +1,1 @@
-export const post = {"id":"9780814717677","slug":"iure-crustulum-officia","title":"Tendo facilis ea decet tondeo cubicularis bene decumbo baiulus.","text":"Super alii voluptatem quasi spargo sed dedico eligendi. Decerno desolo tabula. Arbitro triduana aliquid ambulo patruus suppellex."}
+export const post = {"id":"9780198879329","slug":"carus-condico-constans","title":"Calculus arguo summopere stella.","text":"Inventore argentum tempus conitor corporis. Admoneo ultra quas ceno cur annus trepide. Deputo creber velociter vereor."}
