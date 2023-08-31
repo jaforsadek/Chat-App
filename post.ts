@@ -1,1 +1,1 @@
-export const post = {"id":"9781507027820","slug":"tam-dolor-at","title":"Comes aperio teneo amoveo.","text":"Eligendi tumultus amoveo. Pectus tolero sequi nihil arcus iste clarus coruscus. Subito creptio tumultus balbus corona."}
+export const post = {"id":"9781992663596","slug":"socius-ventus-cur","title":"Adamo solus careo autem derideo valde abundans ambitus.","text":"Adficio terebro abundans demulceo decretum solium. Delicate totus degusto concedo villa culpo. Via capio arto vox centum demonstro stabilis."}
