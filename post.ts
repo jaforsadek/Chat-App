@@ -1,1 +1,1 @@
-export const post = {"id":"9781986402590","slug":"somnus-decimus-vulpes","title":"Trado quis arbitro alveus autem neque.","text":"Altus vae claudeo conicio cohors ullus beatus benigne degenero sustineo. Absorbeo consequatur depulso tero creator cubo rem. Id consuasor vinitor volva auditor ex ab."}
+export const post = {"id":"9780423116045","slug":"curis-ancilla-commodi","title":"Ventus vigor audeo audio ulciscor adduco bardus.","text":"Sursum usque itaque. Atque amplitudo consequatur chirographum adamo ater. Sponte adficio curo."}
