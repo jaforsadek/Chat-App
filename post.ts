@@ -1,1 +1,1 @@
-export const post = {"id":"9781432704506","slug":"speculum-viridis-conduco","title":"Tondeo alo varietas thalassinus.","text":"Averto volubilis mollitia corrupti tyrannus absens. Spiculum at tyrannus clarus addo censura similique bonus timor. Via traho currus labore."}
+export const post = {"id":"9781413025392","slug":"condico-via-agnitio","title":"Turbo comparo iure avarus benevolentia cibus.","text":"Tremo delectatio ulciscor tabula admitto corrumpo auditor urbs. Deinde accommodo assentator terebro veritatis. Thermae administratio aurum vilitas vito."}
