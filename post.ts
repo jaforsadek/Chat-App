@@ -1,1 +1,1 @@
-export const post = {"id":"9781236450586","slug":"fuga-undique-clementia","title":"Tardus deleniti odit crur utroque sperno.","text":"Reprehenderit coepi laudantium bellum. Demoror varius decimus curvo curis. Crepusculum villa cubo."}
+export const post = {"id":"9781213888746","slug":"carpo-aggero-vulnero","title":"Ultio beneficium eveniet corporis maxime decerno adulescens.","text":"Taedium toties abscido cupio dignissimos bene amicitia clarus. Crastinus cur calculus utpote. Vitae defungo illo."}
