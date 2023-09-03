@@ -1,1 +1,1 @@
-export const post = {"id":"9780837256368","slug":"quia-deripio-congregatio","title":"Censura tolero amet tempora libero commemoro denuncio.","text":"Taceo viduo adipiscor certus somniculosus celer. Credo sequi vigilo curia. Corporis curriculum blandior deinde vaco earum curo casso."}
+export const post = {"id":"9781236450586","slug":"fuga-undique-clementia","title":"Tardus deleniti odit crur utroque sperno.","text":"Reprehenderit coepi laudantium bellum. Demoror varius decimus curvo curis. Crepusculum villa cubo."}
