@@ -1,1 +1,1 @@
-export const post = {"id":"9780966139860","slug":"alveus-basium-usque","title":"Utor curtus velociter volo.","text":"Caveo via abbas compello creo amissio ipsam aequitas templum. Solio in terminatio absorbeo contigo. Ascit ultio baiulus adulescens ustilo teres."}
+export const post = {"id":"9780897319812","slug":"candidus-accusamus-creta","title":"Corroboro cubicularis admoneo varius.","text":"Civis deporto decretum. Tamquam amplitudo ventito torrens ventus vespillo. Voluptatum vinculum viscus aggredior adeptio adsuesco delego talis."}
