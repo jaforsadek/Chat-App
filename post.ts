@@ -1,1 +1,1 @@
-export const post = {"id":"9781213888746","slug":"carpo-aggero-vulnero","title":"Ultio beneficium eveniet corporis maxime decerno adulescens.","text":"Taedium toties abscido cupio dignissimos bene amicitia clarus. Crastinus cur calculus utpote. Vitae defungo illo."}
+export const post = {"id":"9781322707846","slug":"optio-amitto-curso","title":"Doloremque texo aspicio verus explicabo patria desidero vorax.","text":"Tricesimus aufero comes. Angulus acerbitas viscus cumque molestias. Suffoco caput dicta tempus ullus decimus."}
