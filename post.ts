@@ -1,1 +1,1 @@
-export const post = {"id":"9781322707846","slug":"optio-amitto-curso","title":"Doloremque texo aspicio verus explicabo patria desidero vorax.","text":"Tricesimus aufero comes. Angulus acerbitas viscus cumque molestias. Suffoco caput dicta tempus ullus decimus."}
+export const post = {"id":"9780966139860","slug":"alveus-basium-usque","title":"Utor curtus velociter volo.","text":"Caveo via abbas compello creo amissio ipsam aequitas templum. Solio in terminatio absorbeo contigo. Ascit ultio baiulus adulescens ustilo teres."}
