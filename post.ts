@@ -1,1 +1,1 @@
-export const post = {"id":"9780897319812","slug":"candidus-accusamus-creta","title":"Corroboro cubicularis admoneo varius.","text":"Civis deporto decretum. Tamquam amplitudo ventito torrens ventus vespillo. Voluptatum vinculum viscus aggredior adeptio adsuesco delego talis."}
+export const post = {"id":"9781792732348","slug":"ventosus-blanditiis-consectetur","title":"Tutis terra alveus spoliatio.","text":"Absque vilicus arcesso omnis tum arx. Quos patruus trans tumultus brevis tandem. Adversus charisma blanditiis aestivus attonbitus comitatus avaritia."}
