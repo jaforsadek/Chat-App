@@ -1,1 +1,1 @@
-export const post = {"id":"9780032490161","slug":"clamo-acquiro-veritatis","title":"Substantia timor solio vicissitudo varius.","text":"Umerus tamdiu ambulo complectus suffoco ventito avaritia undique. Cubicularis summa arbustum denego possimus tergum. Vox centum vomito averto strenuus nulla solium."}
+export const post = {"id":"9781181241338","slug":"ubi-vilicus-contego","title":"Error culpo caelum cognatus tibi ambitus demitto.","text":"Sumptus tui cavus cohors. Delinquo temperantia unus aptus. Terror nostrum talus denego civitas angustus adhuc vereor."}
