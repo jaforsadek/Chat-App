@@ -1,1 +1,1 @@
-export const post = {"id":"9781792732348","slug":"ventosus-blanditiis-consectetur","title":"Tutis terra alveus spoliatio.","text":"Absque vilicus arcesso omnis tum arx. Quos patruus trans tumultus brevis tandem. Adversus charisma blanditiis aestivus attonbitus comitatus avaritia."}
+export const post = {"id":"9780526545360","slug":"amaritudo-articulus-voco","title":"Tergiversatio soleo spargo.","text":"Eveniet torqueo thesis aliquam tui aro officia patria. Vinum corroboro adsuesco tolero. Debeo anser demergo adfectus valetudo atqui cunabula labore sulum timor."}
