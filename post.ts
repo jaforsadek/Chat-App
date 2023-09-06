@@ -1,1 +1,1 @@
-export const post = {"id":"9781181241338","slug":"ubi-vilicus-contego","title":"Error culpo caelum cognatus tibi ambitus demitto.","text":"Sumptus tui cavus cohors. Delinquo temperantia unus aptus. Terror nostrum talus denego civitas angustus adhuc vereor."}
+export const post = {"id":"9780580222535","slug":"textor-consuasor-succedo","title":"Curia demonstro atque stella adversus ager degenero.","text":"Bardus amplexus tutis cunae. Cinis argumentum angelus delicate comis. Usque demulceo utpote sto."}
