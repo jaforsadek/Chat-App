@@ -1,1 +1,1 @@
-export const post = {"id":"9781543364354","slug":"dedecor-adeptio-avaritia","title":"Utroque suppono decet iusto arbitro.","text":"Versus ambulo carcer catena accommodo tenetur vulgo voro suscipit. Amor omnis adinventitias. Casus vomito aestivus similique vomica solus bardus laborum."}
+export const post = {"id":"9780133122640","slug":"atrocitas-deinde-arguo","title":"Conforto alter damno.","text":"Ubi contra ea abeo apostolus audentia sunt bos. Versus umerus auditor. Cognomen corrigo adsum."}
