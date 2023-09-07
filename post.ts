@@ -1,1 +1,1 @@
-export const post = {"id":"9780840589392","slug":"condico-cras-atrocitas","title":"Despecto cupressus aqua thymbra creta.","text":"Texo eum ipsam. Confido ustilo verecundia. Acervus laboriosam verus."}
+export const post = {"id":"9781543364354","slug":"dedecor-adeptio-avaritia","title":"Utroque suppono decet iusto arbitro.","text":"Versus ambulo carcer catena accommodo tenetur vulgo voro suscipit. Amor omnis adinventitias. Casus vomito aestivus similique vomica solus bardus laborum."}
