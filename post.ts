@@ -1,1 +1,1 @@
-export const post = {"id":"9780580222535","slug":"textor-consuasor-succedo","title":"Curia demonstro atque stella adversus ager degenero.","text":"Bardus amplexus tutis cunae. Cinis argumentum angelus delicate comis. Usque demulceo utpote sto."}
+export const post = {"id":"9780840589392","slug":"condico-cras-atrocitas","title":"Despecto cupressus aqua thymbra creta.","text":"Texo eum ipsam. Confido ustilo verecundia. Acervus laboriosam verus."}
