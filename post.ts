@@ -1,1 +1,1 @@
-export const post = {"id":"9781949721591","slug":"impedit-crur-adeptio","title":"Tam vesica ater recusandae benevolentia tabesco.","text":"Sustineo accusator delicate depereo casus aegre cupio thalassinus tolero. Commodo textus sustineo. Voco subseco vorago crastinus congregatio spiritus voluptate vesco."}
+export const post = {"id":"9780105070993","slug":"verbera-spiculum-tribuo","title":"Velociter cupiditate sortitus.","text":"Tego theca ara. Aetas decens qui dolorum basium campana tabernus abbas consuasor canis. Appello summa vesica crinis."}
