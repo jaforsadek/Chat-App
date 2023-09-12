@@ -1,1 +1,1 @@
-export const post = {"id":"9780118986908","slug":"tui-pauper-agnosco","title":"Quisquam conventus quod cum derideo.","text":"Tergeo dolorem adeptio temeritas. Uberrime beatae fugiat cui possimus virga. Dens advoco calculus cedo ultra utilis."}
+export const post = {"id":"9780782003185","slug":"cenaculum-sollers-mollitia","title":"Considero doloribus vesica amiculum ater vacuus conor aestivus.","text":"Catena vinculum abscido caute. Vomica nisi pauci dolorem viriliter illum auctor debilito agnosco. Absorbeo amet paens."}
