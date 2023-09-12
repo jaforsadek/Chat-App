@@ -1,1 +1,1 @@
-export const post = {"id":"9780930499273","slug":"adeptio-adulatio-bis","title":"Autem curto cenaculum tactus.","text":"Aptus distinctio defessus pecus consequatur torrens. Ascisco defleo thermae tyrannus laboriosam modi tabesco crebro strenuus certus. Vobis ipsam volup uberrime subiungo."}
+export const post = {"id":"9780118986908","slug":"tui-pauper-agnosco","title":"Quisquam conventus quod cum derideo.","text":"Tergeo dolorem adeptio temeritas. Uberrime beatae fugiat cui possimus virga. Dens advoco calculus cedo ultra utilis."}
