@@ -1,1 +1,1 @@
-export const post = {"id":"9780105070993","slug":"verbera-spiculum-tribuo","title":"Velociter cupiditate sortitus.","text":"Tego theca ara. Aetas decens qui dolorum basium campana tabernus abbas consuasor canis. Appello summa vesica crinis."}
+export const post = {"id":"9780096021318","slug":"coniecto-tam-despecto","title":"Tum vinculum adsidue deripio demens tener thalassinus est vapulus.","text":"Laudantium conduco uter utique laudantium denego totam tenetur. Articulus convoco tam desolo cupressus. Est cunctatio adsuesco caste demonstro peior tantum absum crastinus."}
