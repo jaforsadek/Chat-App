@@ -1,1 +1,1 @@
-export const post = {"id":"9781035142583","slug":"bellicus-tepesco-substantia","title":"Tui vilicus uterque tactus uter id cognatus patruus.","text":"Crebro abduco accendo cupiditate communis vel. Tabula termes atrocitas temperantia et dedecor vomica crapula alo. Carbo usus commodi apparatus cum."}
+export const post = {"id":"9780649110964","slug":"vestrum-charisma-certe","title":"Vitae vallum amplus.","text":"Attero velit vita attonbitus. Valde viscus patruus cervus placeat crustulum velum creta. Adeptio magnam adeptio comburo."}
