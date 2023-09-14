@@ -1,1 +1,1 @@
-export const post = {"id":"9780702047169","slug":"eum-desparatus-dolores","title":"Vulnero causa ultra aqua amissio beatae tolero delinquo.","text":"Succedo terreo auctus auditor. Auditor curso ante. Cultellus strenuus complectus copia socius statim occaecati."}
+export const post = {"id":"9781035142583","slug":"bellicus-tepesco-substantia","title":"Tui vilicus uterque tactus uter id cognatus patruus.","text":"Crebro abduco accendo cupiditate communis vel. Tabula termes atrocitas temperantia et dedecor vomica crapula alo. Carbo usus commodi apparatus cum."}
