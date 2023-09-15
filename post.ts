@@ -1,1 +1,1 @@
-export const post = {"id":"9780649110964","slug":"vestrum-charisma-certe","title":"Vitae vallum amplus.","text":"Attero velit vita attonbitus. Valde viscus patruus cervus placeat crustulum velum creta. Adeptio magnam adeptio comburo."}
+export const post = {"id":"9780915310654","slug":"adsum-reiciendis-cuius","title":"Adamo claudeo adstringo validus.","text":"Benigne clibanus tyrannus cunae vigor cui varietas carbo cicuta. Confero ago barba aegre laborum. Accommodo demo amplexus territo denuncio tot vulgivagus tutis deleniti."}
