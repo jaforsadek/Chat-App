@@ -1,1 +1,1 @@
-export const post = {"id":"9780725252137","slug":"somnus-comptus-candidus","title":"Illum tempora rerum victoria exercitationem una ut comprehendo comparo delinquo.","text":"Absens adamo defetiscor amoveo benigne ara ulterius. Inventore temeritas utrum considero audax culpo solio debitis cura. Vomer adeo ex."}
+export const post = {"id":"9781762949233","slug":"timidus-denique-cruciamentum","title":"Pectus carus territo.","text":"Cavus damno conventus alioqui cruentus cultura incidunt. Abbas circumvenio ante. Vulariter terebro carbo maiores tepidus cavus stips."}
