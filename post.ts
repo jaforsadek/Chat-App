@@ -1,1 +1,1 @@
-export const post = {"id":"9781629881898","slug":"arceo-arceo-vilicus","title":"Tabula desipio utor arbustum dedico censura appello angulus sophismata.","text":"Neque officia demergo cito inflammatio angustus contego ademptio. Acerbitas bis creo. Placeat cui curis speculum demergo vix cimentarius doloribus sapiente."}
+export const post = {"id":"9780189034577","slug":"teres-amicitia-vester","title":"Tamquam temeritas urbanus tunc.","text":"Cicuta aer voluptate conatus varietas. Corona uter esse claro. Vel defero ipsam aequitas explicabo aetas administratio cedo demo."}
