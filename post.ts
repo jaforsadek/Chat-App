@@ -1,1 +1,1 @@
-export const post = {"id":"9781762949233","slug":"timidus-denique-cruciamentum","title":"Pectus carus territo.","text":"Cavus damno conventus alioqui cruentus cultura incidunt. Abbas circumvenio ante. Vulariter terebro carbo maiores tepidus cavus stips."}
+export const post = {"id":"9780221566363","slug":"vulpes-aedificium-colligo","title":"Nam varietas usitas soluta totam itaque sordeo amplexus.","text":"Quibusdam credo cum tibi solutio. Demoror tripudio templum vitium tot assentator sono iste conturbo. Perferendis tenetur vulnus cras."}
