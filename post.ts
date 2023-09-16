@@ -1,1 +1,1 @@
-export const post = {"id":"9780189034577","slug":"teres-amicitia-vester","title":"Tamquam temeritas urbanus tunc.","text":"Cicuta aer voluptate conatus varietas. Corona uter esse claro. Vel defero ipsam aequitas explicabo aetas administratio cedo demo."}
+export const post = {"id":"9781335504470","slug":"triumphus-rerum-aspernatur","title":"Solus caterva veniam alius defleo verbum deficio templum.","text":"Provident sit admiratio thymum denego uxor. Paulatim clamo curriculum crux considero ab nulla. Appello ex inflammatio creta circumvenio desidero caput."}
