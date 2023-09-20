@@ -1,1 +1,1 @@
-export const post = {"id":"9780611554444","slug":"delectus-careo-peior","title":"Desipio terminatio decerno ratione crur.","text":"Rerum condico vito tenax cena aperio. Atqui defendo vesica aduro. Accusamus aeger ustilo delectatio odio adeo cattus coerceo curo."}
+export const post = {"id":"9780574327352","slug":"absum-tabernus-aestivus","title":"Crux solutio cenaculum creo tempus spectaculum.","text":"Cenaculum odio utpote. Supplanto tyrannus crustulum circumvenio unde adopto cur. Adfero usus thymbra attollo vomito sopor curto aetas totam."}
