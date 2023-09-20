@@ -1,1 +1,1 @@
-export const post = {"id":"9780887517488","slug":"delectus-quod-summopere","title":"Ducimus capillus canis tui thermae.","text":"Pax celer umquam venustas. Ter quia eaque creptio copiose cena admitto suggero. Sui hic aeternus coaegresco comburo aveho tot soluta optio ter."}
+export const post = {"id":"9780611554444","slug":"delectus-careo-peior","title":"Desipio terminatio decerno ratione crur.","text":"Rerum condico vito tenax cena aperio. Atqui defendo vesica aduro. Accusamus aeger ustilo delectatio odio adeo cattus coerceo curo."}
