@@ -1,1 +1,1 @@
-export const post = {"id":"9780574327352","slug":"absum-tabernus-aestivus","title":"Crux solutio cenaculum creo tempus spectaculum.","text":"Cenaculum odio utpote. Supplanto tyrannus crustulum circumvenio unde adopto cur. Adfero usus thymbra attollo vomito sopor curto aetas totam."}
+export const post = {"id":"9781002909966","slug":"tyrannus-desino-quam","title":"Averto autus trado desipio accendo quae theatrum.","text":"Pectus culpa basium degenero canto. Subiungo tot addo claustrum audio vere truculenter candidus bibo via. Creo adsum barba carcer voluptas."}
