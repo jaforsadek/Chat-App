@@ -1,1 +1,1 @@
-export const post = {"id":"9781401677619","slug":"altus-cognatus-valetudo","title":"Praesentium cresco tamen.","text":"Tandem eos uxor. Celo labore celo stillicidium cultellus. Cultura ars adsidue accusamus convoco adhuc villa depereo vado aegre."}
+export const post = {"id":"9781661265403","slug":"vir-tutis-curtus","title":"Thymum rem derelinquo.","text":"Delicate tremo tepesco. Deinde peccatus valde verto. Audacia turbo bis tergeo cupiditate aspernatur ducimus atrocitas astrum."}
