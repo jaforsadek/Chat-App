@@ -1,1 +1,1 @@
-export const post = {"id":"9781661265403","slug":"vir-tutis-curtus","title":"Thymum rem derelinquo.","text":"Delicate tremo tepesco. Deinde peccatus valde verto. Audacia turbo bis tergeo cupiditate aspernatur ducimus atrocitas astrum."}
+export const post = {"id":"9781355756880","slug":"cunctatio-bos-esse","title":"Adfero bellum numquam aliquam abundans coerceo bibo asperiores.","text":"Averto creo validus cinis animadverto sed ter admoneo adstringo absorbeo. Cumque basium calamitas aetas crebro amoveo pecco speciosus cum. Cras spiculum degusto facilis cum atque."}
