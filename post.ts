@@ -1,1 +1,1 @@
-export const post = {"id":"9780830143993","slug":"cubitum-condico-usitas","title":"Atavus ocer degero.","text":"Vesco chirographum dolorem vilis caelestis allatus conservo ascit. Arcesso cornu acquiro. Vindico supplanto crudelis necessitatibus copiose comitatus ademptio calamitas casus claro."}
+export const post = {"id":"9780358733997","slug":"tabernus-decor-depono","title":"Acidus decerno adipisci.","text":"Totam vulpes vilitas sponte aetas. Somniculosus teneo blanditiis uterque. Audentia temptatio solitudo aegre amoveo volaticus."}
