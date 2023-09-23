@@ -1,1 +1,1 @@
-export const post = {"id":"9780358733997","slug":"tabernus-decor-depono","title":"Acidus decerno adipisci.","text":"Totam vulpes vilitas sponte aetas. Somniculosus teneo blanditiis uterque. Audentia temptatio solitudo aegre amoveo volaticus."}
+export const post = {"id":"9781276069151","slug":"volo-solutio-avarus","title":"Supra suadeo vestrum defungo nostrum.","text":"Usitas cernuus tristis vicinus titulus nisi bestia reprehenderit vae. Id vetus adduco audeo nam concedo tui tempora rem. Subiungo demulceo virtus odio audio theca rem aptus."}
