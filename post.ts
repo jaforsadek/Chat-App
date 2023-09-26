@@ -1,1 +1,1 @@
-export const post = {"id":"9780304968169","slug":"sumo-tres-virgo","title":"Delego terga vinculum.","text":"Molestiae via amplitudo ocer temeritas odit timor adulatio. Stella quasi facilis amitto assentator. Corrigo arcus voco acervus aperiam."}
+export const post = {"id":"9781544513317","slug":"canto-cohaero-error","title":"Adnuo tabella arceo veniam dedecor stultus tergum tempore.","text":"Caste curo animi vae tres contego spoliatio ipsam. Cetera sollicito tracto carbo. Conservo caelestis harum vobis combibo peccatus tamisium cognatus corporis abscido."}
