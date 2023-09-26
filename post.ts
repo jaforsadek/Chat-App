@@ -1,1 +1,1 @@
-export const post = {"id":"9781931553254","slug":"baiulus-vitae-asporto","title":"Ventus carcer cursim libero bonus corrigo triduana coruscus.","text":"Alioqui bestia aperio vitiosus sortitus urbs carus adulescens. Blanditiis voro varius adsuesco. Vomito tabella ab calco ut coma."}
+export const post = {"id":"9781216444314","slug":"apostolus-ver-bis","title":"Caelestis solutio colo cursus conspergo dens.","text":"Unus depereo amplus vesper conscendo curso thymbra sortitus adeo eaque. Alveus apostolus vociferor pectus arbor. Defendo abeo stillicidium totidem consequuntur."}
