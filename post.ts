@@ -1,1 +1,1 @@
-export const post = {"id":"9781216444314","slug":"apostolus-ver-bis","title":"Caelestis solutio colo cursus conspergo dens.","text":"Unus depereo amplus vesper conscendo curso thymbra sortitus adeo eaque. Alveus apostolus vociferor pectus arbor. Defendo abeo stillicidium totidem consequuntur."}
+export const post = {"id":"9780304968169","slug":"sumo-tres-virgo","title":"Delego terga vinculum.","text":"Molestiae via amplitudo ocer temeritas odit timor adulatio. Stella quasi facilis amitto assentator. Corrigo arcus voco acervus aperiam."}
