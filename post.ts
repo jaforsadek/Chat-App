@@ -1,1 +1,1 @@
-export const post = {"id":"9780018964563","slug":"teneo-vomito-et","title":"Claustrum acquiro cruentus vita cimentarius ceno eos non versus.","text":"Commemoro credo correptius aureus. Agnitio astrum demoror aggredior tubineus apostolus. Suadeo cupiditas volubilis carbo acsi consequuntur amet voveo."}
+export const post = {"id":"9780754293859","slug":"terebro-tendo-asporto","title":"Quo tener atavus.","text":"Thymum tener tricesimus. Hic canonicus accusantium veritatis cena decens sopor utrum aureus comburo. Barba placeat cavus voro calco."}
