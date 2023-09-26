@@ -1,1 +1,1 @@
-export const post = {"id":"9780637427951","slug":"suus-ascisco-officiis","title":"Neque nisi vigor.","text":"Explicabo appositus sopor trucido sulum. Certe verto vulgaris. Aperte annus sunt tamen."}
+export const post = {"id":"9780022533687","slug":"degenero-vigilo-calcar","title":"Aveho alias defendo sint terminatio antepono cupressus.","text":"Repellendus crebro custodia thema collum dens claro arcus vorago. Villa libero vergo. Labore coniuratio adaugeo."}
