@@ -1,1 +1,1 @@
-export const post = {"id":"9781949894707","slug":"claro-audacia-bestia","title":"Ceno vicissitudo apostolus.","text":"Adeptio stabilis decumbo cognomen sortitus. Comprehendo comis avaritia atrox. Culpo cursus dapifer vigilo a perspiciatis desipio."}
+export const post = {"id":"9781100955469","slug":"peccatus-abeo-solvo","title":"Patrocinor degero astrum nisi necessitatibus spargo crustulum cumque argentum.","text":"Adversus amita umquam aurum creator tibi. Aranea defluo terminatio derelinquo aetas tamquam comptus. Tribuo vere adopto ceno triumphus."}
