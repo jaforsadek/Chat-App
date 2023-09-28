@@ -1,1 +1,1 @@
-export const post = {"id":"9781233395385","slug":"tergiversatio-terga-totidem","title":"Patria dignissimos cur tonsor.","text":"Una terga thermae uter summisse ademptio acervus sum. Sursum quae dolorem. Adamo degusto adflicto arma arcesso cometes vulariter thema adfectus spes."}
+export const post = {"id":"9780346811263","slug":"beatus-cribro-vaco","title":"Terreo vaco uxor tempore audacia audentia corroboro velociter impedit.","text":"Ustulo creo antea. Laboriosam clamo defluo. Addo pauper creta volup conduco."}
