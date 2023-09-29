@@ -1,1 +1,1 @@
-export const post = {"id":"9781625917683","slug":"benevolentia-adfectus-patrocinor","title":"Quo vulgaris vix universe suscipit cibo ascisco tardus.","text":"Demo conicio tot adhuc cursus turba adinventitias desino debilito pauci. Territo stipes commodo autem cibus subito. Tot attonbitus quam."}
+export const post = {"id":"9780379601619","slug":"abeo-ventus-eius","title":"Id speculum subito aurum tonsor tener nesciunt.","text":"Succurro dolorem accusator artificiose tabgo soleo. Ars adstringo solum toties surculus. Voluntarius cometes nam."}
