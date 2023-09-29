@@ -1,1 +1,1 @@
-export const post = {"id":"9781254157382","slug":"clementia-terebro-demitto","title":"Pariatur perferendis despecto ante templum.","text":"Voluptatum aequus suggero spectaculum esse. Cunabula denuo pauci uberrime sodalitas perferendis ars pecus. Ver tenus vomito quam confugo."}
+export const post = {"id":"9781726842631","slug":"utpote-curtus-quis","title":"Articulus stabilis sperno explicabo.","text":"Adulatio capillus patrocinor convoco audacia vomica adhuc talio unus. Trepide colligo dolorum stabilis viriliter adfero alioqui ter. Solium velit solutio thymum."}
