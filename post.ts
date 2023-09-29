@@ -1,1 +1,1 @@
-export const post = {"id":"9780379601619","slug":"abeo-ventus-eius","title":"Id speculum subito aurum tonsor tener nesciunt.","text":"Succurro dolorem accusator artificiose tabgo soleo. Ars adstringo solum toties surculus. Voluntarius cometes nam."}
+export const post = {"id":"9781195879022","slug":"copia-teneo-molestias","title":"Adaugeo aeneus deduco animadverto calculus tumultus utor tempus copia.","text":"Causa admitto repellendus possimus ademptio tam. Ulciscor ademptio debitis antepono xiphias. Eaque supra ullus."}
