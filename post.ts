@@ -1,1 +1,1 @@
-export const post = {"id":"9780346811263","slug":"beatus-cribro-vaco","title":"Terreo vaco uxor tempore audacia audentia corroboro velociter impedit.","text":"Ustulo creo antea. Laboriosam clamo defluo. Addo pauper creta volup conduco."}
+export const post = {"id":"9781130194630","slug":"ubi-asperiores-tamdiu","title":"Universe eum supellex sequi cursus anser cedo tubineus autem creptio.","text":"Statim aer caute voluntarius quasi titulus valetudo. Adduco tenetur modi usitas velum depono. Vir sordeo adimpleo delectatio cunctatio creo auctor asporto eaque."}
