@@ -1,1 +1,1 @@
-export const post = {"id":"9780213317669","slug":"nostrum-combibo-consuasor","title":"Universe vomica cetera in.","text":"Creta crur varius alias adeo totam auctus. Consequuntur ademptio decretum. Quibusdam vilitas vindico."}
+export const post = {"id":"9781202436620","slug":"conatus-cui-molestiae","title":"Conatus venia decens vestigium demum comis tenetur.","text":"Defetiscor clamo collum degusto ulterius aspernatur ater cerno volubilis curia. Teres tepesco apto substantia acerbitas. Acies cum desipio cometes tenax vulariter vilicus admitto."}
