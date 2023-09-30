@@ -1,1 +1,1 @@
-export const post = {"id":"9781195879022","slug":"copia-teneo-molestias","title":"Adaugeo aeneus deduco animadverto calculus tumultus utor tempus copia.","text":"Causa admitto repellendus possimus ademptio tam. Ulciscor ademptio debitis antepono xiphias. Eaque supra ullus."}
+export const post = {"id":"9780931281648","slug":"viduo-virga-angustus","title":"Similique acervus sunt vaco demoror turba cubicularis.","text":"Ea itaque volup pecto censura consuasor eius conturbo. Anser uter aggero. Adaugeo usus excepturi arcus certus bene ascit triumphus xiphias."}
