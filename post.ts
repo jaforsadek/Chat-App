@@ -1,1 +1,1 @@
-export const post = {"id":"9780288171340","slug":"arto-libero-alveus","title":"Coruscus perspiciatis vicinus accommodo summopere patrocinor vindico addo carpo porro.","text":"Ipsa demergo peccatus aliquid commodo undique. Crux tollo ut tantillus tumultus. Corona vergo tempore capillus sperno bibo harum aperio."}
+export const post = {"id":"9781655748509","slug":"vito-aliqua-textilis","title":"Custodia sophismata neque.","text":"Umbra unus tricesimus. Error veniam ver. Vilitas deficio armarium tergeo consequatur."}
