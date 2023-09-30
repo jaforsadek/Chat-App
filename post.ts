@@ -1,1 +1,1 @@
-export const post = {"id":"9780931281648","slug":"viduo-virga-angustus","title":"Similique acervus sunt vaco demoror turba cubicularis.","text":"Ea itaque volup pecto censura consuasor eius conturbo. Anser uter aggero. Adaugeo usus excepturi arcus certus bene ascit triumphus xiphias."}
+export const post = {"id":"9780213317669","slug":"nostrum-combibo-consuasor","title":"Universe vomica cetera in.","text":"Creta crur varius alias adeo totam auctus. Consequuntur ademptio decretum. Quibusdam vilitas vindico."}
