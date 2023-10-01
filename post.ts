@@ -1,1 +1,1 @@
-export const post = {"id":"9781655748509","slug":"vito-aliqua-textilis","title":"Custodia sophismata neque.","text":"Umbra unus tricesimus. Error veniam ver. Vilitas deficio armarium tergeo consequatur."}
+export const post = {"id":"9781022575554","slug":"credo-dolorum-eligendi","title":"Ait aliquam decor abbas comedo arbustum admitto.","text":"Aiunt tamquam consequatur velociter a amitto. Cultura illo umerus bellicus vereor vereor decens quaerat comburo illum. Vigor patria demitto volaticus."}
