@@ -1,1 +1,1 @@
-export const post = {"id":"9781710955866","slug":"deputo-dapifer-ceno","title":"Valde civis necessitatibus.","text":"Barba adficio solvo depraedor acies veniam tener capto. Varietas consectetur tui acerbitas atrox chirographum expedita tersus. Aut dolorum coaegresco tener correptius abeo."}
+export const post = {"id":"9781075842610","slug":"cattus-utpote-urbanus","title":"Laboriosam certus architecto deporto praesentium excepturi balbus acerbitas.","text":"Attollo tantum attero. Pecco vorax iste vespillo aliqua iure. Pauper audeo auxilium deinde campana umbra."}
