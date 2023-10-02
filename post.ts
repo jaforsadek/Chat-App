@@ -1,1 +1,1 @@
-export const post = {"id":"9781928235811","slug":"depraedor-solio-absque","title":"Clam tametsi apostolus abundans censura ex absconditus sumo.","text":"Auctor ab eos cribro demulceo. Demens patrocinor amet toties aegre. Sed peior audio pecus."}
+export const post = {"id":"9780030240119","slug":"absens-ventosus-cupiditas","title":"Aiunt fugit averto quod commodo possimus vesica.","text":"Delectus praesentium atavus inventore texo aequitas atavus dapifer vereor. Centum sophismata theca sono nisi. Animus termes doloremque coma crinis conicio suffragium depono."}
