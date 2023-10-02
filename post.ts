@@ -1,1 +1,1 @@
-export const post = {"id":"9780007038909","slug":"quam-usque-degero","title":"Similique versus cibo.","text":"Demoror debilito color ceno venia trepide adduco censura verus. Dolor asperiores enim una amoveo voro volva. Arma volaticus casus."}
+export const post = {"id":"9781842670064","slug":"collum-arcesso-curso","title":"Coruscus consequatur cariosus sublime officiis tumultus provident bibo.","text":"Conspergo crudelis ullam utroque demitto degero pel. Solium accusantium acies candidus temperantia vulgo culpa usitas. Claudeo uxor spes arbitro curvo cribro thesaurus."}
