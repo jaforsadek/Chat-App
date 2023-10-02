@@ -1,1 +1,1 @@
-export const post = {"id":"9780362363364","slug":"cuius-coaegresco-umerus","title":"Benevolentia cicuta mollitia denuo stabilis volup.","text":"Desolo crur infit aestivus aegre admitto charisma depono tertius. Tabgo vorago strenuus templum denique pax. Vitium combibo vinum vitium amitto iusto baiulus culpa vado."}
+export const post = {"id":"9780007038909","slug":"quam-usque-degero","title":"Similique versus cibo.","text":"Demoror debilito color ceno venia trepide adduco censura verus. Dolor asperiores enim una amoveo voro volva. Arma volaticus casus."}
