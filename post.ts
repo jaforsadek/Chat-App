@@ -1,1 +1,1 @@
-export const post = {"id":"9781138481244","slug":"approbo-accusator-chirographum","title":"Avarus conscendo compello ustulo.","text":"Taceo aeger vitium assentator deripio triduana degenero. Delibero quaerat allatus tepesco. Voluptatum conscendo utor solium tamisium tot xiphias amo caveo."}
+export const post = {"id":"9781792866265","slug":"ceno-coerceo-corrumpo","title":"Vox coepi conforto thesis soleo.","text":"Contabesco illum ars vix admoveo speciosus maxime. Voluptas avaritia ancilla. Strenuus vulnus valens."}
