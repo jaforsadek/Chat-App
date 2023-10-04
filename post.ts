@@ -1,1 +1,1 @@
-export const post = {"id":"9781792866265","slug":"ceno-coerceo-corrumpo","title":"Vox coepi conforto thesis soleo.","text":"Contabesco illum ars vix admoveo speciosus maxime. Voluptas avaritia ancilla. Strenuus vulnus valens."}
+export const post = {"id":"9780881259933","slug":"aequus-tepidus-aspernatur","title":"Culpa cultura universe valetudo cotidie taceo ait turbo ocer.","text":"Voveo deduco currus volva voco utrum adulatio usitas. Tamquam canto culpa angustus cilicium. Totam vehemens angelus civitas teneo adeptio officiis aduro confugo."}
