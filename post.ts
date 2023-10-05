@@ -1,1 +1,1 @@
-export const post = {"id":"9780309233941","slug":"stips-dignissimos-texo","title":"Tactus aperio spes audentia rem capillus pectus.","text":"Cruentus vita velociter adnuo comburo theologus. Caput velociter vaco alo adeo. Pax temporibus catena aggero anser praesentium."}
+export const post = {"id":"9780721978215","slug":"super-conservo-demum","title":"Depulso conscendo calamitas architecto saepe.","text":"Antepono tametsi vir ulciscor audio umerus volutabrum congregatio tabgo. Corroboro campana pectus. Vinco tamdiu tibi vinculum."}
