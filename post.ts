@@ -1,1 +1,1 @@
-export const post = {"id":"9780721978215","slug":"super-conservo-demum","title":"Depulso conscendo calamitas architecto saepe.","text":"Antepono tametsi vir ulciscor audio umerus volutabrum congregatio tabgo. Corroboro campana pectus. Vinco tamdiu tibi vinculum."}
+export const post = {"id":"9781286262788","slug":"vero-dignissimos-chirographum","title":"Varietas artificiose succedo cunabula canis caelestis vulpes toties similique deludo.","text":"Vinculum tabella vestrum arbustum. Curatio valens ullus vinculum ullam. Demo comedo volutabrum ascit spargo."}
