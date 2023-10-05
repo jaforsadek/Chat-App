@@ -1,1 +1,1 @@
-export const post = {"id":"9780144622320","slug":"teres-tertius-nam","title":"Depereo ciminatio debeo abeo temeritas.","text":"Dolores vitae civitas cruentus. Pel tamisium curia substantia fugit. Patior desino deserunt volup comburo volva ubi vulticulus pecco ut."}
+export const post = {"id":"9781944013929","slug":"supellex-administratio-amor","title":"Delicate compono capillus patruus alveus.","text":"Sum vetus deprimo cohors aggero porro ducimus. Subito trado debeo sumptus velit sophismata tergo vergo. Denuncio conforto verecundia."}
