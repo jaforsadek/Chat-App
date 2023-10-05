@@ -1,1 +1,1 @@
-export const post = {"id":"9780819706478","slug":"dapifer-vulpes-talis","title":"Aegrotatio vae dicta nihil.","text":"Confero non arto ipsum adnuo tolero casso atavus. Voro curo sulum statua speciosus perferendis damnatio vado carmen velociter. Coma quo ustilo repellat tersus umbra voluntarius soleo."}
+export const post = {"id":"9780309233941","slug":"stips-dignissimos-texo","title":"Tactus aperio spes audentia rem capillus pectus.","text":"Cruentus vita velociter adnuo comburo theologus. Caput velociter vaco alo adeo. Pax temporibus catena aggero anser praesentium."}
