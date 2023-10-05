@@ -1,1 +1,1 @@
-export const post = {"id":"9780369022981","slug":"villa-consequatur-suasoria","title":"Angulus apud mollitia.","text":"Umquam sed adsidue velum. Apto terreo caterva animi. Sub ceno avarus alo tutis nulla patria denuo vinco titulus."}
+export const post = {"id":"9780070954298","slug":"tondeo-appono-cornu","title":"Abduco adhaero dolore ater tenuis.","text":"Cimentarius sopor tendo fugit taedium calculus degero. Utpote aspicio tenuis sopor amiculum cenaculum tandem sequi. Adhaero desolo amoveo accusator talus astrum."}
