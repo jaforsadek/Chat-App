@@ -1,1 +1,1 @@
-export const post = {"id":"9780912244006","slug":"umbra-vereor-pel","title":"Placeat ullam impedit attollo voluptas celer thema.","text":"Abscido subseco cultura campana curtus aetas copia. Conscendo combibo uredo abeo numquam via carmen quisquam dolorem. Desino coaegresco appello aspernatur tollo bibo deputo volva."}
+export const post = {"id":"9780369022981","slug":"villa-consequatur-suasoria","title":"Angulus apud mollitia.","text":"Umquam sed adsidue velum. Apto terreo caterva animi. Sub ceno avarus alo tutis nulla patria denuo vinco titulus."}
