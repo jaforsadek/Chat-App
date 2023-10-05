@@ -1,1 +1,1 @@
-export const post = {"id":"9781944013929","slug":"supellex-administratio-amor","title":"Delicate compono capillus patruus alveus.","text":"Sum vetus deprimo cohors aggero porro ducimus. Subito trado debeo sumptus velit sophismata tergo vergo. Denuncio conforto verecundia."}
+export const post = {"id":"9780850925616","slug":"capillus-comprehendo-custodia","title":"Vulgo aperio illo acquiro thymbra vinco.","text":"Abeo tactus culpa decens victoria animi thymbra aegrotatio sursum volva. Conventus quia stella. Solus verbera venio eius comis aduro urbs enim."}
