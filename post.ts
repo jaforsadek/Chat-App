@@ -1,1 +1,1 @@
-export const post = {"id":"9781286262788","slug":"vero-dignissimos-chirographum","title":"Varietas artificiose succedo cunabula canis caelestis vulpes toties similique deludo.","text":"Vinculum tabella vestrum arbustum. Curatio valens ullus vinculum ullam. Demo comedo volutabrum ascit spargo."}
+export const post = {"id":"9781134167227","slug":"vinco-sollers-crinis","title":"Consuasor triduana totidem facere uter.","text":"Pauci aestus sequi somniculosus tabernus tolero textilis iure. Delectus iste statua delectus reiciendis derideo corrumpo. Alo casso arca amicitia."}
