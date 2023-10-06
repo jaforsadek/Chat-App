@@ -1,1 +1,1 @@
-export const post = {"id":"9781134167227","slug":"vinco-sollers-crinis","title":"Consuasor triduana totidem facere uter.","text":"Pauci aestus sequi somniculosus tabernus tolero textilis iure. Delectus iste statua delectus reiciendis derideo corrumpo. Alo casso arca amicitia."}
+export const post = {"id":"9781982435752","slug":"sui-aranea-dignissimos","title":"Testimonium traho somniculosus.","text":"Atrocitas asper audacia adulatio. Vestigium ago deputo suspendo valeo amo. Facere cervus statim architecto varietas deripio acer pax tego."}
