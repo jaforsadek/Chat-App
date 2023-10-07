@@ -1,1 +1,1 @@
-export const post = {"id":"9781810471907","slug":"contabesco-verecundia-cimentarius","title":"Cum decerno enim.","text":"Crebro vicinus barba suus accommodo tepidus cornu delinquo ager. Tempus cado triduana voluntarius. Tot nam adulatio."}
+export const post = {"id":"9781081844554","slug":"crudelis-alias-aveho","title":"Credo victus subvenio acceptus facilis cado.","text":"Doloribus commodi tabernus cur. Utpote colo alo video urbanus. Calculus supra vigilo sequi corroboro quibusdam sperno."}
