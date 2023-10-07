@@ -1,1 +1,1 @@
-export const post = {"id":"9781982435752","slug":"sui-aranea-dignissimos","title":"Testimonium traho somniculosus.","text":"Atrocitas asper audacia adulatio. Vestigium ago deputo suspendo valeo amo. Facere cervus statim architecto varietas deripio acer pax tego."}
+export const post = {"id":"9780658322969","slug":"cattus-cupio-coruscus","title":"Conventus volubilis arceo.","text":"Acsi cupressus valens veniam timor pecus vehemens debitis. Addo color vulariter sodalitas incidunt. Videlicet voro velut amiculum audacia iusto itaque ventosus arto cui."}
