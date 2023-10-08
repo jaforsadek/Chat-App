@@ -1,1 +1,1 @@
-export const post = {"id":"9780480711467","slug":"corona-vulgus-aedificium","title":"Sint varius traho voluptatibus videlicet sulum pecco.","text":"Corrupti curto delibero. Ademptio collum tergeo validus corrigo. Excepturi caveo animadverto coerceo."}
+export const post = {"id":"9780169421236","slug":"video-correptius-vinco","title":"Carus decumbo utpote decet cunctatio cruciamentum timidus quos xiphias dolorum.","text":"Vita tolero adstringo cubo via. Bardus asperiores theatrum tero curo molestias vinco. Stips autus debitis trans valeo brevis."}
