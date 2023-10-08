@@ -1,1 +1,1 @@
-export const post = {"id":"9780434481576","slug":"et-consequuntur-aperte","title":"Aetas crinis pel doloribus cernuus praesentium.","text":"Terga contigo aiunt volubilis enim excepturi. Socius usque cerno vespillo amet accusantium. Tremo crepusculum dolor verto depopulo terreo canis adfero textus pectus."}
+export const post = {"id":"9780480711467","slug":"corona-vulgus-aedificium","title":"Sint varius traho voluptatibus videlicet sulum pecco.","text":"Corrupti curto delibero. Ademptio collum tergeo validus corrigo. Excepturi caveo animadverto coerceo."}
