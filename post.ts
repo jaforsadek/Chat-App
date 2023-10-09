@@ -1,1 +1,1 @@
-export const post = {"id":"9781567969726","slug":"sto-tempore-suscipio","title":"Eaque accendo arbitro audax itaque communis.","text":"Thema advoco cerno. Anser cum avaritia vicinus charisma ratione capillus. Magni suppono amitto conitor."}
+export const post = {"id":"9781420891027","slug":"advoco-odio-suggero","title":"Toties est vinco ater virga delinquo tergeo facilis uter.","text":"Carbo cilicium bibo antiquus tripudio vix. Deprecator repudiandae voro tepidus cariosus iste. Aperio trucido decet contigo curia cubicularis adflicto."}
