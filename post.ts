@@ -1,1 +1,1 @@
-export const post = {"id":"9780805702699","slug":"charisma-curo-amplus","title":"Ut aeger curvo tabula amplexus.","text":"Laborum blandior placeat aliqua defendo. Trado talus stillicidium bestia videlicet veritas claro. Ademptio thymbra assumenda bene vespillo apostolus aeneus vester tricesimus."}
+export const post = {"id":"9780861038558","slug":"via-cedo-appello","title":"Tubineus certus sophismata.","text":"Tricesimus aestus crastinus tergeo ante clibanus incidunt infit. At torqueo clibanus alveus assumenda. Desparatus titulus absconditus."}
