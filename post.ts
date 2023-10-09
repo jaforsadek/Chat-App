@@ -1,1 +1,1 @@
-export const post = {"id":"9781754507557","slug":"defluo-peior-corroboro","title":"Sufficio aufero ulciscor deprecator fugit bestia rerum creator defungo cito.","text":"Taedium cado angulus terga bis vix aliqua careo amplexus. Cervus defluo volva asporto. Porro uberrime dolores virtus crastinus audacia."}
+export const post = {"id":"9780924206429","slug":"absens-acquiro-iste","title":"Atrocitas ars denique decens.","text":"Capto totam officiis consequatur maiores sed. Timidus iste debilito. Ubi unde validus addo laborum nisi."}
