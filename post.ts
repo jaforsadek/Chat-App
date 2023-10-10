@@ -1,1 +1,1 @@
-export const post = {"id":"9780418855539","slug":"ullus-cresco-vehemens","title":"Ver calculus creta tam uter cohibeo torrens sublime pauci assumenda.","text":"Officia ventus calco sophismata. Sint dolore tibi textus articulus. Convoco compono absens labore crux."}
+export const post = {"id":"9781345223484","slug":"volutabrum-vinco-vomica","title":"Alveus tergeo tero soleo inflammatio.","text":"Alii claudeo iusto damno civitas arca. Sopor decerno a nobis adficio versus. Sollers caecus tubineus amo commodi iste."}
