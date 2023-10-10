@@ -1,1 +1,1 @@
-export const post = {"id":"9781345223484","slug":"volutabrum-vinco-vomica","title":"Alveus tergeo tero soleo inflammatio.","text":"Alii claudeo iusto damno civitas arca. Sopor decerno a nobis adficio versus. Sollers caecus tubineus amo commodi iste."}
+export const post = {"id":"9780049590762","slug":"curtus-libero-vergo","title":"Earum eos cultura vilicus exercitationem tamen attero caries blandior uxor.","text":"Subnecto sunt tutamen adsum cui. Incidunt consectetur tergo umerus confugo altus. Centum caute thalassinus timidus illo caste adversus comburo."}
