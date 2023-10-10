@@ -1,1 +1,1 @@
-export const post = {"id":"9780968408971","slug":"curia-aegre-utilis","title":"Tempus tremo admiratio aedificium combibo.","text":"Provident cruentus basium valetudo benevolentia thorax audentia. Curis quam ad labore angelus succurro. Pauper solitudo corpus uredo vindico perspiciatis."}
+export const post = {"id":"9781379809791","slug":"victus-tantum-sulum","title":"Vacuus tergeo deficio vestrum.","text":"Id coepi combibo. Cuius avaritia terminatio comitatus exercitationem talus. Soleo stabilis saepe amicitia voluptate."}
