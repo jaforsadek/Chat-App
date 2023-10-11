@@ -1,1 +1,1 @@
-export const post = {"id":"9780426606536","slug":"absorbeo-adnuo-clibanus","title":"Sub colligo arto.","text":"Usque ustulo crur depono adipiscor curis clementia considero. Adeptio sum somniculosus cubitum repellendus compono. Vix territo architecto ara arto testimonium harum valeo agnosco."}
+export const post = {"id":"9780402063414","slug":"cura-tandem-thymum","title":"Deficio degenero ventosus debeo ater aduro.","text":"Averto acidus territo succurro. Nulla celer tenus thermae velociter explicabo magni timidus caterva capio. Cedo tracto centum."}
