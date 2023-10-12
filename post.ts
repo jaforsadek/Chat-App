@@ -1,1 +1,1 @@
-export const post = {"id":"9780402063414","slug":"cura-tandem-thymum","title":"Deficio degenero ventosus debeo ater aduro.","text":"Averto acidus territo succurro. Nulla celer tenus thermae velociter explicabo magni timidus caterva capio. Cedo tracto centum."}
+export const post = {"id":"9781103407279","slug":"abundans-synagoga-sum","title":"Amicitia concedo clementia.","text":"Color textilis auxilium. Cometes asper aer suppellex tenuis custodia. Umquam pariatur utilis tantum attero minima summopere vereor nihil."}
