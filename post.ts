@@ -1,1 +1,1 @@
-export const post = {"id":"9781741385366","slug":"comis-charisma-maxime","title":"Video varius cena aspernatur.","text":"Curiositas sol ancilla verbum iusto bestia uredo tardus mollitia dicta. Conturbo ager contigo ago. Apto aer ciminatio verbera."}
+export const post = {"id":"9781396046582","slug":"approbo-acquiro-creber","title":"Arx ab verumtamen una ulterius cervus testimonium talio ut texo.","text":"Autus caritas ventito vorago. Utique sto tam admoveo sollers molestias peior trepide. Cado cornu ver clam thorax."}
