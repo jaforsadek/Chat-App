@@ -1,1 +1,1 @@
-export const post = {"id":"9780187225861","slug":"aeger-uter-tamquam","title":"Cerno sponte repudiandae tracto accedo ducimus caritas.","text":"Ager quidem optio thermae cui amplexus ubi dicta. Aedificium comminor conculco. Verecundia quis corona cumque soleo calamitas talus."}
+export const post = {"id":"9780269769641","slug":"ulterius-utrimque-cui","title":"Totidem subito cuppedia deinde.","text":"Aperio cohors avaritia talio cado vomica adeo conculco. Urbanus tamisium decumbo defleo bibo desolo. Confero utor cauda."}
