@@ -1,1 +1,1 @@
-export const post = {"id":"9780950065458","slug":"cubo-ducimus-vinitor","title":"Basium tutis caelum asporto quasi.","text":"Tamdiu summisse ciminatio arcus adsidue. Tres curvo vae. Vulpes tempus patior sono commodi."}
+export const post = {"id":"9780687819133","slug":"charisma-versus-tenax","title":"Consequuntur cernuus combibo sit.","text":"Aegrotatio animus molestias advoco ater utor cito vulariter venustas. Desidero ratione pauper ratione vesper tyrannus debitis vulnus alias charisma. Trans amicitia comprehendo astrum deduco ullus ater."}
