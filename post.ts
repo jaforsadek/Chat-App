@@ -1,1 +1,1 @@
-export const post = {"id":"9781026779279","slug":"thema-absque-praesentium","title":"Tredecim aspernatur aggero verbum auxilium utrum socius sit.","text":"Animadverto in alias aperte. Sint tabesco trado degenero defero atque adiuvo sub. Tardus necessitatibus confugo sodalitas ultio."}
+export const post = {"id":"9780950065458","slug":"cubo-ducimus-vinitor","title":"Basium tutis caelum asporto quasi.","text":"Tamdiu summisse ciminatio arcus adsidue. Tres curvo vae. Vulpes tempus patior sono commodi."}
