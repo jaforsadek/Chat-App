@@ -1,1 +1,1 @@
-export const post = {"id":"9780678831007","slug":"tenuis-adeo-termes","title":"Canonicus vilicus ancilla demoror concedo temporibus.","text":"Thema tenus tabernus benigne cursus speculum recusandae volo spes. Synagoga cupiditas curiositas. Amplexus crebro subnecto aestas audacia voro eius."}
+export const post = {"id":"9781629268200","slug":"cupressus-tam-infit","title":"Asper facilis conventus esse cumque eius callide.","text":"Abscido tabella vae temptatio. Attonbitus vociferor volubilis demo ad utique neque. Acer ager constans strenuus tepesco."}
