@@ -1,1 +1,1 @@
-export const post = {"id":"9781325753888","slug":"claro-chirographum-crur","title":"Textilis degusto similique depereo acquiro spectaculum.","text":"Comitatus exercitationem conculco. Paulatim audentia velum. Carcer laborum adiuvo creber viscus vos consectetur calculus conculco color."}
+export const post = {"id":"9781626590151","slug":"bellum-terebro-explicabo","title":"Curvo ipsam votum.","text":"Abstergo thymbra et conforto. Conculco similique bos tardus defero laudantium. Tubineus inflammatio tergum urbs adopto adsuesco debilito."}
