@@ -1,1 +1,1 @@
-export const post = {"id":"9780892018376","slug":"tibi-nam-decretum","title":"Maxime aestivus cedo conservo quibusdam aveho theologus apud.","text":"Viriliter callide repellendus. Adipiscor demonstro tandem solvo tamisium undique umbra cursus quas censura. Atrocitas victoria ventito carpo doloremque statua."}
+export const post = {"id":"9780070477896","slug":"vulnero-benigne-possimus","title":"Non carbo carpo.","text":"Catena acervus uterque id tamen sophismata arceo. Decet bonus porro impedit sortitus aliquam peccatus. Condico dignissimos callide temperantia."}
