@@ -1,1 +1,1 @@
-export const post = {"id":"9781033815496","slug":"molestiae-stabilis-adulatio","title":"Ara sequi tero crustulum.","text":"Copiose tergeo theca adstringo incidunt libero comprehendo. Eos possimus ipsa consectetur. Urbs asper tubineus defleo blandior terminatio depromo."}
+export const post = {"id":"9780355842906","slug":"taceo-coepi-illum","title":"Bardus odit adulatio surculus neque degero baiulus tonsor.","text":"Illum terminatio crustulum spiritus. Fuga appositus universe surculus celo curriculum color nostrum. Caste verumtamen textor."}
