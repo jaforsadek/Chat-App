@@ -1,1 +1,1 @@
-export const post = {"id":"9780355842906","slug":"taceo-coepi-illum","title":"Bardus odit adulatio surculus neque degero baiulus tonsor.","text":"Illum terminatio crustulum spiritus. Fuga appositus universe surculus celo curriculum color nostrum. Caste verumtamen textor."}
+export const post = {"id":"9780327544678","slug":"fuga-crustulum-traho","title":"Bestia abscido saepe asper suus tergum dapifer casso.","text":"Atque tenuis thermae administratio alienus. Curo placeat sordeo canis benigne deleo stips succedo demo vobis. Depono corrupti illo depromo."}
