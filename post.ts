@@ -1,1 +1,1 @@
-export const post = {"id":"9780411347727","slug":"cito-coaegresco-claustrum","title":"Sulum acervus decimus.","text":"Concido thorax sopor sapiente ultra bis textus comis abutor. Aliquid et concedo subnecto caveo adversus viriliter dolorum. Teneo appositus tibi statim error caterva vinco."}
+export const post = {"id":"9781992902572","slug":"constans-adinventitias-campana","title":"Comes demoror delectus benigne.","text":"Paens usus desparatus. Adeo votum uterque. Tantillus arguo hic molestiae dolore aeger crastinus cauda."}
