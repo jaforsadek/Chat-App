@@ -1,1 +1,1 @@
-export const post = {"id":"9780700748884","slug":"aduro-convoco-vinitor","title":"Vulnero tum vehemens aegre corrumpo sumptus defungo.","text":"Tribuo aliquam centum approbo amitto. Addo conturbo quae ait audentia mollitia solium venustas amitto repellat. Sperno bardus recusandae substantia vestigium crudelis nostrum numquam."}
+export const post = {"id":"9780011888569","slug":"addo-exercitationem-quasi","title":"Adipisci iure delectatio odit sublime theologus sapiente combibo.","text":"Subito strues tertius. Surgo cupiditate quisquam sollers. Explicabo attero baiulus."}
