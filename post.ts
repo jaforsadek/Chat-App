@@ -1,1 +1,1 @@
-export const post = {"id":"9780011888569","slug":"addo-exercitationem-quasi","title":"Adipisci iure delectatio odit sublime theologus sapiente combibo.","text":"Subito strues tertius. Surgo cupiditate quisquam sollers. Explicabo attero baiulus."}
+export const post = {"id":"9780411347727","slug":"cito-coaegresco-claustrum","title":"Sulum acervus decimus.","text":"Concido thorax sopor sapiente ultra bis textus comis abutor. Aliquid et concedo subnecto caveo adversus viriliter dolorum. Teneo appositus tibi statim error caterva vinco."}
