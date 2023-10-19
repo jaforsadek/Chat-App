@@ -1,1 +1,1 @@
-export const post = {"id":"9781992902572","slug":"constans-adinventitias-campana","title":"Comes demoror delectus benigne.","text":"Paens usus desparatus. Adeo votum uterque. Tantillus arguo hic molestiae dolore aeger crastinus cauda."}
+export const post = {"id":"9780635089564","slug":"conatus-spero-veritatis","title":"Pecto tendo pecto.","text":"Depraedor defaeco vicissitudo minima careo. Demens vix cura sonitus aperte. Cupiditate volaticus provident reprehenderit crudelis tenetur."}
