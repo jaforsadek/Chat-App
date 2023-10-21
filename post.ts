@@ -1,1 +1,1 @@
-export const post = {"id":"9780081854341","slug":"tenuis-beneficium-adicio","title":"Cupiditas possimus tepidus tonsor consectetur suppono.","text":"Valde ex decimus tergum amissio ambulo derideo. Aeneus ter despecto distinctio patior. Vitium cena cinis."}
+export const post = {"id":"9781075792373","slug":"ante-vapulus-terebro","title":"Atrocitas vitium ducimus.","text":"Cohors vinculum architecto clam sint ipsum sustineo deludo. Varius sustineo at. Curso tandem debitis accusator cruentus."}
