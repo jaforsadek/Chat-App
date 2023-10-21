@@ -1,1 +1,1 @@
-export const post = {"id":"9781606670323","slug":"commodo-totidem-civis","title":"Adeptio defero ipsa audeo ager comprehendo.","text":"Audacia dolorum capillus umquam umerus sperno vitiosus tumultus adflicto volva. Totus attollo comis defluo vita vitae urbs tergo. Ustilo taedium totam nobis virgo."}
+export const post = {"id":"9780081854341","slug":"tenuis-beneficium-adicio","title":"Cupiditas possimus tepidus tonsor consectetur suppono.","text":"Valde ex decimus tergum amissio ambulo derideo. Aeneus ter despecto distinctio patior. Vitium cena cinis."}
