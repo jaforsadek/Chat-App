@@ -1,1 +1,1 @@
-export const post = {"id":"9780867247961","slug":"ultio-vilicus-tres","title":"Verbum quaerat cunae amissio.","text":"Deprimo acies amicitia. Explicabo sustineo vester asperiores solitudo clam amet nobis cenaculum. Bellum nobis cognatus turbo centum depopulo sursum."}
+export const post = {"id":"9781816701954","slug":"iste-abscido-cavus","title":"Tener debitis minus.","text":"Crapula civis copiose quasi ascit concedo tardus tempus sopor caute. Temporibus verus clarus ultra dolore pax. Ater voluptatibus vel victus architecto."}
