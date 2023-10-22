@@ -1,1 +1,1 @@
-export const post = {"id":"9781816701954","slug":"iste-abscido-cavus","title":"Tener debitis minus.","text":"Crapula civis copiose quasi ascit concedo tardus tempus sopor caute. Temporibus verus clarus ultra dolore pax. Ater voluptatibus vel victus architecto."}
+export const post = {"id":"9781445461298","slug":"curis-ager-culpa","title":"Varius blandior alo.","text":"Cribro adfero capillus verbera supra tubineus deprimo denego. Tamen tyrannus peccatus depereo tandem taceo corrumpo testimonium. Caelum vilis vapulus vorago."}
