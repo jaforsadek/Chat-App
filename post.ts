@@ -1,1 +1,1 @@
-export const post = {"id":"9781473038486","slug":"amplexus-super-timor","title":"Succedo ante crudelis ullus vomer crastinus arceo.","text":"Vigor succurro provident adulatio tabernus exercitationem sono. Adulatio comitatus iusto vobis. Casus quod atqui tamdiu patruus."}
+export const post = {"id":"9781522237129","slug":"amplexus-natus-tego","title":"Amita adficio coniuratio aeternus carcer argentum agnitio terra subvenio illo.","text":"Vulariter aliqua curis solium. Ex virga caritas tollo viridis confido strues clamo. Arguo volup eius conculco vacuus."}
