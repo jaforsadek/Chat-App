@@ -1,1 +1,1 @@
-export const post = {"id":"9780668321143","slug":"tenax-accusator-corrupti","title":"Adfero sortitus audacia conservo derelinquo vesco.","text":"Adipisci clam vinum adsum comminor stabilis dicta bardus. Amo collum vir bos. Paulatim victoria subito spargo sortitus commemoro delicate audax decor varius."}
+export const post = {"id":"9781272208011","slug":"defetiscor-abbas-eveniet","title":"Ultra torqueo in.","text":"Iusto trepide collum aestas civis pectus adfectus commodo astrum. Acies audax ventito placeat. Vos ago correptius et tyrannus textus."}
