@@ -1,1 +1,1 @@
-export const post = {"id":"9781272208011","slug":"defetiscor-abbas-eveniet","title":"Ultra torqueo in.","text":"Iusto trepide collum aestas civis pectus adfectus commodo astrum. Acies audax ventito placeat. Vos ago correptius et tyrannus textus."}
+export const post = {"id":"9780888519085","slug":"sursum-cubicularis-depopulo","title":"Pectus adopto ex rerum porro advoco asper urbs studio.","text":"Assumenda eum tripudio conscendo decet summisse eum. Minima iusto contego tibi charisma conscendo demitto. Confido tolero omnis stipes abscido desipio creo."}
