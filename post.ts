@@ -1,1 +1,1 @@
-export const post = {"id":"9781301466221","slug":"vicissitudo-desparatus-carbo","title":"Terebro crinis aggero rerum.","text":"Abbas cumque perferendis nobis. Amplexus cetera audacia agnosco correptius. Curtus alter sumo."}
+export const post = {"id":"9781558721685","slug":"xiphias-ante-sonitus","title":"Paens alioqui cenaculum.","text":"Eveniet magni spiculum cruciamentum via volaticus. Arbustum tergo calco blanditiis aggredior adficio acsi corrumpo succedo defero. Cum textilis surgo cuius velut aeger anser sequi ascisco dicta."}
