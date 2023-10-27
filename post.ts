@@ -1,1 +1,1 @@
-export const post = {"id":"9781150942198","slug":"angustus-coniecto-eveniet","title":"Aperiam tabernus astrum.","text":"Cotidie beneficium defluo causa theatrum. Veritatis accommodo statua accusator vita avarus. Occaecati spoliatio aequitas quod audeo tepidus arceo."}
+export const post = {"id":"9780243171422","slug":"contra-arceo-vulpes","title":"Tibi iste bibo tabesco confido aufero terra vinculum umbra vivo.","text":"Absorbeo depopulo teneo corrupti adipiscor alo ascisco solium. Vulpes absorbeo deleo vulticulus. Abundans thalassinus virgo talis."}
