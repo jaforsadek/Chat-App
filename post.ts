@@ -1,1 +1,1 @@
-export const post = {"id":"9780243171422","slug":"contra-arceo-vulpes","title":"Tibi iste bibo tabesco confido aufero terra vinculum umbra vivo.","text":"Absorbeo depopulo teneo corrupti adipiscor alo ascisco solium. Vulpes absorbeo deleo vulticulus. Abundans thalassinus virgo talis."}
+export const post = {"id":"9780008292799","slug":"casus-cena-consequuntur","title":"Viduo thermae explicabo uterque confero cernuus libero.","text":"Angelus ver tempore sint. Tondeo attonbitus decumbo adhaero. Voluptatem demum audio argentum."}
