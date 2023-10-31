@@ -1,1 +1,1 @@
-export const post = {"id":"9780667423077","slug":"calculus-alveus-ter","title":"Ascit creptio curis.","text":"Incidunt et numquam corona condico comedo strues. Vitae viduo alter vomer tempora aurum socius. Cui commodo illo cado."}
+export const post = {"id":"9780675892865","slug":"solio-virtus-defetiscor","title":"Solium virga vulgivagus sed nostrum crebro hic calculus decet.","text":"Cui adipisci doloremque cauda summa advoco suscipit crapula deduco. Ustulo deprimo tunc somniculosus cohibeo decretum. Despecto aliqua urbanus curia."}
