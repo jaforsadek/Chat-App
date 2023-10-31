@@ -1,1 +1,1 @@
-export const post = {"id":"9780008292799","slug":"casus-cena-consequuntur","title":"Viduo thermae explicabo uterque confero cernuus libero.","text":"Angelus ver tempore sint. Tondeo attonbitus decumbo adhaero. Voluptatem demum audio argentum."}
+export const post = {"id":"9780667423077","slug":"calculus-alveus-ter","title":"Ascit creptio curis.","text":"Incidunt et numquam corona condico comedo strues. Vitae viduo alter vomer tempora aurum socius. Cui commodo illo cado."}
