@@ -1,1 +1,1 @@
-export const post = {"id":"9781437222876","slug":"subiungo-talio-debeo","title":"Surgo bestia tepesco.","text":"Labore amitto acquiro aut solvo. Benigne sonitus beatae amplus ad dedecor odit. Adiuvo porro concedo vix sortitus crux baiulus exercitationem nam."}
+export const post = {"id":"9781057773581","slug":"consectetur-undique-tracto","title":"Articulus audio voveo dolores testimonium apud.","text":"Defleo copia vere suus adamo. Subnecto appono denego supra. Contigo cupiditate decimus attollo."}
