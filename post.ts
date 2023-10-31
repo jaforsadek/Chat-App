@@ -1,1 +1,1 @@
-export const post = {"id":"9780165451404","slug":"denuo-beatus-surgo","title":"Varietas torqueo circumvenio complectus.","text":"Strues laudantium cerno. Vilitas arma caries minima aequitas. Expedita summa civitas demo."}
+export const post = {"id":"9780874446999","slug":"commodo-uterque-illum","title":"Suspendo aeternus colo.","text":"Circumvenio sopor advoco acerbitas cervus astrum curatio aliquid. Curis recusandae summisse nihil tremo. Ducimus speciosus teneo carbo cohaero cribro unde cenaculum aestivus."}
