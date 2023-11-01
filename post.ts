@@ -1,1 +1,1 @@
-export const post = {"id":"9780597622120","slug":"vesica-adduco-sordeo","title":"Tamen adfero tredecim vitiosus cursim sono.","text":"Corpus aer campana tumultus defessus. Abundans tutamen ter terra eos vesica. Assentator aptus repudiandae ipsa administratio cotidie inventore videlicet."}
+export const post = {"id":"9780028984582","slug":"earum-capto-pax","title":"Super tamisium tristis acies sapiente tamdiu vae aperte abbas cetera.","text":"Tunc curso cado benevolentia unus cogito itaque vinco vita. Trado apostolus creptio provident. Compello casus timidus."}
