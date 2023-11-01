@@ -1,1 +1,1 @@
-export const post = {"id":"9781505249439","slug":"suffragium-caste-capillus","title":"Abutor aequus solitudo.","text":"Tantillus pel temptatio. Angustus soleo denuncio aut cornu aestivus crudelis. Eaque veritas altus somniculosus."}
+export const post = {"id":"9780053285982","slug":"coaegresco-doloribus-sopor","title":"Vulgaris tabernus corona.","text":"Iusto fuga tenuis facere unus. Una venia trado. Tergo natus ab ceno veritas animus."}
