@@ -1,1 +1,1 @@
-export const post = {"id":"9780496033485","slug":"ducimus-vomer-astrum","title":"Comburo decimus vomito arcesso modi.","text":"Possimus dolore depereo amicitia crustulum addo damnatio. Validus demergo debilito. Adulatio defero ipsa crastinus agnosco soluta."}
+export const post = {"id":"9781505249439","slug":"suffragium-caste-capillus","title":"Abutor aequus solitudo.","text":"Tantillus pel temptatio. Angustus soleo denuncio aut cornu aestivus crudelis. Eaque veritas altus somniculosus."}
