@@ -1,1 +1,1 @@
-export const post = {"id":"9780874446999","slug":"commodo-uterque-illum","title":"Suspendo aeternus colo.","text":"Circumvenio sopor advoco acerbitas cervus astrum curatio aliquid. Curis recusandae summisse nihil tremo. Ducimus speciosus teneo carbo cohaero cribro unde cenaculum aestivus."}
+export const post = {"id":"9780496033485","slug":"ducimus-vomer-astrum","title":"Comburo decimus vomito arcesso modi.","text":"Possimus dolore depereo amicitia crustulum addo damnatio. Validus demergo debilito. Adulatio defero ipsa crastinus agnosco soluta."}
