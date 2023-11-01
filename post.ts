@@ -1,1 +1,1 @@
-export const post = {"id":"9780053285982","slug":"coaegresco-doloribus-sopor","title":"Vulgaris tabernus corona.","text":"Iusto fuga tenuis facere unus. Una venia trado. Tergo natus ab ceno veritas animus."}
+export const post = {"id":"9780498715792","slug":"valde-copiose-unus","title":"Sto ventosus solio cotidie pariatur tondeo suppellex tolero unus cultura.","text":"Tutamen tametsi cavus fuga ulciscor quas tutamen vomica clementia ullus. Teres careo spectaculum abscido tam. Adflicto carcer aeneus sto adhuc vinum."}
