@@ -1,1 +1,1 @@
-export const post = {"id":"9781795682015","slug":"ultra-dicta-benevolentia","title":"Socius quod tabernus cruentus tergo cilicium corroboro.","text":"Voluptas peior impedit temperantia. Veritas viridis tenetur traho calcar atrox bene caelum vero. Videlicet strenuus ipsam aperiam."}
+export const post = {"id":"9780193702103","slug":"animi-conscendo-appositus","title":"Studio caritas volo.","text":"Cilicium depereo reiciendis clibanus clamo quam tego adsidue campana degenero. Temeritas nobis temporibus. Bibo deporto cedo thymbra degero vero villa arbustum sum."}
