@@ -1,1 +1,1 @@
-export const post = {"id":"9780028984582","slug":"earum-capto-pax","title":"Super tamisium tristis acies sapiente tamdiu vae aperte abbas cetera.","text":"Tunc curso cado benevolentia unus cogito itaque vinco vita. Trado apostolus creptio provident. Compello casus timidus."}
+export const post = {"id":"9781795682015","slug":"ultra-dicta-benevolentia","title":"Socius quod tabernus cruentus tergo cilicium corroboro.","text":"Voluptas peior impedit temperantia. Veritas viridis tenetur traho calcar atrox bene caelum vero. Videlicet strenuus ipsam aperiam."}
