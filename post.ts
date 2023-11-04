@@ -1,1 +1,1 @@
-export const post = {"id":"9781106388827","slug":"cornu-astrum-soleo","title":"Atrox absconditus ventosus.","text":"Umerus communis pax. Quisquam tibi verbum alioqui solvo repellendus. Stipes ascit vito facilis at delectatio."}
+export const post = {"id":"9781711145846","slug":"nostrum-reprehenderit-absens","title":"Patruus vomito sumo comes vitium vacuus volubilis tamdiu.","text":"Campana paens pauci facilis cattus id calcar demulceo. Advenio ascit peccatus sono asperiores vorax convoco votum minima aduro. Magni compello numquam capto vix ubi tutis avarus comprehendo."}
