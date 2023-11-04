@@ -1,1 +1,1 @@
-export const post = {"id":"9781233680184","slug":"catena-tempus-vulnero","title":"Artificiose crudelis corona.","text":"Caecus amaritudo taedium vere clarus tabgo. Amissio recusandae architecto curto ancilla. Sulum tenax communis atque caveo circumvenio."}
+export const post = {"id":"9780882552590","slug":"audax-clibanus-suscipio","title":"Testimonium soluta socius aduro deinde.","text":"Abduco tenus cimentarius vorax audacia absorbeo spes cuppedia clementia thymum. Ratione nulla capillus voro cariosus. Crur tamquam socius certus accusamus teneo est quibusdam."}
