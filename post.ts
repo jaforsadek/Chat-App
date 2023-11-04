@@ -1,1 +1,1 @@
-export const post = {"id":"9780694687060","slug":"audeo-vos-magni","title":"Conicio torqueo corrumpo crapula.","text":"Molestiae urbs conscendo depromo aptus. Crux confero apto porro soluta certus summopere una impedit. Colo contigo cimentarius careo soleo porro angelus."}
+export const post = {"id":"9781106388827","slug":"cornu-astrum-soleo","title":"Atrox absconditus ventosus.","text":"Umerus communis pax. Quisquam tibi verbum alioqui solvo repellendus. Stipes ascit vito facilis at delectatio."}
