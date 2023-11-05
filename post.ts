@@ -1,1 +1,1 @@
-export const post = {"id":"9781935894117","slug":"abstergo-copiose-conculco","title":"Dedecor aperio temporibus arto optio nihil cibo accusamus magni vinitor.","text":"Aperio voco audio clam occaecati termes aer considero ipsam. Umerus tibi autem aliquid sunt sono. Auditor argentum enim nulla patruus."}
+export const post = {"id":"9780549487173","slug":"venia-praesentium-urbs","title":"Vicinus error eius cunctatio tabernus aedificium adipiscor.","text":"Vomito minima debitis sumo cunctatio impedit cito tribuo. Canis cupiditate aeger barba trans arguo. Numquam addo carmen."}
