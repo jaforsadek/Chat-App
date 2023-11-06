@@ -1,1 +1,1 @@
-export const post = {"id":"9781432591731","slug":"suffragium-derelinquo-et","title":"Totam studio trepide demo deripio ante totidem.","text":"Veritatis aveho attonbitus delego quas. Theatrum defetiscor via. Abscido vesper laborum est enim clamo bellicus summisse."}
+export const post = {"id":"9781141495931","slug":"vociferor-admitto-facilis","title":"Conventus benigne desipio carcer vulnus conicio cotidie.","text":"Communis subito vinitor compello peior curo. Asper subseco deleniti doloremque. Pecus tibi delectus cattus terebro ars."}
