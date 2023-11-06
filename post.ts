@@ -1,1 +1,1 @@
-export const post = {"id":"9780584542486","slug":"vulgivagus-deserunt-decet","title":"Deripio peior denuo accendo pectus.","text":"Beatus pauci suppellex thema. Tabgo ullus somnus theologus arca voluptatibus compello comes. Tepesco deporto ut."}
+export const post = {"id":"9781510431959","slug":"varius-crepusculum-nulla","title":"Vigor cohors voluptate quibusdam suadeo deludo comitatus.","text":"Derelinquo magnam solitudo. Conatus vindico defungo umerus voluntarius audeo clarus. Aegre audax reiciendis vito curto cometes."}
