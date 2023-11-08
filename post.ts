@@ -1,1 +1,1 @@
-export const post = {"id":"9781697890822","slug":"concido-numquam-perspiciatis","title":"Tripudio ciminatio id adflicto.","text":"Vulgo thermae compello id spiculum corporis vergo aedificium accommodo id. Spero ducimus tempore confido. Vulnus spiculum creator quo qui nam contego."}
+export const post = {"id":"9781262020760","slug":"dedecor-audentia-quaerat","title":"Mollitia porro subnecto crustulum sto crebro enim.","text":"Id peccatus sunt voluptate alius. Curo tantum et quia totidem. Sodalitas amitto spargo spectaculum quasi attonbitus abstergo conforto."}
