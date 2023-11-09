@@ -1,1 +1,1 @@
-export const post = {"id":"9781025990408","slug":"crustulum-supellex-fugit","title":"Amo desidero tergo.","text":"Curriculum thymum corrumpo adstringo tergiversatio. Vulgus tum tot perferendis volva tenax. Suffragium beneficium stella admoneo carus calamitas corpus."}
+export const post = {"id":"9780949445124","slug":"avarus-audax-claudeo","title":"Volup condico ventito corroboro nulla tonsor.","text":"Territo vigor vehemens conturbo adnuo clibanus votum. Fuga ventito dens caelum. Corporis terebro capto theatrum nam dolore admoneo."}
