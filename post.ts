@@ -1,1 +1,1 @@
-export const post = {"id":"9781802399578","slug":"adicio-tyrannus-voluptatem","title":"Demonstro delego amiculum.","text":"Cultellus ceno ducimus consequuntur succedo comburo artificiose suscipio vetus patria. Laborum attero catena. Theologus traho vespillo."}
+export const post = {"id":"9780055687180","slug":"aegrotatio-aer-cibus","title":"Conor arcus sub ago dolores vesco curo validus abundans.","text":"Clibanus audax credo. Absum angustus cui eaque vereor vado celo. Tertius veniam vehemens depono celer ascit."}
