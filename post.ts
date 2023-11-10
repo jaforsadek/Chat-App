@@ -1,1 +1,1 @@
-export const post = {"id":"9781854908582","slug":"uxor-delego-adversus","title":"Bene vulariter cunabula sublime stillicidium approbo.","text":"Delinquo ascit verbera conspergo unde adipisci utrum summisse dolor. Tempus utroque crux cotidie curis denuo cupio curto. Iusto conforto comprehendo asporto ocer vetus."}
+export const post = {"id":"9781989780138","slug":"utrum-adeo-tabesco","title":"Sufficio cuppedia curriculum.","text":"Curatio nesciunt decet colligo adicio. Cogito sub sto. Bestia cum vulnus."}
