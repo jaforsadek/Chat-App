@@ -1,1 +1,1 @@
-export const post = {"id":"9781989780138","slug":"utrum-adeo-tabesco","title":"Sufficio cuppedia curriculum.","text":"Curatio nesciunt decet colligo adicio. Cogito sub sto. Bestia cum vulnus."}
+export const post = {"id":"9780425798393","slug":"clementia-credo-vulariter","title":"Aer delego sponte balbus patior villa degenero repudiandae.","text":"Statua carmen crastinus sodalitas curriculum decerno eum volo civis. Error subnecto aro quod assumenda apostolus summopere vilicus vestrum cras. Ipsum cerno fugit arma auctus."}
