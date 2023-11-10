@@ -1,1 +1,1 @@
-export const post = {"id":"9780055687180","slug":"aegrotatio-aer-cibus","title":"Conor arcus sub ago dolores vesco curo validus abundans.","text":"Clibanus audax credo. Absum angustus cui eaque vereor vado celo. Tertius veniam vehemens depono celer ascit."}
+export const post = {"id":"9780039585549","slug":"curia-auxilium-altus","title":"Spargo pauper taceo laboriosam talis.","text":"Venustas cruciamentum viriliter vomito nisi autem defendo benevolentia numquam. Textor cruciamentum adficio speculum recusandae. Voluptatibus demonstro crustulum necessitatibus sed."}
