@@ -1,1 +1,1 @@
-export const post = {"id":"9781290431736","slug":"sursum-ascisco-abstergo","title":"Sollers desipio alienus suppono triduana vivo derideo aveho hic.","text":"Perspiciatis animus eveniet urbs cariosus abstergo amplexus desolo nobis. Cohors tres argentum. Crux uterque adstringo stipes."}
+export const post = {"id":"9780598077158","slug":"cultura-amitto-aliqua","title":"Torrens assentator voluptate facere deprimo xiphias conor.","text":"Virga at suscipio theologus. Tepidus cubo carpo abeo cattus avaritia vinculum audax. Venia careo vigilo studio vicinus facilis."}
