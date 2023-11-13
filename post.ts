@@ -1,1 +1,1 @@
-export const post = {"id":"9781303574160","slug":"auxilium-denuo-valde","title":"Ancilla dolorum villa laborum defluo repudiandae adimpleo thymbra tergiversatio tyrannus.","text":"Angustus ara cogo illum. Infit amor aliqua adiuvo. Unde asperiores decor deprimo calamitas aranea claro compello."}
+export const post = {"id":"9780145729677","slug":"cunctatio-vinco-vis","title":"Desino dapifer certe.","text":"Vergo somniculosus colo caute creo bibo. Amet tamen capto carpo brevis sollicito taceo synagoga cui. Confugo tamisium aspernatur delego velociter tonsor decumbo vergo."}
