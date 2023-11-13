@@ -1,1 +1,1 @@
-export const post = {"id":"9780145729677","slug":"cunctatio-vinco-vis","title":"Desino dapifer certe.","text":"Vergo somniculosus colo caute creo bibo. Amet tamen capto carpo brevis sollicito taceo synagoga cui. Confugo tamisium aspernatur delego velociter tonsor decumbo vergo."}
+export const post = {"id":"9780234897652","slug":"delicate-aegrotatio-debitis","title":"Astrum conduco temperantia.","text":"Quisquam somniculosus solutio venustas tres. Uberrime adipisci defessus enim itaque claro asperiores videlicet. Trans solum sumo acer cursus deporto."}
