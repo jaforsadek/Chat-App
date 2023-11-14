@@ -1,1 +1,1 @@
-export const post = {"id":"9780691714349","slug":"pel-comprehendo-ciminatio","title":"Apud cervus adfectus vesper depereo arto celo audio versus.","text":"Adversus esse urbanus canonicus clibanus abeo copiose cometes stipes. Cernuus vapulus cado baiulus cibus. Tendo terreo terebro."}
+export const post = {"id":"9780771146985","slug":"defleo-cubo-basium","title":"Denique corrigo coniecto vilicus annus.","text":"Theologus varius tunc virgo tergiversatio quisquam. Cunabula odit totam venustas substantia. Thema cogito custodia deleo bellicus aegre."}
