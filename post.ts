@@ -1,1 +1,1 @@
-export const post = {"id":"9781979130769","slug":"tot-coma-et","title":"Vaco theologus vulgus vobis cernuus.","text":"Tibi a candidus consectetur cibus. Tabgo venio allatus illo eos neque. Ter adipisci surculus caelum."}
+export const post = {"id":"9780691714349","slug":"pel-comprehendo-ciminatio","title":"Apud cervus adfectus vesper depereo arto celo audio versus.","text":"Adversus esse urbanus canonicus clibanus abeo copiose cometes stipes. Cernuus vapulus cado baiulus cibus. Tendo terreo terebro."}
