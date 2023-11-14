@@ -1,1 +1,1 @@
-export const post = {"id":"9780234897652","slug":"delicate-aegrotatio-debitis","title":"Astrum conduco temperantia.","text":"Quisquam somniculosus solutio venustas tres. Uberrime adipisci defessus enim itaque claro asperiores videlicet. Trans solum sumo acer cursus deporto."}
+export const post = {"id":"9781979130769","slug":"tot-coma-et","title":"Vaco theologus vulgus vobis cernuus.","text":"Tibi a candidus consectetur cibus. Tabgo venio allatus illo eos neque. Ter adipisci surculus caelum."}
