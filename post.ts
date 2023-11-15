@@ -1,1 +1,1 @@
-export const post = {"id":"9780186547346","slug":"ipsam-dens-chirographum","title":"Debilito arca autem admoneo arma curvo verecundia somnus paulatim uxor.","text":"Adopto fugiat conculco thorax tui despecto aeneus tyrannus crebro. Sopor suus thorax. Cetera neque vigilo."}
+export const post = {"id":"9780710304193","slug":"textor-defetiscor-terror","title":"Volo somnus decens deputo alter.","text":"Aduro cultura pecco temptatio pel universe argumentum aurum comedo. Tergum repellat ater aperiam copia optio. Considero quas audax certus comptus via."}
