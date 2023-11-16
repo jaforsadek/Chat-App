@@ -1,1 +1,1 @@
-export const post = {"id":"9781401176846","slug":"vaco-maiores-carpo","title":"Dignissimos solutio terreo magnam.","text":"Auctus acceptus subito voluntarius calcar amplitudo substantia vilitas. Ventosus ascit tumultus sono verbum aro crepusculum addo veniam. Decens spes infit."}
+export const post = {"id":"9780520881464","slug":"tabesco-ad-virtus","title":"Ubi vicinus viridis vito argumentum.","text":"Validus cariosus pauper acsi ager tristis clibanus cauda. Bellum desolo provident arma conspergo caput capio. Universe varius tantillus quaerat adhaero."}
