@@ -1,1 +1,1 @@
-export const post = {"id":"9780520881464","slug":"tabesco-ad-virtus","title":"Ubi vicinus viridis vito argumentum.","text":"Validus cariosus pauper acsi ager tristis clibanus cauda. Bellum desolo provident arma conspergo caput capio. Universe varius tantillus quaerat adhaero."}
+export const post = {"id":"9781440837999","slug":"doloremque-solutio-cras","title":"Aureus clarus conscendo attollo adiuvo.","text":"Somniculosus debitis arto cattus curriculum calculus. Adnuo cinis tabesco esse aggero esse verecundia. Voluntarius cogito ver aureus defleo speciosus sol."}
