@@ -1,1 +1,1 @@
-export const post = {"id":"9781855881525","slug":"sequi-delectus-cito","title":"Repudiandae soleo traho amplus tero eum turpis cenaculum.","text":"Colo quos socius. Contabesco terga succurro accusantium pel. Culpo verumtamen cras tam asper denego cupressus debilito."}
+export const post = {"id":"9780308107618","slug":"subiungo-agnitio-trucido","title":"Confero aeger vulariter animadverto collum inflammatio stips crux subvenio.","text":"Cupio subvenio acidus tergeo iste tunc. Vetus canis capillus adfero dedico aetas aedificium tamdiu. Asporto crustulum viriliter."}
