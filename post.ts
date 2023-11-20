@@ -1,1 +1,1 @@
-export const post = {"id":"9781533875648","slug":"volaticus-administratio-cunctatio","title":"Stabilis conitor amet certe.","text":"Damno depraedor porro non corroboro curtus volaticus arto thymbra. Tantillus ambitus pectus coruscus cruentus. Vehemens nulla degero ventosus ultra perspiciatis."}
+export const post = {"id":"9781082872617","slug":"inventore-adicio-ancilla","title":"Timidus unde censura ager.","text":"Colo verbera arbor statua. Despecto utique caterva clamo. Vicinus titulus provident balbus decimus aureus tracto odit."}
