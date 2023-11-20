@@ -1,1 +1,1 @@
-export const post = {"id":"9781199512758","slug":"vilitas-amplus-vicissitudo","title":"Vinculum votum advenio cibo.","text":"Caput vulgivagus cibus cicuta summisse. Vesica sublime dolor vapulus amissio utrimque. Tendo aspernatur pectus nulla cruciamentum tui vereor."}
+export const post = {"id":"9780701719869","slug":"repellat-dapifer-cicuta","title":"Approbo aliqua acies vulgus tempore balbus confido concedo adversus somniculosus.","text":"Alo tergo ait spiritus angustus demulceo cattus alius tepesco bibo. Tutamen quaerat claro. Cedo derelinquo confido succurro."}
