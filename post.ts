@@ -1,1 +1,1 @@
-export const post = {"id":"9780750125819","slug":"calco-aetas-antea","title":"Subiungo collum urbanus cura correptius atque vita thymum amitto sono.","text":"Incidunt stips triduana id argentum trans. Tredecim audentia aqua illo virtus optio tenetur arcesso creo. Deduco autem villa amplexus doloremque."}
+export const post = {"id":"9781199512758","slug":"vilitas-amplus-vicissitudo","title":"Vinculum votum advenio cibo.","text":"Caput vulgivagus cibus cicuta summisse. Vesica sublime dolor vapulus amissio utrimque. Tendo aspernatur pectus nulla cruciamentum tui vereor."}
