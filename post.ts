@@ -1,1 +1,1 @@
-export const post = {"id":"9781344293839","slug":"verumtamen-tunc-cunctatio","title":"Tenetur strenuus thymum ademptio addo.","text":"Candidus uter ultra tergeo canonicus totam terebro utrum speciosus. Carus dolorem quam umbra delinquo voluptas auxilium excepturi. Solio earum adflicto aperio neque cito."}
+export const post = {"id":"9780815022640","slug":"iure-atrocitas-bis","title":"Usitas ultio theca speciosus.","text":"Aequitas pel tepidus ciminatio bestia carbo advenio dolorem addo dedico. Tametsi agnosco fuga tricesimus decimus compono curtus ab. Spes aut pecto."}
