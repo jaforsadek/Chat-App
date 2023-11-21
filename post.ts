@@ -1,1 +1,1 @@
-export const post = {"id":"9781437544992","slug":"ipsum-natus-denuo","title":"Vita trucido tardus.","text":"Vesica aegrus considero attonbitus tabula contra tondeo. Admitto allatus demens recusandae chirographum sonitus. Caelum ager solvo solutio delibero id tergiversatio uxor."}
+export const post = {"id":"9781594295102","slug":"alo-desipio-cunabula","title":"Quod vox templum ascit.","text":"Coniecto patior vobis adficio debilito. Curtus terra centum crastinus cognatus cultura. Agnosco vergo callide sufficio advenio volubilis acies cultellus sequi."}
