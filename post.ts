@@ -1,1 +1,1 @@
-export const post = {"id":"9781082872617","slug":"inventore-adicio-ancilla","title":"Timidus unde censura ager.","text":"Colo verbera arbor statua. Despecto utique caterva clamo. Vicinus titulus provident balbus decimus aureus tracto odit."}
+export const post = {"id":"9781437544992","slug":"ipsum-natus-denuo","title":"Vita trucido tardus.","text":"Vesica aegrus considero attonbitus tabula contra tondeo. Admitto allatus demens recusandae chirographum sonitus. Caelum ager solvo solutio delibero id tergiversatio uxor."}
