@@ -1,1 +1,1 @@
-export const post = {"id":"9780817877576","slug":"rem-pecto-provident","title":"Decor aedificium cogito depromo una.","text":"Vulgo tenax vapulus vere cunabula somnus sursum vulticulus speciosus arma. Conduco degusto deporto. Cur desolo comis cimentarius eius commodi."}
+export const post = {"id":"9781240443727","slug":"ascit-bellum-thesaurus","title":"Vero carmen talis veniam amo tero.","text":"Veritas vitium arbitro corrupti caelestis audentia possimus abeo. Alter adopto depopulo despecto. Crapula ventus amet volaticus alter."}
