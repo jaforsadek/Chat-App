@@ -1,1 +1,1 @@
-export const post = {"id":"9781240443727","slug":"ascit-bellum-thesaurus","title":"Vero carmen talis veniam amo tero.","text":"Veritas vitium arbitro corrupti caelestis audentia possimus abeo. Alter adopto depopulo despecto. Crapula ventus amet volaticus alter."}
+export const post = {"id":"9781432590116","slug":"abduco-conitor-vaco","title":"Vado adopto deorsum argentum statim quo pauper.","text":"Antiquus curatio nihil administratio admitto adsidue anser umquam. Sublime convoco vicinus esse ancilla libero theologus circumvenio deficio tunc. Pecco utpote ulterius ventito."}
