@@ -1,1 +1,1 @@
-export const post = {"id":"9780588333240","slug":"centum-ventito-cohors","title":"Vix adulescens tergiversatio accommodo verto custodia audeo.","text":"Claro carpo vicissitudo summa alias vestigium voco. Collum delego tribuo. Comedo crudelis textus arca suppono voco."}
+export const post = {"id":"9780551311619","slug":"tubineus-vapulus-audax","title":"Alienus communis utrimque molestias textus expedita ullam quas vergo ante.","text":"Causa unde aspicio. Virtus crebro dedico ascit concido cernuus summa cuius. Tenax certus speculum caput."}
