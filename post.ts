@@ -1,1 +1,1 @@
-export const post = {"id":"9781346370941","slug":"tertius-id-asporto","title":"Abscido custodia balbus.","text":"Deputo quos vulgaris conor angelus succedo copiose ara. Adficio animus suscipit trucido vestigium. Ademptio carus ea alo acer videlicet coepi velit alter vulpes."}
+export const post = {"id":"9780063464926","slug":"velociter-sopor-conatus","title":"Bibo tactus deprimo vivo verus conatus molestiae eos aer.","text":"Autus conduco thermae et cogito. Utrimque varius crepusculum calco hic audentia ullus votum nam tredecim. Textus aperiam arcesso deleo."}
