@@ -1,1 +1,1 @@
-export const post = {"id":"9781901354553","slug":"vilitas-nulla-adflicto","title":"Animadverto sonitus trans conservo caput allatus.","text":"Careo delicate arcesso perferendis acceptus amor adhuc aperte aduro. Impedit uter explicabo vulgo decimus eius tutamen. Balbus utilis abscido."}
+export const post = {"id":"9781125966518","slug":"beatae-capitulus-quibusdam","title":"Delectus aiunt clementia vulnus soleo.","text":"Theatrum approbo umquam. Utrimque vesper ut venio textor subiungo. Conventus victoria nesciunt ex creta voluptates."}
