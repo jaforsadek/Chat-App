@@ -1,1 +1,1 @@
-export const post = {"id":"9780915730971","slug":"similique-corroboro-asporto","title":"Advenio caterva voluptates.","text":"Verbera pecus caterva sufficio vesper. Adipiscor eligendi vivo. Nam tot tenax vomer demulceo cras amitto bellicus adamo caterva."}
+export const post = {"id":"9781571020086","slug":"sulum-solio-utilis","title":"Uxor ab tot commodi ex vestrum usitas cohibeo tabula.","text":"Porro excepturi tutis surculus vomica pariatur canto. At asperiores quasi. Nesciunt comprehendo adfectus stella tertius cupiditas vel."}
