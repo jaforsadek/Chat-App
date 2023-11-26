@@ -1,1 +1,1 @@
-export const post = {"id":"9781571020086","slug":"sulum-solio-utilis","title":"Uxor ab tot commodi ex vestrum usitas cohibeo tabula.","text":"Porro excepturi tutis surculus vomica pariatur canto. At asperiores quasi. Nesciunt comprehendo adfectus stella tertius cupiditas vel."}
+export const post = {"id":"9781969097522","slug":"claro-deripio-hic","title":"Desidero arx iure inflammatio ad adicio spargo.","text":"Autus adulatio coaegresco. Vestigium stips decretum excepturi degenero sordeo aspicio abbas vae. Molestias vel desidero cubo."}
