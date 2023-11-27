@@ -1,1 +1,1 @@
-export const post = {"id":"9781978361751","slug":"acies-spes-valetudo","title":"Adstringo volaticus comparo votum acsi.","text":"Corrupti adstringo abduco suscipio sperno caste termes. Summa cometes curia casso valetudo varius. Animi accusantium contabesco apparatus tonsor creta cimentarius solus vobis."}
+export const post = {"id":"9780807670514","slug":"cetera-tepidus-somniculosus","title":"Adamo terra calcar.","text":"Vorax summopere decet celebrer via. Amplus demoror annus depopulo. Adipiscor vulgo ipsa."}
