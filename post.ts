@@ -1,1 +1,1 @@
-export const post = {"id":"9780921457602","slug":"culpa-temporibus-depraedor","title":"Clementia eum aegrus cerno summisse culpa.","text":"Voluptatibus supplanto tristis reiciendis arbitro. Accedo sordeo caritas casso. Laborum vociferor dens sollicito ater thesaurus cauda vicissitudo crur accommodo."}
+export const post = {"id":"9781449038014","slug":"sunt-atrox-facere","title":"Usque campana decipio talus curso avaritia crudelis auxilium dolores creptio.","text":"Condico abduco carpo. Colligo titulus crur maxime argentum. Canto admoneo suffoco trucido ceno defleo est."}
