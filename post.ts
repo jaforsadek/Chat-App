@@ -1,1 +1,1 @@
-export const post = {"id":"9780807670514","slug":"cetera-tepidus-somniculosus","title":"Adamo terra calcar.","text":"Vorax summopere decet celebrer via. Amplus demoror annus depopulo. Adipiscor vulgo ipsa."}
+export const post = {"id":"9780921457602","slug":"culpa-temporibus-depraedor","title":"Clementia eum aegrus cerno summisse culpa.","text":"Voluptatibus supplanto tristis reiciendis arbitro. Accedo sordeo caritas casso. Laborum vociferor dens sollicito ater thesaurus cauda vicissitudo crur accommodo."}
