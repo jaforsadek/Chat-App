@@ -1,1 +1,1 @@
-export const post = {"id":"9781449038014","slug":"sunt-atrox-facere","title":"Usque campana decipio talus curso avaritia crudelis auxilium dolores creptio.","text":"Condico abduco carpo. Colligo titulus crur maxime argentum. Canto admoneo suffoco trucido ceno defleo est."}
+export const post = {"id":"9781769333592","slug":"crinis-incidunt-pariatur","title":"Asper ars cultellus aureus demo optio causa.","text":"Auditor supellex omnis animi molestias non vulnus aegre caelum cubicularis. Depopulo thesaurus crur. Doloremque nobis cupressus."}
