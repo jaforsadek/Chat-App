@@ -1,1 +1,1 @@
-export const post = {"id":"9781769333592","slug":"crinis-incidunt-pariatur","title":"Asper ars cultellus aureus demo optio causa.","text":"Auditor supellex omnis animi molestias non vulnus aegre caelum cubicularis. Depopulo thesaurus crur. Doloremque nobis cupressus."}
+export const post = {"id":"9780752926155","slug":"tempore-curso-toties","title":"Cultellus dolores claudeo civis coerceo virga.","text":"Attollo virgo coepi unde. Eligendi adversus consequatur spiritus fuga illum uxor aurum vergo eos. Denego quis clam aegrus vinum tabesco conduco."}
