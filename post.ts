@@ -1,1 +1,1 @@
-export const post = {"id":"9780201634921","slug":"vobis-sint-suasoria","title":"Vindico laborum talus valetudo comedo.","text":"Comes libero sui casus. Amissio casus ter defleo concido villa laboriosam aeneus aperio fuga. Careo teneo tonsor aranea degenero blanditiis necessitatibus adfero."}
+export const post = {"id":"9781459346192","slug":"vitium-claustrum-amor","title":"Depromo patrocinor blandior.","text":"Cum accendo veritas cunabula quos asporto. Soleo cribro arbitro desparatus bonus cedo illum terreo. Triduana tergo cui."}
