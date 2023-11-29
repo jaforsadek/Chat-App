@@ -1,1 +1,1 @@
-export const post = {"id":"9781462609161","slug":"somnus-tamisium-subseco","title":"Vicinus aestas triduana culpa decretum.","text":"Sub utique cras sonitus blandior vulticulus cruentus velum defaeco defungo. Vespillo caterva clarus. Causa viriliter abduco."}
+export const post = {"id":"9780786974047","slug":"sunt-doloremque-vesica","title":"Cupio veritatis auctor cupio soluta talio.","text":"Caecus fugit adficio. Audacia cur volubilis sum arceo vicinus bene volva. Spiritus sequi demonstro est voluptatibus arcesso stultus."}
