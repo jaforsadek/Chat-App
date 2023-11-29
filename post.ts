@@ -1,1 +1,1 @@
-export const post = {"id":"9781459346192","slug":"vitium-claustrum-amor","title":"Depromo patrocinor blandior.","text":"Cum accendo veritas cunabula quos asporto. Soleo cribro arbitro desparatus bonus cedo illum terreo. Triduana tergo cui."}
+export const post = {"id":"9781462609161","slug":"somnus-tamisium-subseco","title":"Vicinus aestas triduana culpa decretum.","text":"Sub utique cras sonitus blandior vulticulus cruentus velum defaeco defungo. Vespillo caterva clarus. Causa viriliter abduco."}
