@@ -1,1 +1,1 @@
-export const post = {"id":"9780786974047","slug":"sunt-doloremque-vesica","title":"Cupio veritatis auctor cupio soluta talio.","text":"Caecus fugit adficio. Audacia cur volubilis sum arceo vicinus bene volva. Spiritus sequi demonstro est voluptatibus arcesso stultus."}
+export const post = {"id":"9781564281623","slug":"teres-cinis-viscus","title":"Perspiciatis desparatus auctus dolorum.","text":"Compono uterque conatus aetas civitas quo. Sono benevolentia quo despecto molestias vulpes culpo velociter victoria. Ciminatio saepe contra vilicus illo."}
