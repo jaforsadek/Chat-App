@@ -1,1 +1,1 @@
-export const post = {"id":"9781271940844","slug":"suppono-vivo-valeo","title":"Cupressus ipsa atqui vito.","text":"Cornu terreo cultellus desipio. Eligendi sui eveniet velociter umbra. Basium ascit autem."}
+export const post = {"id":"9781473304949","slug":"tabula-vetus-aufero","title":"Consequuntur vehemens adipiscor aegrotatio canis arma caelestis catena usitas.","text":"Summisse coaegresco aestivus strues appositus vix verumtamen. Damnatio sulum carcer ambulo admoveo aestivus. Error debitis addo cibus explicabo clibanus."}
