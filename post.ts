@@ -1,1 +1,1 @@
-export const post = {"id":"9780991109241","slug":"cumque-amplexus-thymum","title":"Defero campana paulatim avarus doloremque chirographum.","text":"Unus adulatio delibero circumvenio decumbo. Appositus vox sed tener. Iste commodo defero cenaculum."}
+export const post = {"id":"9781029107659","slug":"carus-cohaero-tertius","title":"Curriculum ambulo debilito.","text":"Beatus stella defero tendo tutis cubicularis admiratio perferendis acerbitas. Sortitus synagoga apud virgo eum sed acies audentia tenuis. Inventore cerno valde damnatio adhuc."}
