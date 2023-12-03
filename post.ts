@@ -1,1 +1,1 @@
-export const post = {"id":"9781907310935","slug":"cubitum-tergum-arcus","title":"Bene adficio addo.","text":"Vicissitudo aduro decimus beatus cum. Argumentum comitatus quasi callide aurum vigilo crudelis. Complectus balbus at verumtamen verus caecus voluptas claro tribuo cumque."}
+export const post = {"id":"9780117635029","slug":"praesentium-thesaurus-sui","title":"Doloremque sint stips tamisium esse.","text":"Torrens infit autem aequus temporibus amaritudo tempus aegrotatio. Demoror stultus alveus. Ulterius caste adinventitias solum spargo baiulus laborum cerno."}
