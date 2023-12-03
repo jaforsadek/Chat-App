@@ -1,1 +1,1 @@
-export const post = {"id":"9780117635029","slug":"praesentium-thesaurus-sui","title":"Doloremque sint stips tamisium esse.","text":"Torrens infit autem aequus temporibus amaritudo tempus aegrotatio. Demoror stultus alveus. Ulterius caste adinventitias solum spargo baiulus laborum cerno."}
+export const post = {"id":"9781116652161","slug":"cubicularis-ipsam-denuncio","title":"Comis cresco dens armarium constans.","text":"Adhuc quia amaritudo desino. Cubo voluptates curatio depereo. Spero pax possimus arcesso abduco vicinus pauper."}
