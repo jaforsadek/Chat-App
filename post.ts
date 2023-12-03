@@ -1,1 +1,1 @@
-export const post = {"id":"9781116652161","slug":"cubicularis-ipsam-denuncio","title":"Comis cresco dens armarium constans.","text":"Adhuc quia amaritudo desino. Cubo voluptates curatio depereo. Spero pax possimus arcesso abduco vicinus pauper."}
+export const post = {"id":"9780766483118","slug":"vilitas-sperno-aegre","title":"Repellendus nobis ultra addo ago torrens verbera varietas tripudio ceno.","text":"Convoco exercitationem cupiditate sono confugo xiphias. Placeat territo temptatio. Texo desparatus cresco claro consequatur minima tutamen comburo."}
