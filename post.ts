@@ -1,1 +1,1 @@
-export const post = {"id":"9781354239872","slug":"despecto-casus-bonus","title":"Tertius averto utilis denique tumultus asperiores contigo ait.","text":"Decerno apostolus cupressus annus tonsor ultra cena tantum suus caritas. Ipsum stella coniuratio abutor verecundia quibusdam. Defaeco decumbo id."}
+export const post = {"id":"9780603777318","slug":"triduana-cenaculum-architecto","title":"Derideo comptus crapula eaque voco.","text":"Alienus bibo vinum. Canonicus catena cunae annus solum celer tamen thermae comparo despecto. Modi confugo necessitatibus baiulus cedo terreo."}
