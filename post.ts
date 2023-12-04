@@ -1,1 +1,1 @@
-export const post = {"id":"9781644889503","slug":"cohibeo-usque-aggredior","title":"Tabesco minus aestas rerum.","text":"Claustrum apostolus uxor approbo. Admoneo decipio delibero. Arcus amplus suspendo virtus atavus compello supra tibi."}
+export const post = {"id":"9781296075354","slug":"tergeo-admitto-thymum","title":"Sperno talus quos viridis.","text":"Casso cena damnatio aequitas vero anser adinventitias maxime. Stips degenero nobis suffragium peccatus universe laborum. Suggero volutabrum curto cribro defendo venia omnis earum dicta votum."}
