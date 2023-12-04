@@ -1,1 +1,1 @@
-export const post = {"id":"9780484334242","slug":"contabesco-amitto-minus","title":"Subnecto vero desparatus urbanus suspendo.","text":"Tutamen arbustum alienus eos veniam benigne. Adversus molestiae celebrer aufero. Cuius delibero talio."}
+export const post = {"id":"9781525122811","slug":"ab-theologus-non","title":"Altus quasi astrum considero cura.","text":"Vaco titulus attollo turba sortitus. Damno defero quis approbo ab absconditus amor eveniet peior. Bis aranea iusto audeo altus copiose demens aufero paens."}
