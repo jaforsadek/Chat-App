@@ -1,1 +1,1 @@
-export const post = {"id":"9781596591790","slug":"spiritus-concido-admitto","title":"Contigo comptus veniam voro ascisco decens anser clementia.","text":"Blanditiis sopor illo natus dignissimos. Patior unus bene auditor argumentum defaeco arbitro clementia apto repellat. Terebro vinco caveo ullus."}
+export const post = {"id":"9780484334242","slug":"contabesco-amitto-minus","title":"Subnecto vero desparatus urbanus suspendo.","text":"Tutamen arbustum alienus eos veniam benigne. Adversus molestiae celebrer aufero. Cuius delibero talio."}
