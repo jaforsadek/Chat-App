@@ -1,1 +1,1 @@
-export const post = {"id":"9781271575039","slug":"deputo-minima-deorsum","title":"Tamdiu caelestis asporto tenus.","text":"Nemo ancilla suscipit. Suasoria arbitro carbo cervus summisse animadverto clam. Ter super vitiosus admitto aggredior cruciamentum qui."}
+export const post = {"id":"9780987935991","slug":"cursim-sumptus-nam","title":"Canis adficio tui.","text":"Totidem adulatio thymum tego ulterius nulla. Volo canis curriculum adicio tempore ustulo. Vobis arbustum talus argumentum nisi quasi coadunatio spiculum."}
