@@ -1,1 +1,1 @@
-export const post = {"id":"9780134219790","slug":"ultio-depopulo-textilis","title":"Angelus commodi tempus temeritas iste aequus coepi nam strues tunc.","text":"Iusto antea conforto aurum amaritudo. Comedo confero soluta. Cattus tolero theologus."}
+export const post = {"id":"9780499188854","slug":"volutabrum-tabgo-vomito","title":"Strues varius cena velociter quis voluptates advenio amor.","text":"Cognomen vulpes defluo deinde solitudo antepono benigne strenuus beatae. Compello suppellex curiositas tamquam architecto bestia maiores. Cohibeo praesentium neque."}
