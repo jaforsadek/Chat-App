@@ -1,1 +1,1 @@
-export const post = {"id":"9781202223503","slug":"vulticulus-attollo-urbs","title":"Talio pauper viscus arca deserunt studio.","text":"Cubo tero angulus patrocinor advoco vaco delectus enim arbor. Sono adaugeo viridis exercitationem quos vox. Termes voluptates tripudio magnam color corrupti cilicium."}
+export const post = {"id":"9780134219790","slug":"ultio-depopulo-textilis","title":"Angelus commodi tempus temeritas iste aequus coepi nam strues tunc.","text":"Iusto antea conforto aurum amaritudo. Comedo confero soluta. Cattus tolero theologus."}
