@@ -1,1 +1,1 @@
-export const post = {"id":"9781518952265","slug":"colo-vivo-comburo","title":"Eveniet tum teneo.","text":"Itaque volutabrum succedo occaecati maxime. Peior eaque ademptio amita tondeo saepe natus absum. Cogo derideo ex subito."}
+export const post = {"id":"9780578807188","slug":"vulticulus-doloribus-placeat","title":"Ex aro cuppedia suscipio fuga.","text":"Caelestis cogo eaque vigilo numquam amicitia. Acsi umbra conventus vomica calculus confero tui acsi. Adipiscor reprehenderit eos eos arcus id corrupti."}
