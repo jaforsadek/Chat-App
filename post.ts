@@ -1,1 +1,1 @@
-export const post = {"id":"9781713793571","slug":"agnitio-valetudo-amoveo","title":"Viscus succurro cunabula.","text":"Volo provident audax. Ad teneo studio excepturi thema saepe cultellus cinis. Suasoria calcar colo pecto tamen placeat."}
+export const post = {"id":"9780870146954","slug":"volaticus-attero-video","title":"Suggero suffragium strues.","text":"Tardus atque conforto. Debeo vere bis ipsa natus assentator tutis basium caries. Adduco cornu comedo nostrum utpote tamdiu compello sol alias."}
