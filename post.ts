@@ -1,1 +1,1 @@
-export const post = {"id":"9781105068249","slug":"et-vinco-ubi","title":"Suppellex succurro curtus coruscus repellat sufficio amita summa caterva.","text":"Votum suppellex antiquus currus ipsam turpis rerum. Tamdiu aufero aestus tibi comitatus sint totidem. Sto coma corrumpo."}
+export const post = {"id":"9781713793571","slug":"agnitio-valetudo-amoveo","title":"Viscus succurro cunabula.","text":"Volo provident audax. Ad teneo studio excepturi thema saepe cultellus cinis. Suasoria calcar colo pecto tamen placeat."}
