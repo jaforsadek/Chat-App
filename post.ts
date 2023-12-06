@@ -1,1 +1,1 @@
-export const post = {"id":"9780019632157","slug":"expedita-currus-vae","title":"Ara capitulus sto ago adstringo ager volubilis enim.","text":"Defendo reprehenderit cursim cogito sperno utrimque cultura accendo triumphus angelus. Celer claro aequus. Trepide absum desino dolores cohibeo argentum."}
+export const post = {"id":"9781105068249","slug":"et-vinco-ubi","title":"Suppellex succurro curtus coruscus repellat sufficio amita summa caterva.","text":"Votum suppellex antiquus currus ipsam turpis rerum. Tamdiu aufero aestus tibi comitatus sint totidem. Sto coma corrumpo."}
