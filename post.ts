@@ -1,1 +1,1 @@
-export const post = {"id":"9780499126207","slug":"triumphus-doloribus-usque","title":"Coaegresco coruscus bardus audio.","text":"Subnecto desipio urbanus. Voco suasoria depereo adiuvo blandior. Voro sophismata tego clam soluta tempore paulatim ancilla tubineus vespillo."}
+export const post = {"id":"9780895657862","slug":"sursum-arbustum-voluptate","title":"Venia velit currus.","text":"Depereo vulnus bellicus nam capitulus conduco comminor. Adfero combibo auxilium cognatus depromo aequus molestias cubitum. Aeneus stultus aliqua patrocinor depereo curis."}
