@@ -1,1 +1,1 @@
-export const post = {"id":"9780895657862","slug":"sursum-arbustum-voluptate","title":"Venia velit currus.","text":"Depereo vulnus bellicus nam capitulus conduco comminor. Adfero combibo auxilium cognatus depromo aequus molestias cubitum. Aeneus stultus aliqua patrocinor depereo curis."}
+export const post = {"id":"9780650950375","slug":"via-texo-tribuo","title":"Sint uredo traho ullam quis voco.","text":"Acervus supplanto carcer virga capitulus bestia aurum. Cornu cohibeo adipisci tribuo adficio sursum cum quaerat. Vomica quae delicate cibus trans alveus concido."}
