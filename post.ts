@@ -1,1 +1,1 @@
-export const post = {"id":"9780175657995","slug":"sed-benevolentia-tersus","title":"Voluptas decerno torqueo debitis tactus defetiscor altus admoveo ex tamquam.","text":"Viridis super deludo trans canonicus sono. Spectaculum vulariter ut adsuesco charisma cultura tener. Balbus caries vestigium."}
+export const post = {"id":"9781828449158","slug":"ascit-vel-quisquam","title":"Adversus infit ustulo.","text":"Complectus alius culpa aetas aperiam conforto cruciamentum. Torrens veniam defero accusamus. Provident peior neque vesper delicate."}
