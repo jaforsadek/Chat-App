@@ -1,1 +1,1 @@
-export const post = {"id":"9781811849750","slug":"tepidus-argentum-sequi","title":"Suppono avarus apud voluptate compello desparatus denique strues absconditus celer.","text":"Cubo arbitro coruscus suscipio utrimque crustulum templum deinde conitor. Copiose suscipit certe esse velit soleo. Animi pecus defendo."}
+export const post = {"id":"9780857226181","slug":"clarus-calcar-suppono","title":"Calamitas accendo vito.","text":"Xiphias cunabula officiis creta tempora reiciendis. Cur perferendis tero delego bene creator totus urbanus. Tyrannus sortitus caecus aeger tenetur."}
