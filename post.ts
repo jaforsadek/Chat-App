@@ -1,1 +1,1 @@
-export const post = {"id":"9781075538377","slug":"id-culpo-fugit","title":"Vinum argentum vallum.","text":"Ut voluptate decens adopto voveo. Defetiscor totidem congregatio casso error. Abundans deinde subito adstringo curso tondeo sint vomica."}
+export const post = {"id":"9780175657995","slug":"sed-benevolentia-tersus","title":"Voluptas decerno torqueo debitis tactus defetiscor altus admoveo ex tamquam.","text":"Viridis super deludo trans canonicus sono. Spectaculum vulariter ut adsuesco charisma cultura tener. Balbus caries vestigium."}
