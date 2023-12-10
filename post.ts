@@ -1,1 +1,1 @@
-export const post = {"id":"9780857226181","slug":"clarus-calcar-suppono","title":"Calamitas accendo vito.","text":"Xiphias cunabula officiis creta tempora reiciendis. Cur perferendis tero delego bene creator totus urbanus. Tyrannus sortitus caecus aeger tenetur."}
+export const post = {"id":"9780387247298","slug":"candidus-adeo-soleo","title":"Vulnus enim versus voveo bene adfectus.","text":"Speculum coepi paens tego charisma velociter. Ventito reiciendis tandem creta apparatus error thema occaecati ulciscor. Celer caritas strenuus."}
