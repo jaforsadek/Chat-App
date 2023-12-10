@@ -1,1 +1,1 @@
-export const post = {"id":"9780686928386","slug":"casus-tamquam-videlicet","title":"Caput supra temeritas texo tondeo aestas tersus capitulus.","text":"Tripudio benevolentia tubineus. Audacia sequi combibo velut abstergo talio absorbeo quos paulatim. Asper quos vulticulus."}
+export const post = {"id":"9780079409652","slug":"calamitas-taceo-crapula","title":"Ars paulatim caritas.","text":"Aestus deprimo cribro verbera certe perspiciatis. Aeger aveho attollo. Quam decerno tersus administratio."}
