@@ -1,1 +1,1 @@
-export const post = {"id":"9781826565850","slug":"aequitas-veritatis-labore","title":"Cotidie temptatio claustrum cubo delibero.","text":"Comedo teres vilitas. Suus cariosus thalassinus corrupti adamo ascisco. Sono vinitor antea tunc nihil."}
+export const post = {"id":"9781275555761","slug":"verto-cursus-censura","title":"Vulticulus victus crebro cura cuppedia volubilis.","text":"Demulceo degenero sublime audentia pectus tot cetera trado. Aliqua vos desino cuppedia adsidue alo. Vallum ademptio aestivus doloremque trucido."}
