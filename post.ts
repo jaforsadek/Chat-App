@@ -1,1 +1,1 @@
-export const post = {"id":"9781219405053","slug":"cumque-annus-accusator","title":"Cognomen baiulus timidus.","text":"Deludo contigo verbum crudelis credo aequus tepesco cursim cumque. Somniculosus circumvenio tracto enim. Studio artificiose amaritudo amitto conforto alioqui velit comis stipes."}
+export const post = {"id":"9780496601318","slug":"vinum-stabilis-tactus","title":"Taceo aeternus bardus tonsor.","text":"Decimus itaque demitto cresco tracto. Aureus possimus tutis catena strues. Magni sono colo turba decerno debilito."}
