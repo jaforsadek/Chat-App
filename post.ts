@@ -1,1 +1,1 @@
-export const post = {"id":"9781136958557","slug":"pauper-temporibus-terga","title":"Beatus ait addo.","text":"Vulgo defungo depereo dolorem baiulus averto surgo conor. Bonus argumentum cinis. Ascit aduro dens conicio correptius."}
+export const post = {"id":"9781219405053","slug":"cumque-annus-accusator","title":"Cognomen baiulus timidus.","text":"Deludo contigo verbum crudelis credo aequus tepesco cursim cumque. Somniculosus circumvenio tracto enim. Studio artificiose amaritudo amitto conforto alioqui velit comis stipes."}
