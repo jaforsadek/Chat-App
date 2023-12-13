@@ -1,1 +1,1 @@
-export const post = {"id":"9781675355916","slug":"comparo-ceno-speciosus","title":"Textor et canonicus quod ratione coepi vulticulus vulgaris.","text":"Tergo cur dolorem damno decet utpote veritatis accedo tumultus. Aequitas patrocinor sit admiratio tracto ventus cetera. Apto undique terreo adiuvo cunctatio."}
+export const post = {"id":"9780077530174","slug":"timidus-infit-angulus","title":"Agnitio hic delinquo.","text":"Ante mollitia voluptate substantia baiulus. Tricesimus totus comes voro. Cattus turbo patruus aveho crustulum."}
