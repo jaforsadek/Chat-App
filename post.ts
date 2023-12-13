@@ -1,1 +1,1 @@
-export const post = {"id":"9780496601318","slug":"vinum-stabilis-tactus","title":"Taceo aeternus bardus tonsor.","text":"Decimus itaque demitto cresco tracto. Aureus possimus tutis catena strues. Magni sono colo turba decerno debilito."}
+export const post = {"id":"9781637930533","slug":"stillicidium-tepidus-thymum","title":"Derelinquo vorago quisquam.","text":"Pecto spiculum aeger reprehenderit tutamen tamen clementia. Varius cetera alienus viridis curis aveho amor advoco comminor. Demergo confugo deripio amitto eos vesper taedium speciosus voco."}
