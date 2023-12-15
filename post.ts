@@ -1,1 +1,1 @@
-export const post = {"id":"9781305959460","slug":"vero-ocer-cerno","title":"Pecco paulatim harum antea.","text":"Deputo possimus careo aeternus vestigium. Compono taceo cresco. Coma antepono infit atrocitas cenaculum absens solio."}
+export const post = {"id":"9780766652484","slug":"valeo-adicio-tristis","title":"Allatus tutis sed textilis adfectus ulterius commodo defetiscor demoror antepono.","text":"Uxor adhuc atavus stipes sumo. Sollicito surgo vigor thorax turbo campana. Pariatur administratio tremo decor soluta summa."}
