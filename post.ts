@@ -1,1 +1,1 @@
-export const post = {"id":"9780431234359","slug":"tam-quod-vociferor","title":"Nobis aliqua bestia nulla contabesco aliqua accommodo valeo uterque libero.","text":"Valeo celo concedo collum ante ex stella. Supellex denuo absorbeo tactus. Arceo dapifer solum arcus spoliatio benigne."}
+export const post = {"id":"9780323746960","slug":"brevis-correptius-pectus","title":"Strues vestigium tendo ter vulgivagus caecus.","text":"Assentator cito certus amicitia aetas aeger ait cras quam. Sollicito angulus tergum deleniti vulgus. Minima carcer harum varius vallum amoveo."}
