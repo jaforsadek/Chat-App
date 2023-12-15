@@ -1,1 +1,1 @@
-export const post = {"id":"9781917883818","slug":"capto-verto-patria","title":"Vilitas vulgivagus avarus tolero.","text":"Curtus coniuratio consequuntur ambitus cauda saepe. Terminatio adulescens aedificium adulatio caute. Vel surculus bibo suasoria audentia veritatis ulciscor harum terminatio."}
+export const post = {"id":"9780121350659","slug":"deinde-aedificium-sequi","title":"Cohaero surculus quibusdam.","text":"Cohibeo anser vetus clamo uter. Quas ater super vito turpis itaque celer tepesco. Convoco sonitus incidunt velit aetas deleniti tantum."}
