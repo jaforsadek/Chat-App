@@ -1,1 +1,1 @@
-export const post = {"id":"9780527081980","slug":"aliquam-corrupti-claro","title":"Vestrum comptus statua solutio apostolus absens exercitationem atavus caritas conqueror.","text":"Accedo validus valde. Dedecor viridis angulus animus depono omnis cupiditate. Ver quibusdam atrox vulgaris hic ustulo."}
+export const post = {"id":"9780744778960","slug":"nesciunt-tot-testimonium","title":"Sit amita vulnero cibus viriliter.","text":"Ager urbs architecto explicabo combibo. Adsuesco comis quasi tres. Velit nisi distinctio amoveo."}
