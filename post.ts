@@ -1,1 +1,1 @@
-export const post = {"id":"9780744778960","slug":"nesciunt-tot-testimonium","title":"Sit amita vulnero cibus viriliter.","text":"Ager urbs architecto explicabo combibo. Adsuesco comis quasi tres. Velit nisi distinctio amoveo."}
+export const post = {"id":"9780944771877","slug":"astrum-tertius-comis","title":"Valetudo cunae stella aspernatur vociferor contego.","text":"Delinquo desparatus adaugeo stips pauci. Quaerat verbum annus. Acidus curvo cuius congregatio degero tum conventus."}
