@@ -1,1 +1,1 @@
-export const post = {"id":"9781808751264","slug":"vivo-terga-pectus","title":"Animus deinde aggero alius aetas.","text":"Tardus contra spero reprehenderit contra vallum. Credo assumenda dolore turpis adsuesco catena. Tempore strues amicitia quaerat pecto nisi creator turpis."}
+export const post = {"id":"9780801171956","slug":"absens-taceo-cena","title":"Verus hic suscipio totidem appono solus contego.","text":"Abundans cornu benigne ambitus. Volaticus curatio consequuntur certe ratione. Voluptate adulescens despecto."}
