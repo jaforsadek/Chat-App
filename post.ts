@@ -1,1 +1,1 @@
-export const post = {"id":"9781953301345","slug":"cur-paens-acsi","title":"Desino atqui bestia vulgus.","text":"Cubo patruus amplexus velociter approbo crinis versus valens. Ratione apostolus tabernus coniecto et vilis. Tamquam vinitor tempus sordeo."}
+export const post = {"id":"9781808751264","slug":"vivo-terga-pectus","title":"Animus deinde aggero alius aetas.","text":"Tardus contra spero reprehenderit contra vallum. Credo assumenda dolore turpis adsuesco catena. Tempore strues amicitia quaerat pecto nisi creator turpis."}
