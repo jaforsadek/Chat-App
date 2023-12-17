@@ -1,1 +1,1 @@
-export const post = {"id":"9780801171956","slug":"absens-taceo-cena","title":"Verus hic suscipio totidem appono solus contego.","text":"Abundans cornu benigne ambitus. Volaticus curatio consequuntur certe ratione. Voluptate adulescens despecto."}
+export const post = {"id":"9780507057318","slug":"officiis-adficio-aegrus","title":"Ipsam bene culpa vitium.","text":"Crustulum ocer sublime esse trucido cohors urbs tredecim. Templum aiunt delego tricesimus colligo adhaero cubicularis. Color fuga infit thesis universe consequatur suggero thesaurus calcar saepe."}
