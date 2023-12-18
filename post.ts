@@ -1,1 +1,1 @@
-export const post = {"id":"9780390773296","slug":"vulgivagus-tui-deprimo","title":"Creator ascisco usus canonicus cernuus alius atrocitas cupressus blanditiis.","text":"Crux ulciscor tantum deserunt. Ipsam cornu tenus colligo blandior demum spargo colo reiciendis. Nesciunt ter tergum curriculum sit labore."}
+export const post = {"id":"9780116069726","slug":"vespillo-animus-surgo","title":"Traho trans utilis surculus.","text":"Solitudo denuo pecco spargo cupiditate brevis sumo. Agnosco cohors ab cruentus. Copiose repellat atque conturbo caries aspicio solutio."}
