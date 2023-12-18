@@ -1,1 +1,1 @@
-export const post = {"id":"9780507057318","slug":"officiis-adficio-aegrus","title":"Ipsam bene culpa vitium.","text":"Crustulum ocer sublime esse trucido cohors urbs tredecim. Templum aiunt delego tricesimus colligo adhaero cubicularis. Color fuga infit thesis universe consequatur suggero thesaurus calcar saepe."}
+export const post = {"id":"9780632356478","slug":"turba-crudelis-omnis","title":"Auctus tum conqueror comes cohors comes ars eos cumque.","text":"Corona crepusculum alias verumtamen acies magni voluptates dedecor. Canonicus dolorem cavus. Urbanus totam bos."}
