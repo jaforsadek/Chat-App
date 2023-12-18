@@ -1,1 +1,1 @@
-export const post = {"id":"9781889055787","slug":"architecto-itaque-adstringo","title":"Assentator anser nulla tabula audio verbum absque astrum volubilis civis.","text":"Amplitudo viscus vulticulus. Cuppedia complectus vilicus sumo. Aestus eaque currus aedificium vesper."}
+export const post = {"id":"9780322575714","slug":"avaritia-textus-recusandae","title":"Confido rem sint reprehenderit anser amplexus cupiditas occaecati vere.","text":"Stipes subseco coaegresco repellendus tametsi vindico. Quisquam annus paulatim depopulo. Uterque volup artificiose."}
