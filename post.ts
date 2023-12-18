@@ -1,1 +1,1 @@
-export const post = {"id":"9780116069726","slug":"vespillo-animus-surgo","title":"Traho trans utilis surculus.","text":"Solitudo denuo pecco spargo cupiditate brevis sumo. Agnosco cohors ab cruentus. Copiose repellat atque conturbo caries aspicio solutio."}
+export const post = {"id":"9781889055787","slug":"architecto-itaque-adstringo","title":"Assentator anser nulla tabula audio verbum absque astrum volubilis civis.","text":"Amplitudo viscus vulticulus. Cuppedia complectus vilicus sumo. Aestus eaque currus aedificium vesper."}
