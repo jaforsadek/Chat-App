@@ -1,1 +1,1 @@
-export const post = {"id":"9781017212556","slug":"aro-blandior-clarus","title":"Xiphias depopulo cui studio.","text":"Nemo excepturi caute cultellus totus cumque ambitus auctor. Altus calco tenuis decretum pel. Dicta adfectus dolorum tonsor tamdiu cedo defungo."}
+export const post = {"id":"9780489071791","slug":"speciosus-culpa-verbum","title":"Comitatus clementia dedecor tredecim necessitatibus aggredior.","text":"Conscendo sono ager taceo crebro cruciamentum assentator. Arbustum clementia accusator. Vinitor demonstro titulus vehemens solum coerceo."}
