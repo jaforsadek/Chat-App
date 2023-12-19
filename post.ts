@@ -1,1 +1,1 @@
-export const post = {"id":"9780614147469","slug":"causa-deleo-coerceo","title":"Accommodo carpo toties argentum aetas voluntarius cuppedia aeneus.","text":"Via id arto quo. Creptio voveo sum tamen. Ventosus trado ante caelestis ars depulso blanditiis."}
+export const post = {"id":"9780618146536","slug":"cum-dolorum-tabernus","title":"Curso cupio caste tempus tamdiu victus dolore unus porro.","text":"Vobis curo distinctio viscus derideo. Virga beatus quos calco adduco. Thalassinus ceno calcar tersus tutamen."}
