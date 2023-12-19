@@ -1,1 +1,1 @@
-export const post = {"id":"9780618146536","slug":"cum-dolorum-tabernus","title":"Curso cupio caste tempus tamdiu victus dolore unus porro.","text":"Vobis curo distinctio viscus derideo. Virga beatus quos calco adduco. Thalassinus ceno calcar tersus tutamen."}
+export const post = {"id":"9781017212556","slug":"aro-blandior-clarus","title":"Xiphias depopulo cui studio.","text":"Nemo excepturi caute cultellus totus cumque ambitus auctor. Altus calco tenuis decretum pel. Dicta adfectus dolorum tonsor tamdiu cedo defungo."}
