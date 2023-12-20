@@ -1,1 +1,1 @@
-export const post = {"id":"9780724392667","slug":"voluntarius-vir-supplanto","title":"Crudelis approbo contra antiquus ultra accommodo abduco eius.","text":"Triumphus pel cinis. Vester desparatus curatio crapula amitto vulgivagus cubicularis. Cognomen verbum sponte succurro vespillo."}
+export const post = {"id":"9781414167619","slug":"cernuus-urbanus-cum","title":"Arceo defaeco voro.","text":"Tardus umquam arca surculus alias commemoro corporis. Dapifer denuncio delicate. Aggero valde tui attonbitus communis vigor dens subnecto."}
