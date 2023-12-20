@@ -1,1 +1,1 @@
-export const post = {"id":"9781271182794","slug":"audax-argentum-aestus","title":"Sonitus sulum casso.","text":"Bestia repellat iusto officiis adeo cibus. Modi caecus aequitas. Combibo tergum conqueror in sono adeo animadverto."}
+export const post = {"id":"9780422731881","slug":"despecto-quo-apto","title":"Reprehenderit delinquo arbitro.","text":"Alias ait demergo canto sunt appello supra. Somnus armarium dedico utrimque tibi. Theatrum vilis defero velum damnatio vinitor adipisci templum tres."}
