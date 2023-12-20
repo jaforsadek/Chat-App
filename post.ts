@@ -1,1 +1,1 @@
-export const post = {"id":"9780489071791","slug":"speciosus-culpa-verbum","title":"Comitatus clementia dedecor tredecim necessitatibus aggredior.","text":"Conscendo sono ager taceo crebro cruciamentum assentator. Arbustum clementia accusator. Vinitor demonstro titulus vehemens solum coerceo."}
+export const post = {"id":"9780724392667","slug":"voluntarius-vir-supplanto","title":"Crudelis approbo contra antiquus ultra accommodo abduco eius.","text":"Triumphus pel cinis. Vester desparatus curatio crapula amitto vulgivagus cubicularis. Cognomen verbum sponte succurro vespillo."}
