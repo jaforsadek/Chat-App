@@ -1,1 +1,1 @@
-export const post = {"id":"9781465611871","slug":"defluo-versus-incidunt","title":"Assentator advoco consuasor atqui totus turpis depereo cur.","text":"Temptatio volutabrum dolores ut amoveo annus varius. Vestrum usus campana subiungo aufero pecco aliqua ventito cilicium pauper. Denego quod caute tremo corpus cunae."}
+export const post = {"id":"9781724122070","slug":"attonbitus-eum-amicitia","title":"Cupiditas ascit deleo speciosus temperantia.","text":"Animus adsum appositus inflammatio arx cilicium aeger. Sortitus clam corrigo. Eos barba volubilis."}
