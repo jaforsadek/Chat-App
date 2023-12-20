@@ -1,1 +1,1 @@
-export const post = {"id":"9781414167619","slug":"cernuus-urbanus-cum","title":"Arceo defaeco voro.","text":"Tardus umquam arca surculus alias commemoro corporis. Dapifer denuncio delicate. Aggero valde tui attonbitus communis vigor dens subnecto."}
+export const post = {"id":"9781411961944","slug":"provident-curto-attonbitus","title":"Laborum decumbo quia hic dedico tenuis capio aegrotatio.","text":"Advenio cinis ambulo accusamus amita cursim vobis via. Ager audax nihil expedita uter aptus confero sollicito. Rem ipsam vir desino audio deserunt quae cariosus aufero arma."}
