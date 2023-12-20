@@ -1,1 +1,1 @@
-export const post = {"id":"9781724122070","slug":"attonbitus-eum-amicitia","title":"Cupiditas ascit deleo speciosus temperantia.","text":"Animus adsum appositus inflammatio arx cilicium aeger. Sortitus clam corrigo. Eos barba volubilis."}
+export const post = {"id":"9781519353566","slug":"super-addo-nisi","title":"Ventito arguo solio.","text":"Venia vulticulus undique tui curia possimus usitas cimentarius tepesco. Demo theatrum debitis versus victus thesaurus caveo pauci sit. Adfectus explicabo consuasor super tollo abduco admoneo."}
