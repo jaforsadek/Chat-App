@@ -1,1 +1,1 @@
-export const post = {"id":"9780994147554","slug":"abutor-derelinquo-acervus","title":"Accusator congregatio defetiscor suasoria degero.","text":"Demonstro alius vitium deprecator amiculum. Adicio vito sumptus ipsam ustilo. Suus illum curto audio cultellus artificiose repellat comminor."}
+export const post = {"id":"9780419499473","slug":"dolor-nulla-apud","title":"Amplus accedo uterque vulnero.","text":"Patior aperte depulso turbo decor. Demitto barba sui cruentus usus voveo recusandae. Perspiciatis confido verumtamen depraedor patrocinor terminatio."}
