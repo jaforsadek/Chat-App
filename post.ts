@@ -1,1 +1,1 @@
-export const post = {"id":"9780694745111","slug":"adeptio-et-carcer","title":"Supplanto verumtamen thymum.","text":"Vorax suffoco autus voro cattus auctus defero compello. Tepidus aperte curiositas venia virtus. Desidero vos vulnus."}
+export const post = {"id":"9780861484164","slug":"comis-expedita-arx","title":"Vobis aetas vulnero balbus a turba officia excepturi conforto contra.","text":"Villa ut tonsor solvo derelinquo tersus animadverto quidem advenio. Arceo delego culpo vix celo dedecor contabesco. Caries comburo statim demulceo comburo comburo acerbitas."}
