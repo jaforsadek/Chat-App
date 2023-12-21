@@ -1,1 +1,1 @@
-export const post = {"id":"9780324881578","slug":"teres-commemoro-arceo","title":"Victoria urbs confido.","text":"Aedificium color voluptatem deporto dedico beneficium sodalitas triduana victoria. Suffragium quis curo. Labore volubilis absens congregatio summopere sumo veritatis aeger."}
+export const post = {"id":"9781319605636","slug":"candidus-sursum-surculus","title":"Demergo valeo pariatur consequuntur placeat adiuvo apud.","text":"Amet defessus vicissitudo calculus communis autus amplus. Terra ambitus tardus assentator. Tamisium bellicus adhaero vilis approbo."}
