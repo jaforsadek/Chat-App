@@ -1,1 +1,1 @@
-export const post = {"id":"9780380703692","slug":"cubitum-iusto-ulterius","title":"Laudantium admitto atqui celer attollo confero.","text":"Canis coma labore commodi solum tepidus appello demens territo. Vesper virga ullus enim aro quae adimpleo arx aliquam. Triduana somnus tergiversatio aufero utroque."}
+export const post = {"id":"9781975656232","slug":"bis-taceo-crinis","title":"Amiculum acer totam.","text":"Ustulo tot atavus callide hic harum studio adversus teres complectus. Appono vetus tener tui conduco repellat. Soleo compono crustulum earum."}
