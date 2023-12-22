@@ -1,1 +1,1 @@
-export const post = {"id":"9781372885587","slug":"commodo-perspiciatis-ars","title":"Virtus crepusculum derelinquo.","text":"Ullam urbs venustas. Sum usitas suscipit venustas certe vulpes tui conturbo. Pecto vulgo ascisco arx beatae totidem suppono considero."}
+export const post = {"id":"9780253153678","slug":"admitto-abbas-dedecor","title":"Turba ratione claudeo territo cornu deprimo atque solutio subvenio.","text":"Vivo culpo acerbitas claustrum aeger auxilium. Vulticulus sumptus baiulus esse amplitudo accommodo. Aveho tenax auxilium tardus cado."}
