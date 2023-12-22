@@ -1,1 +1,1 @@
-export const post = {"id":"9781975656232","slug":"bis-taceo-crinis","title":"Amiculum acer totam.","text":"Ustulo tot atavus callide hic harum studio adversus teres complectus. Appono vetus tener tui conduco repellat. Soleo compono crustulum earum."}
+export const post = {"id":"9780853906179","slug":"aveho-patria-vaco","title":"Bis solutio conspergo ducimus terreo.","text":"Curatio arbitro rerum amplus vesco velit vapulus eos. Suffoco attollo coma video adhaero allatus victoria spiculum theatrum. Benigne depopulo substantia rerum quaerat validus ipsam cupressus vereor."}
