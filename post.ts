@@ -1,1 +1,1 @@
-export const post = {"id":"9780733460876","slug":"amitto-officia-urbanus","title":"Confero confido calco ulterius sapiente vero qui vitiosus venia.","text":"Sursum excepturi tamdiu. Coaegresco creo viriliter cometes admitto thema. Accusamus iure quam in sufficio solio."}
+export const post = {"id":"9780406110633","slug":"culpo-surgo-volutabrum","title":"Consectetur utilis curto crepusculum tutis ulterius minima.","text":"Dens soleo deprimo coma cervus dicta cuius peccatus vallum maiores. Debeo vereor dens vesica fuga tutamen. Patior civis termes."}
