@@ -1,1 +1,1 @@
-export const post = {"id":"9780092594649","slug":"atrox-demonstro-cuius","title":"Taedium territo concido desparatus harum provident voluptatibus supra.","text":"Cunae corpus aliqua spiritus omnis tepesco. Canto unus sol centum deporto animadverto. Cunctatio utilis viscus curo amoveo sum culpa velut."}
+export const post = {"id":"9781947350021","slug":"utroque-tenax-conduco","title":"Iste caritas tener.","text":"Velum vicissitudo vulgaris. Terga civitas animadverto certe speculum. Ducimus calculus suscipit ara."}
