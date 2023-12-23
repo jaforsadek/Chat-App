@@ -1,1 +1,1 @@
-export const post = {"id":"9781947350021","slug":"utroque-tenax-conduco","title":"Iste caritas tener.","text":"Velum vicissitudo vulgaris. Terga civitas animadverto certe speculum. Ducimus calculus suscipit ara."}
+export const post = {"id":"9781180419981","slug":"perferendis-comminor-comburo","title":"Abduco umbra tredecim vado pecus accendo amita sui virgo bibo.","text":"Aetas calco nesciunt amor vulariter adfectus. Molestiae aurum pecto viscus. Infit cornu exercitationem uxor arceo tyrannus averto cur cena dolore."}
