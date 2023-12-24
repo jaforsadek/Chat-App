@@ -1,1 +1,1 @@
-export const post = {"id":"9781686150906","slug":"deputo-combibo-corporis","title":"Adsum amplitudo urbanus claudeo esse.","text":"Deputo curiositas cohaero cohibeo adversus. Colligo umbra cursus armarium cauda. Demonstro vis altus clarus repudiandae vilitas desino."}
+export const post = {"id":"9781124255293","slug":"deorsum-assumenda-tamen","title":"Damno despecto iusto clarus.","text":"Tonsor utor basium subvenio absens uterque delego. Fugit tonsor defero vorax defluo crastinus turba. Conduco numquam quidem constans usitas modi ara tantum."}
