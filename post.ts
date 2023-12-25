@@ -1,1 +1,1 @@
-export const post = {"id":"9781338584394","slug":"cena-adfero-approbo","title":"Aufero cui antiquus aliqua derelinquo contabesco.","text":"Aperio decet creber tamen compono tum. Adsuesco creta vehemens communis. Ventus sequi congregatio caveo volutabrum vigor."}
+export const post = {"id":"9781240354542","slug":"aurum-attero-ustulo","title":"Accusantium eum delectus turbo creber decet turbo vestrum adaugeo.","text":"Arcesso conculco crux volaticus paulatim maxime clamo tui. Desipio calcar alienus verumtamen perferendis. Commodo tenuis ait eos."}
