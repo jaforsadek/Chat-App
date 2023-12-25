@@ -1,1 +1,1 @@
-export const post = {"id":"9781721106400","slug":"cui-sopor-basium","title":"Aeger sponte astrum bos aestivus sufficio caries.","text":"Cumque comburo in. Spiritus fuga trans ipsa. Calco vomica abutor."}
+export const post = {"id":"9780596196028","slug":"stella-auctor-tenuis","title":"Volva traho atrox thorax decipio tot altus conatus suscipit.","text":"Assentator perferendis modi terror. Tyrannus esse subseco tubineus desino acquiro. Cohaero curis conitor vinitor conitor illo aegrus vesica tempore."}
