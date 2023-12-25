@@ -1,1 +1,1 @@
-export const post = {"id":"9781052203816","slug":"tergeo-speciosus-spectaculum","title":"Rem harum adipisci aequus.","text":"Comes deludo thermae cupiditate deinde coaegresco summa. Praesentium urbs aiunt aurum vetus arceo alveus calculus aperte. Victoria corrumpo cogo varius deleniti assentator minima virga."}
+export const post = {"id":"9781338584394","slug":"cena-adfero-approbo","title":"Aufero cui antiquus aliqua derelinquo contabesco.","text":"Aperio decet creber tamen compono tum. Adsuesco creta vehemens communis. Ventus sequi congregatio caveo volutabrum vigor."}
