@@ -1,1 +1,1 @@
-export const post = {"id":"9780162622500","slug":"arbor-constans-coniuratio","title":"Inflammatio voluptas ulterius autem.","text":"Spiritus patria suffoco. Vereor delinquo nesciunt. Arx voluntarius depulso vorago."}
+export const post = {"id":"9781220749832","slug":"varius-sortitus-expedita","title":"Aqua annus adipiscor cinis acervus vorax clamo alius voluptate.","text":"Patria quasi cunabula nobis quia. Suscipio territo artificiose. Demoror commodo non veritatis deprimo."}
