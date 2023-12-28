@@ -1,1 +1,1 @@
-export const post = {"id":"9781430367345","slug":"aestus-adnuo-civis","title":"In curto claudeo arbitro.","text":"Suscipit nihil crur. Viscus denique vae. Umquam nulla inflammatio vado subiungo solus amaritudo coruscus bos thymum."}
+export const post = {"id":"9781831634305","slug":"dedecor-triumphus-thesis","title":"Addo ver natus vigor calamitas cubo trado.","text":"Cruciamentum tollo demum. Arx vinco sint. Quod villa suus."}
