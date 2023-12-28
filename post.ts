@@ -1,1 +1,1 @@
-export const post = {"id":"9781949271119","slug":"cur-traho-facilis","title":"Aperte cauda ocer.","text":"Officia debilito demum supra sumo cras viduo avaritia. Audax absorbeo uredo turba caelestis. Cruciamentum torrens depulso velit."}
+export const post = {"id":"9780877201854","slug":"tremo-adsum-aestas","title":"Textus dolorem sollicito curis suffoco creptio delinquo bonus.","text":"Adsuesco utrum tepidus cito conduco. Acsi culpo vix nisi bene creta. Summisse eveniet adsidue sto crur sol vester."}
