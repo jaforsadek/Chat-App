@@ -1,1 +1,1 @@
-export const post = {"id":"9780877201854","slug":"tremo-adsum-aestas","title":"Textus dolorem sollicito curis suffoco creptio delinquo bonus.","text":"Adsuesco utrum tepidus cito conduco. Acsi culpo vix nisi bene creta. Summisse eveniet adsidue sto crur sol vester."}
+export const post = {"id":"9781430367345","slug":"aestus-adnuo-civis","title":"In curto claudeo arbitro.","text":"Suscipit nihil crur. Viscus denique vae. Umquam nulla inflammatio vado subiungo solus amaritudo coruscus bos thymum."}
