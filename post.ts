@@ -1,1 +1,1 @@
-export const post = {"id":"9781932729146","slug":"tremo-delicate-claro","title":"Sumptus cursus speciosus utpote voluptate accusamus.","text":"Caput cedo dolorem. Veritas arma adsuesco. Architecto studio apostolus adiuvo socius."}
+export const post = {"id":"9781452398006","slug":"aliquam-taedium-cupiditate","title":"Antepono crapula ulterius vapulus acer umerus approbo spes.","text":"Adimpleo ipsum delinquo conduco cervus aut convoco commemoro. Tabgo spiritus caecus sodalitas turpis officia verecundia pauci. Confugo balbus cur peior turbo defluo timor."}
