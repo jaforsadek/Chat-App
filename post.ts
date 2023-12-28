@@ -1,1 +1,1 @@
-export const post = {"id":"9781452398006","slug":"aliquam-taedium-cupiditate","title":"Antepono crapula ulterius vapulus acer umerus approbo spes.","text":"Adimpleo ipsum delinquo conduco cervus aut convoco commemoro. Tabgo spiritus caecus sodalitas turpis officia verecundia pauci. Confugo balbus cur peior turbo defluo timor."}
+export const post = {"id":"9781949271119","slug":"cur-traho-facilis","title":"Aperte cauda ocer.","text":"Officia debilito demum supra sumo cras viduo avaritia. Audax absorbeo uredo turba caelestis. Cruciamentum torrens depulso velit."}
