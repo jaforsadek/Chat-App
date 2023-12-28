@@ -1,1 +1,1 @@
-export const post = {"id":"9781831634305","slug":"dedecor-triumphus-thesis","title":"Addo ver natus vigor calamitas cubo trado.","text":"Cruciamentum tollo demum. Arx vinco sint. Quod villa suus."}
+export const post = {"id":"9781497107540","slug":"defetiscor-adflicto-mollitia","title":"Tepidus aptus certe quis similique denuo repellendus volup theatrum.","text":"Denuo laudantium tristis undique ancilla aperiam catena. Quod voluptas universe decretum adhuc. Caput terra cupiditate super adeptio concedo concido beatae adaugeo somnus."}
