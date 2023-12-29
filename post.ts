@@ -1,1 +1,1 @@
-export const post = {"id":"9781628499476","slug":"verbum-contra-corona","title":"Ullam corpus trans quasi bene cauda tam.","text":"Consectetur tego laboriosam cernuus nulla ventito color. Corrupti agnosco cicuta traho admoveo vulgo. Quia complectus id patruus creta torrens."}
+export const post = {"id":"9780657692810","slug":"adulatio-appositus-vox","title":"Solutio aurum alii assumenda sollicito.","text":"Quod catena non cunabula capillus despecto adsum degusto. Adhuc carcer catena cedo admoveo temptatio earum. Asporto cursus vir theologus cibus."}
