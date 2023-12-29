@@ -1,1 +1,1 @@
-export const post = {"id":"9780657692810","slug":"adulatio-appositus-vox","title":"Solutio aurum alii assumenda sollicito.","text":"Quod catena non cunabula capillus despecto adsum degusto. Adhuc carcer catena cedo admoveo temptatio earum. Asporto cursus vir theologus cibus."}
+export const post = {"id":"9781635988888","slug":"bellicus-accommodo-illo","title":"Cibus delectatio cognatus arma adflicto voveo utique.","text":"Strenuus crur nobis mollitia ex. Antea templum traho. Vigilo communis vir theatrum cognomen vinum umquam truculenter tubineus artificiose."}
