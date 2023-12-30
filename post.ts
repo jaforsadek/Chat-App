@@ -1,1 +1,1 @@
-export const post = {"id":"9780933697102","slug":"sortitus-cicuta-advenio","title":"Comburo cui crinis in inventore testimonium perferendis.","text":"Coepi amet benigne caveo. Spoliatio arto stipes condico. Antepono spero tergeo combibo."}
+export const post = {"id":"9781063710396","slug":"odit-antiquus-tyrannus","title":"Sulum cinis aggredior.","text":"Cursus socius sophismata titulus coniecto uxor aufero. Capitulus theologus desidero velociter abutor curia carus similique. Sustineo cohibeo commodo voluptatum adipiscor cimentarius."}
