@@ -1,1 +1,1 @@
-export const post = {"id":"9780302673355","slug":"minus-cunabula-nostrum","title":"Patruus facilis solus amiculum audio.","text":"Tego vallum clementia. Depono consuasor clibanus aufero numquam audacia alter laborum vulgus. Tutis tantillus tracto spectaculum patruus."}
+export const post = {"id":"9781076624697","slug":"tollo-pecto-amitto","title":"Aspernatur cometes cernuus beneficium vallum amitto voluptates deputo neque cicuta.","text":"Laborum abstergo suffragium virgo. Valetudo basium adaugeo sumo odit vis. A depromo laborum vel calculus depulso cervus voro."}
