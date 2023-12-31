@@ -1,1 +1,1 @@
-export const post = {"id":"9780174973775","slug":"audax-comminor-consequuntur","title":"Atavus tempore deludo constans.","text":"Adaugeo illo aegrotatio atque adnuo audax voro aut nemo aliqua. Canto cornu curriculum. Omnis versus hic."}
+export const post = {"id":"9780302673355","slug":"minus-cunabula-nostrum","title":"Patruus facilis solus amiculum audio.","text":"Tego vallum clementia. Depono consuasor clibanus aufero numquam audacia alter laborum vulgus. Tutis tantillus tracto spectaculum patruus."}
