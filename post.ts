@@ -1,1 +1,1 @@
-export const post = {"id":"9780040266772","slug":"aliqua-corporis-pax","title":"Bardus quae demum appositus.","text":"Vomica arbitro verbum ultra absorbeo velit at. Talus advoco colo una argentum astrum abutor suscipio ustulo. Facilis thorax sapiente."}
+export const post = {"id":"9780992519438","slug":"sponte-barba-vitiosus","title":"Talus adulatio aequus repellat volup.","text":"Auctor caterva cornu combibo comes canonicus aro. Quis admoneo amo. Aduro truculenter supplanto voluptatibus adimpleo vulariter curiositas pecus."}
