@@ -1,1 +1,1 @@
-export const post = {"id":"9781467864619","slug":"adhaero-cui-adeo","title":"Temptatio valens creber somnus unus suscipio.","text":"Stipes pectus cado aeneus. Solio totus amaritudo coaegresco venia. Ultra abeo vis contego coniecto claro quam talus adnuo vel."}
+export const post = {"id":"9780040266772","slug":"aliqua-corporis-pax","title":"Bardus quae demum appositus.","text":"Vomica arbitro verbum ultra absorbeo velit at. Talus advoco colo una argentum astrum abutor suscipio ustulo. Facilis thorax sapiente."}
