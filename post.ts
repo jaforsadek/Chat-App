@@ -1,1 +1,1 @@
-export const post = {"id":"9780104604687","slug":"vereor-vaco-laborum","title":"Callide venustas asporto curia deputo articulus iusto tui.","text":"Neque paens claro super despecto infit clam deludo. Cohors tamisium tempus torqueo patrocinor copiose. Bis rerum viriliter spes sursum."}
+export const post = {"id":"9780174973775","slug":"audax-comminor-consequuntur","title":"Atavus tempore deludo constans.","text":"Adaugeo illo aegrotatio atque adnuo audax voro aut nemo aliqua. Canto cornu curriculum. Omnis versus hic."}
